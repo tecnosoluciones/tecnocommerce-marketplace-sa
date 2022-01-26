@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Project-Id-Version: Analytify for Campaigns\n"
+"POT-Creation-Date: 2019-01-01 11:01+0500\n"
+"PO-Revision-Date: 2021-03-08 09:59-0500\n"
+"Last-Translator: \n"
+"Language-Team: Español\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wp-analytify-campaigns.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: es_ES\n"
+"X-Loco-Version: 2.5.1; wp-5.6.2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: class-campaings.php:42 class-campaings.php:62 class-campaings.php:293
+msgid "Campaigns"
+msgstr "Campañas"
+
+#: class-campaings.php:142
+msgid "Campaigns (License Key):"
+msgstr "Campañas (clave de licencia):"
+
+#: class-campaings.php:158
+msgid "Activate License"
+msgstr "Activar licencia"
+
+#: inc/content-campaigns.php:41
+msgid "You don't have access to Analytify Campaing Dashboard."
+msgstr "No tienes acceso a Analytify Campaing Dashboard."
+
+#: inc/content-campaigns.php:80
+msgid "Campaigns Statistics"
+msgstr "Estadísticas de campañas"
+
+#: inc/content-campaigns.php:89
+#, php-format
+msgid "You are running %1$s Campaigns in total."
+msgstr "Está ejecutando campañas de %1$s en total."
+
+#: inc/content-campaigns.php:177
+msgid "You must be authenticate to see the Analytics Campaigns Dashboard."
+msgstr "Debe autenticarse para ver el Panel de campañas de Analytics."
+
+#: inc/page-campaigns.php:15
+msgid "Campaigns Dashboard"
+msgstr "Panel de campañas"
+
+#: inc/page-campaigns.php:36
+msgid "Get PRO Version!"
+msgstr "Obtener la versión PRO!"
+
+#: inc/page-campaigns.php:37
+msgid "Impressed ?"
+msgstr "¿Impresionado?"
+
+#: inc/page-campaigns.php:37
+msgid "This feature is limited to PRO users only."
+msgstr "Esta característica se limita únicamente a los usuarios de PRO."
+
+#: inc/page-campaigns.php:37
+msgid "Click here to see the details"
+msgstr "Haga clic aquí para ver los detalles"
+
+#: views/campaign-stats.php:43
+msgid "New Users"
+msgstr "Nuevos usuarios"
+
+#: views/campaign-stats.php:71
+msgid "Pages / Session"
+msgstr "Páginas / sesión"
+
+#: views/campaign-stats.php:73
+msgid "Avg. Session duration"
+msgstr "Duración de la sesión promedio"
+
+#: views/campaign-stats.php:84
+msgid "No Campaigns."
+msgstr "Sin campañas."
+
+#: wp-analytify-campaigns.php:43
+msgid "oops! Please Install Analytify Pro."
+msgstr "¡Oops! Por favor, instale Analytify Pro."
+
+#: wp-analytify-campaigns.php:50
+msgid "oops! Please active Analytify Pro."
+msgstr "¡Oops! Por favor activa Analytify Pro."
+
+#. Plugin Name of the plugin/theme
+msgid "Analytify for Campaigns"
+msgstr "Analytify para campañas"
+
+#. Plugin URI of the plugin/theme
+msgid "http://analytify.io/"
+msgstr "http://analytify.io/"
+
+#. Description of the plugin/theme
+msgid ""
+"Everyone runs campaigns through social media or create backlinks. This add-"
+"on helps you to show your campaigns stats in a beautiful dashboard."
+msgstr ""
+"Todo el mundo realiza campañas a través de las redes sociales o crea "
+"backlinks. Este complemento te ayuda a mostrar las estadísticas de tus "
+"campañas en un hermoso panel."
+
+#. Author of the plugin/theme
+msgid "Adnan"
+msgstr "Adnan"
+
+#. Author URI of the plugin/theme
+msgid "http://adnan.pk/"
+msgstr "http://adnan.pk/"

@@ -1,0 +1,99 @@
+# Translation of Plugins - WordPress Real Media Library: Media Library Folder &amp; File Manager - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - WordPress Real Media Library: Media Library Folder &amp; File Manager - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-11-24 18:43:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - WordPress Real Media Library: Media Library Folder &amp; File Manager - Development (trunk)\n"
+
+#. translators:
+#: inc/attachment/CustomField.php:137
+msgid "For this file is %d shortcut available in the following folder:"
+msgid_plural "For this file are %d shortcuts available in the following folders:"
+msgstr[0] "Para este archivo hay %d atajo disponible en la siguiente carpeta:"
+msgstr[1] "Para este archivo hay %d atajos disponibles en las siguientes carpetas:"
+
+#: inc/view/Lang.php:73
+msgid "Ok"
+msgstr "Aceptar"
+
+#. Plugin Name of the plugin
+msgid "Real Media Library (Free)"
+msgstr "Real Media Library (Free)"
+
+#: inc/view/Lang.php:56
+msgid "You cannot *insert* new files. New files will be moved to Unorganized…"
+msgstr "No puedes *insertar* nuevos archivos. Los nuevos archivos se moverán a «Desorganizado»..."
+
+#: inc/view/Lang.php:84
+msgid "Renaming to *{name}*…"
+msgstr "Renombrar a *{name}*..."
+
+#: inc/view/Lang.php:86
+msgid "Creating *{name}*…"
+msgstr "Creando *{name}*..."
+
+#: inc/view/Lang.php:89
+msgid "Deleting *{name}*…"
+msgstr "Borrando *{name}*..."
+
+#: inc/view/Lang.php:95
+msgid "Reorder subfolders of *{name}*…"
+msgstr "Reordenar las subcarpetas de *{name}*..."
+
+#: inc/view/Lang.php:96
+msgid "{count} files remaining…"
+msgstr "Quedan {count} archivos..."
+
+#: inc/view/Lang.php:97
+msgid "Receiving data…"
+msgstr "Recibiendo los datos..."
+
+#: inc/view/Lang.php:108
+msgid "A collection cannot contain files. Upload moved to Unorganized…"
+msgstr "Una colección no puede contener archivos. La subida se ha movido a «Desorganizado»..."
+
+#: inc/view/Lang.php:110
+msgid "Order content by *{name}*…"
+msgstr "Ordenar el contenido por *{name}*..."
+
+#: inc/view/Lang.php:113
+msgid "Apply order once…"
+msgstr "Aplicar el orden una vez..."
+
+#: inc/view/Lang.php:116
+msgid "Apply automatic order…"
+msgstr "Aplicar el orden automático..."
+
+#: inc/view/Lang.php:126
+msgid "Moving {count} files…"
+msgstr "Moviendo {count} archivos..."
+
+#: inc/view/Lang.php:127
+msgid "Moving one file…"
+msgstr "Moviendo un archivo..."
+
+#: inc/view/Lang.php:128
+msgid "Copying {count} files…"
+msgstr "Copiando {count} archivos..."
+
+#: inc/view/Lang.php:129
+msgid "Copying one file…"
+msgstr "Copiando un archivo..."
+
+#: inc/view/Lang.php:159
+msgid "Start to reorder the files / images by *title, filename, ID, …*"
+msgstr "Empieza a reordenar los archivos / imágenes por *título, nombre de archivo, ID, ...*"
+
+#: inc/view/Lang.php:93
+msgid "Reordering the tree hierarchy…"
+msgstr "Reordenando la jerarquía de árbol..."
+
+#: inc/view/Lang.php:109
+msgid "A gallery can only contain images. Upload moved to Unorganized…"
+msgstr "Una galería solo puede contener imágenes. Lo subido se ha movido a «Desorganizado»..."

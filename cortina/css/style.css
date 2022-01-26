@@ -1,0 +1,132 @@
+body{margin:0;padding:0;}
+
+div.divHeader{
+    background: url('../images/bgHeader.jpg') repeat-x center top;
+    height: 129px;    
+}
+
+div.header{
+    margin:0 auto;
+    width: 980px;
+    height: 129px;
+    text-align: center;  
+}
+
+div.divContent{
+    background: url('../images/bgContenido.jpg') no-repeat center top;
+    margin:0 auto;
+    width: 980px;
+    height: 580px;
+    text-align: center;
+}
+
+div.cliente{
+    padding: 195px 0px 90px 0px;
+    color: #15296c;
+}
+
+div.divFooter{
+    background: url('../images/bgFooter.jpg') repeat-x center top;
+    height: 69px;
+    text-align: center; 
+}
+
+div.divService{
+    background: url('../images/bgService.jpg') no-repeat center top; 
+    width: 954px; 
+    height: 110px;
+    margin: 0 auto;
+}
+
+div.divService ul{
+    margin: 0 auto;
+    padding: 15px 0px 0px 0px;
+    height: 40px;
+    width: 905px;
+}
+
+div.descripcion{
+    height: 55px;
+}
+
+div.divService ul li{
+    font-size: 0px;
+    text-decoration: none;
+    list-style: none;
+    margin: 0px 12px 0px 12px;
+    float: left;
+    width: 29px;
+    height: 29px;
+}
+
+div.divService ul li a{
+    width: 29px;
+    height: 29px;
+    display: block;
+}
+
+div.divService ul li:hover{ cursor:pointer; }
+div.divService ul li{ background: url('../images/icons_service.jpg') no-repeat;}
+
+div.divService ul li#l1{ background-position: 0px 0px; }
+div.divService ul li#l2{ background-position: -53px 0px; }
+div.divService ul li#l3{ background-position: -106px 0px; }
+div.divService ul li#l4{ background-position: -158px 0px; }
+div.divService ul li#l5{ background-position: -210px 0px; }
+div.divService ul li#l6{ background-position: -263px 0px; }
+div.divService ul li#l7{ background-position: -316px 0px; }
+div.divService ul li#l8{ background-position: -368px 0px; }
+div.divService ul li#l9{ background-position: -421px 0px; }
+div.divService ul li#l10{ background-position: -473px 0px; }
+div.divService ul li#l11{ background-position: -526px 0px; }
+div.divService ul li#l12{ background-position: -579px 0px; }
+div.divService ul li#l14{ background-position: -684px 0px; }
+div.divService ul li#l15{ background-position: -736px 0px; }
+div.divService ul li#l16{ background-position: -789px 0px; }
+div.divService ul li#l17{ background-position: -842px 0px; }
+div.divService ul li#l18{ background-position: -894px 0px; }
+
+div.divService ul li#l1:hover{ background-position: 0px -29px; }
+div.divService ul li#l2:hover{ background-position: -53px -29px; }
+div.divService ul li#l3:hover{ background-position: -106px -29px; }
+div.divService ul li#l4:hover{ background-position: -158px -29px; }
+div.divService ul li#l5:hover{ background-position: -210px -29px; }
+div.divService ul li#l6:hover{ background-position: -263px -29px; }
+div.divService ul li#l7:hover{ background-position: -316px -29px; }
+div.divService ul li#l8:hover{ background-position: -368px -29px; }
+div.divService ul li#l9:hover{ background-position: -421px -29px; }
+div.divService ul li#l10:hover{ background-position: -473px -29px; }
+div.divService ul li#l11:hover{ background-position: -526px -29px; }
+div.divService ul li#l12:hover{ background-position: -579px -29px; }
+div.divService ul li#l14:hover{ background-position: -684px -29px; }
+div.divService ul li#l15:hover{ background-position: -736px -29px; }
+div.divService ul li#l16:hover{ background-position: -789px -29px; }
+div.divService ul li#l17:hover{ background-position: -842px -29px; }
+div.divService ul li#l18:hover{ background-position: -894px -29px; }
+
+div.divContacto{
+    margin: 0 auto;
+    width: 480px;
+    height: 48px;
+    line-height: 50px;
+    font-family: Istok Web;
+    font-size: 18px;
+}
+
+div.divContacto a{
+     color: #5590ea;
+     text-decoration: none;
+}
+
+div.divFooter{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 9999; 
+    width: 100%;
+}
+
+div.footer img{
+    position: relative;
+    top: -17px;
+}

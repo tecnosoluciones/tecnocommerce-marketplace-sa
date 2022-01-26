@@ -1,0 +1,804 @@
+.country-select .flag {
+	width: 16px;
+	height: 11px;
+	background: url("../images/flags.png")
+}
+
+.country-select .flag {
+	width: 16px;
+	height: 11px;
+	background: url("../images/flags.png")
+}
+.country-select .zw{background-position:0 0}
+.country-select .zm{background-position:-16px 0}
+.country-select .za{background-position:0 -11px}
+.country-select .yt{background-position:-16px -11px}
+.country-select .ye{background-position:-32px 0}
+.country-select .ws{background-position:-32px -11px}
+.country-select .wf{background-position:0 -22px}
+.country-select .vu{background-position:-32px -22px}
+.country-select .vn{background-position:0 -33px}
+.country-select .vi{background-position:-16px -33px}
+.country-select .vg{background-position:-32px -33px}
+.country-select .ve{background-position:-48px 0}
+.country-select .vc{background-position:-48px -11px}
+.country-select .va{background-position:-48px -22px}
+.country-select .uz{background-position:-48px -33px}
+.country-select .uy{background-position:0 -44px}
+.country-select .us{background-position:-16px -44px}
+.country-select .um{background-position:-16px -44px}
+.country-select .ug{background-position:-32px -44px}
+.country-select .ua{background-position:-48px -44px}
+.country-select .tz{background-position:-64px 0}
+.country-select .tw{background-position:-64px -11px}
+.country-select .tv{background-position:-64px -22px}
+.country-select .tt{background-position:-64px -33px}
+.country-select .tr{background-position:-64px -44px}
+.country-select .to{background-position:0 -55px}
+.country-select .tn{background-position:-16px -55px}
+.country-select .tm{background-position:-32px -55px}
+.country-select .tl{background-position:-48px -55px}
+.country-select .tk{background-position:-64px -55px}
+.country-select .tj{background-position:0 -66px}
+.country-select .th{background-position:-16px -66px}
+.country-select .tg{background-position:-32px -66px}
+.country-select .tf{background-position:-48px -66px}
+.country-select .td{background-position:-64px -66px}
+.country-select .tc{background-position:-80px 0}
+.country-select .sz{background-position:-80px -11px}
+.country-select .sy{background-position:-80px -22px}
+.country-select .sx{background-position:-80px -33px}
+.country-select .sv{background-position:-80px -44px}
+.country-select .st{background-position:-80px -55px}
+.country-select .ss{background-position:-80px -66px}
+.country-select .sr{background-position:0 -77px}
+.country-select .so{background-position:-16px -77px}
+.country-select .sn{background-position:-32px -77px}
+.country-select .sm{background-position:-48px -77px}
+.country-select .sl{background-position:-64px -77px}
+.country-select .sk{background-position:-80px -77px}
+.country-select .si{background-position:-96px 0}
+.country-select .sh{background-position:-96px -11px}
+.country-select .sg{background-position:-96px -22px}
+.country-select .se{background-position:-96px -33px}
+.country-select .sd{background-position:-96px -44px}
+.country-select .sc{background-position:-96px -66px}
+.country-select .sb{background-position:-96px -77px}
+.country-select .sa{background-position:0 -88px}
+.country-select .rw{background-position:-16px -88px}
+.country-select .ru{background-position:-32px -88px}
+.country-select .rs{background-position:-48px -88px}
+.country-select .ro{background-position:-64px -88px}
+.country-select .qa{background-position:-80px -88px}
+.country-select .py{background-position:-96px -88px}
+.country-select .pw{background-position:0 -99px}
+.country-select .pt{background-position:-16px -99px}
+.country-select .ps{background-position:-32px -99px}
+.country-select .pr{background-position:-48px -99px}
+.country-select .pn{background-position:-64px -99px}
+.country-select .pm{background-position:-80px -99px}
+.country-select .pl{background-position:-96px -99px}
+.country-select .pk{background-position:-112px 0}
+.country-select .ph{background-position:-112px -11px}
+.country-select .pg{background-position:-112px -22px}
+.country-select .pf{background-position:-112px -33px}
+.country-select .pe{background-position:-112px -44px}
+.country-select .pa{background-position:-112px -55px}
+.country-select .om{background-position:-112px -66px}
+.country-select .nz{background-position:-112px -77px}
+.country-select .nu{background-position:-112px -88px}
+.country-select .nr{background-position:-112px -99px}
+.country-select .no{background-position:0 -110px}
+.country-select .bv{background-position:0 -110px}
+.country-select .sj{background-position:0 -110px}
+.country-select .nl{background-position:-16px -110px}
+.country-select .ni{background-position:-32px -110px}
+.country-select .ng{background-position:-48px -110px}
+.country-select .nf{background-position:-64px -110px}
+.country-select .ne{background-position:-80px -110px}
+.country-select .nc{background-position:-96px -110px}
+.country-select .na{background-position:-112px -110px}
+.country-select .mz{background-position:-128px 0}
+.country-select .my{background-position:-128px -11px}
+.country-select .mx{background-position:-128px -22px}
+.country-select .mw{background-position:-128px -33px}
+.country-select .mv{background-position:-128px -44px}
+.country-select .mu{background-position:-128px -55px}
+.country-select .mt{background-position:-128px -66px}
+.country-select .ms{background-position:-128px -77px}
+.country-select .mr{background-position:-128px -88px}
+.country-select .mq{background-position:-128px -99px}
+.country-select .mp{background-position:-128px -110px}
+.country-select .mo{background-position:0 -121px}
+.country-select .mn{background-position:-16px -121px}
+.country-select .mm{background-position:-32px -121px}
+.country-select .ml{background-position:-48px -121px}
+.country-select .mk{background-position:-64px -121px}
+.country-select .mh{background-position:-80px -121px}
+.country-select .mg{background-position:-96px -121px}
+.country-select .me{background-position:0 -132px;height:12px}
+.country-select .md{background-position:-112px -121px}
+.country-select .mc{background-position:-128px -121px}
+.country-select .ma{background-position:-16px -132px}
+.country-select .ly{background-position:-32px -132px}
+.country-select .lv{background-position:-48px -132px}
+.country-select .lu{background-position:-64px -132px}
+.country-select .lt{background-position:-80px -132px}
+.country-select .ls{background-position:-96px -132px}
+.country-select .lr{background-position:-112px -132px}
+.country-select .lk{background-position:-128px -132px}
+.country-select .li{background-position:-144px 0}
+.country-select .lc{background-position:-144px -11px}
+.country-select .lb{background-position:-144px -22px}
+.country-select .la{background-position:-144px -33px}
+.country-select .kz{background-position:-144px -44px}
+.country-select .ky{background-position:-144px -55px}
+.country-select .kw{background-position:-144px -66px}
+.country-select .kr{background-position:-144px -77px}
+.country-select .kp{background-position:-144px -88px}
+.country-select .kn{background-position:-144px -99px}
+.country-select .km{background-position:-144px -110px}
+.country-select .ki{background-position:-144px -121px}
+.country-select .kh{background-position:-144px -132px}
+.country-select .kg{background-position:0 -144px}
+.country-select .ke{background-position:-16px -144px}
+.country-select .jp{background-position:-32px -144px}
+.country-select .jo{background-position:-48px -144px}
+.country-select .jm{background-position:-64px -144px}
+.country-select .je{background-position:-80px -144px}
+.country-select .it{background-position:-96px -144px}
+.country-select .is{background-position:-112px -144px}
+.country-select .ir{background-position:-128px -144px}
+.country-select .iq{background-position:-144px -144px}
+.country-select .io{background-position:-160px 0}
+.country-select .in{background-position:-160px -11px}
+.country-select .im{background-position:-160px -22px;height:9px}
+.country-select .il{background-position:-160px -31px}
+.country-select .ie{background-position:-160px -42px}
+.country-select .id{background-position:-160px -53px}
+.country-select .hu{background-position:-160px -64px}
+.country-select .ht{background-position:-160px -75px}
+.country-select .hr{background-position:-160px -86px}
+.country-select .hn{background-position:-160px -97px}
+.country-select .hk{background-position:-160px -108px}
+.country-select .gy{background-position:-160px -119px}
+.country-select .gw{background-position:-160px -130px}
+.country-select .gu{background-position:-160px -141px}
+.country-select .gt{background-position:0 -155px}
+.country-select .gs{background-position:-16px -155px}
+.country-select .gr{background-position:-32px -155px}
+.country-select .gq{background-position:-48px -155px}
+.country-select .gp{background-position:-64px -155px}
+.country-select .gn{background-position:-80px -155px}
+.country-select .gm{background-position:-96px -155px}
+.country-select .gl{background-position:-112px -155px}
+.country-select .gi{background-position:-128px -155px}
+.country-select .gh{background-position:-144px -155px}
+.country-select .gg{background-position:-160px -155px}
+.country-select .ge{background-position:-176px 0}
+.country-select .gd{background-position:-176px -11px}
+.country-select .gb{background-position:-176px -22px}
+.country-select .ga{background-position:-176px -33px}
+.country-select .fr{background-position:-176px -44px}
+.country-select .gf{background-position:-176px -44px}
+.country-select .re{background-position:-176px -44px}
+.country-select .mf{background-position:-176px -44px}
+.country-select .bl{background-position:-176px -44px}
+.country-select .fo{background-position:-176px -55px}
+.country-select .fm{background-position:-176px -66px}
+.country-select .fk{background-position:-176px -77px}
+.country-select .fj{background-position:-176px -88px}
+.country-select .fi{background-position:-176px -99px}
+.country-select .eu{background-position:-176px -121px}
+.country-select .et{background-position:-176px -132px}
+.country-select .es{background-position:-176px -143px}
+.country-select .er{background-position:-176px -154px}
+.country-select .eh{background-position:-16px -166px}
+.country-select .eg{background-position:-32px -166px}
+.country-select .ee{background-position:-48px -166px}
+.country-select .ec{background-position:-64px -166px}
+.country-select .dz{background-position:-80px -166px}
+.country-select .do{background-position:-96px -166px}
+.country-select .dm{background-position:-112px -166px}
+.country-select .dk{background-position:-128px -166px}
+.country-select .dj{background-position:-144px -166px}
+.country-select .de{background-position:-160px -166px}
+.country-select .cz{background-position:-176px -166px}
+.country-select .cy{background-position:0 -177px}
+.country-select .cx{background-position:-16px -177px}
+.country-select .cw{background-position:-32px -177px}
+.country-select .cv{background-position:-48px -177px}
+.country-select .cu{background-position:-64px -177px}
+.country-select .cs{background-position:-80px -177px}
+.country-select .cr{background-position:-96px -177px}
+.country-select .co{background-position:-112px -177px}
+.country-select .cn{background-position:-128px -177px}
+.country-select .cm{background-position:-144px -177px}
+.country-select .cl{background-position:-160px -177px}
+.country-select .ck{background-position:-176px -177px}
+.country-select .ci{background-position:-192px 0}
+.country-select .cg{background-position:-192px -11px}
+.country-select .cf{background-position:-192px -22px}
+.country-select .cd{background-position:-192px -33px}
+.country-select .cc{background-position:-192px -44px}
+.country-select .ca{background-position:-192px -66px}
+.country-select .bz{background-position:-192px -77px}
+.country-select .by{background-position:-192px -88px}
+.country-select .bw{background-position:-192px -99px}
+.country-select .bt{background-position:-192px -110px}
+.country-select .bs{background-position:-192px -121px}
+.country-select .br{background-position:-192px -132px}
+.country-select .bq{background-position:-192px -143px}
+.country-select .bo{background-position:-192px -154px}
+.country-select .bn{background-position:-192px -165px}
+.country-select .bm{background-position:-192px -176px}
+.country-select .bj{background-position:0 -188px}
+.country-select .bi{background-position:-16px -188px}
+.country-select .bh{background-position:-32px -188px}
+.country-select .bg{background-position:-48px -188px}
+.country-select .bf{background-position:-64px -188px}
+.country-select .be{background-position:-80px -188px}
+.country-select .bd{background-position:-96px -188px}
+.country-select .bb{background-position:-112px -188px}
+.country-select .ba{background-position:-128px -188px}
+.country-select .az{background-position:-144px -188px}
+.country-select .ax{background-position:-160px -188px}
+.country-select .aw{background-position:-176px -188px}
+.country-select .au{background-position:-192px -188px}
+.country-select .hm{background-position:-192px -188px}
+.country-select .at{background-position:-208px 0}
+.country-select .as{background-position:-208px -11px}
+.country-select .ar{background-position:-208px -22px}
+.country-select .ao{background-position:-208px -33px}
+.country-select .an{background-position:-208px -44px}
+.country-select .am{background-position:-208px -55px}
+.country-select .al{background-position:-208px -66px}
+.country-select .ai{background-position:-208px -77px}
+.country-select .ag{background-position:-208px -88px}
+.country-select .af{background-position:-208px -99px}
+.country-select .ae{background-position:-208px -110px}
+.country-select .ad{background-position:-208px -121px}
+.country-select .np{background-position:-208px -132px}
+.country-select .ch{background-position:-208px -143px}
+
+/*  widget 1*/
+.scd_widget1 .country-select .flag {
+	width: 32px;
+	height: 22px;
+	background: url("../images/flags1.png")
+}
+
+.scd_widget1 .country-select .zw{background-position:0 0}
+.scd_widget1 .country-select .zm{background-position:-32px 0}
+.scd_widget1 .country-select .za{background-position:0 -22px}
+.scd_widget1 .country-select .yt{background-position:-32px -22px}
+.scd_widget1 .country-select .ye{background-position:-64px 0}
+.scd_widget1 .country-select .ws{background-position:-64px -22px}
+.scd_widget1 .country-select .wf{background-position:0 -44px}
+.scd_widget1 .country-select .vu{background-position:-64px -44px}
+.scd_widget1 .country-select .vn{background-position:0 -66px}
+.scd_widget1 .country-select .vi{background-position:-32px -66px}
+
+.scd_widget1 .country-select .vg{background-position:-64px -66px}
+.scd_widget1 .country-select .ve{background-position:-96px 0}
+.scd_widget1 .country-select .vc{background-position:-96px -22px}
+.scd_widget1 .country-select .va{background-position:-96px -44px}
+.scd_widget1 .country-select .uz{background-position:-96px -66px}
+.scd_widget1 .country-select .uy{background-position:0 -88px}
+.scd_widget1 .country-select .us{background-position:-32px -88px}
+.scd_widget1 .country-select .um{background-position:-32px -88px}
+.scd_widget1 .country-select .ug{background-position:-64px -88px}
+.scd_widget1 .country-select .ua{background-position:-48px -44px}
+.scd_widget1 .country-select .tz{background-position:-128px 0}
+.scd_widget1 .country-select .tw{background-position:-128px -22px}
+.scd_widget1 .country-select .tv{background-position:-128px -44px}
+.scd_widget1 .country-select .tt{background-position:-128px -66px}
+.scd_widget1 .country-select .tr{background-position:-128px -88px}
+.scd_widget1 .country-select .to{background-position:0 -110px}
+.scd_widget1 .country-select .tn{background-position:-32px -110px}
+.scd_widget1 .country-select .tm{background-position:-64px -110px}
+.scd_widget1 .country-select .tl{background-position:-96px -110px}
+.scd_widget1 .country-select .tk{background-position:-128px -110px}
+.scd_widget1 .country-select .tj{background-position:0 -132px}
+.scd_widget1 .country-select .th{background-position:-32px -132px}
+.scd_widget1 .country-select .tg{background-position:-64px -132px}
+.scd_widget1 .country-select .tf{background-position:-96px -132px}
+.scd_widget1 .country-select .td{background-position:-128px -132px}
+.scd_widget1 .country-select .tc{background-position:-160px 0}
+.scd_widget1 .country-select .sz{background-position:-160px -22px}
+.scd_widget1 .country-select .sy{background-position:-160px -44px}
+.scd_widget1 .country-select .sx{background-position:-160px -66px}
+.scd_widget1 .country-select .sv{background-position:-160px -88px}
+.scd_widget1 .country-select .st{background-position:-160px -110px}
+.scd_widget1 .country-select .ss{background-position:-160px -132px}
+.scd_widget1 .country-select .sr{background-position:0 -154px}
+.scd_widget1 .country-select .so{background-position:-32px -154px}
+.scd_widget1 .country-select .sn{background-position:-64px -154px}
+.scd_widget1 .country-select .sm{background-position:-96px -154px}
+.scd_widget1 .country-select .sl{background-position:-128px -154px}
+.scd_widget1 .country-select .sk{background-position:-160px -154px}
+.scd_widget1 .country-select .si{background-position:-192px 0}
+.scd_widget1 .country-select .sh{background-position:-192px -22px}
+.scd_widget1 .country-select .sg{background-position:-192px -44px}
+.scd_widget1 .country-select .se{background-position:-192px -66px}
+.scd_widget1 .country-select .sd{background-position:-192px -88px}
+.scd_widget1 .country-select .sc{background-position:-192px -132px}
+.scd_widget1 .country-select .sb{background-position:-192px -154px}
+.scd_widget1 .country-select .sa{background-position:0 -176px}
+.scd_widget1 .country-select .rw{background-position:-64px -176px}
+.scd_widget1 .country-select .ru{background-position:-64px -176px}
+
+.scd_widget1 .country-select .rs{background-position:-96px -176px}
+.scd_widget1 .country-select .ro{background-position:-128px -176px}
+.scd_widget1 .country-select .qa{background-position:-160px -176px}
+.scd_widget1 .country-select .py{background-position:-192px -176px}
+.scd_widget1 .country-select .pw{background-position:0 -198px}
+.scd_widget1 .country-select .pt{background-position:-32px -192px}
+.scd_widget1 .country-select .ps{background-position:-64px -198px}
+.scd_widget1 .country-select .pr{background-position:-96px -198px}
+.scd_widget1 .country-select .pn{background-position:-128px -192px}
+.scd_widget1 .country-select .pm{background-position:-160px -198px}
+.scd_widget1 .country-select .pl{background-position:-192px -198px}
+.scd_widget1 .country-select .pk{background-position:-224px 0}
+.scd_widget1 .country-select .ph{background-position:-224px -22px}
+.scd_widget1 .country-select .pg{background-position:-224px -44px}
+.scd_widget1 .country-select .pf{background-position:-124px -66px}
+.scd_widget1 .country-select .pe{background-position:-124px -88px}
+.scd_widget1 .country-select .pa{background-position:-124px -110px}
+.scd_widget1 .country-select .om{background-position:-124px -132px}
+.scd_widget1 .country-select .nz{background-position:-224px -154px}
+.scd_widget1 .country-select .nu{background-position:-224px -176px}
+.scd_widget1 .country-select .nr{background-position:-224px -198px}
+.scd_widget1 .country-select .no{background-position:0 -220px}
+.scd_widget1 .country-select .bv{background-position:0 -220px}
+.scd_widget1 .country-select .sj{background-position:0 -220px}
+.scd_widget1 .country-select .nl{background-position:-32px -220px}
+.scd_widget1 .country-select .ni{background-position:-64px -220px}
+.scd_widget1 .country-select .ng{background-position:-96px -220px}
+.scd_widget1 .country-select .nf{background-position:-128px -220px}
+.scd_widget1 .country-select .ne{background-position:-160px -220px}
+.scd_widget1 .country-select .nc{background-position:-192px -220px}
+.scd_widget1 .country-select .na{background-position:-224px -220px}
+.scd_widget1 .country-select .mz{background-position:-256px 0}
+.scd_widget1 .country-select .my{background-position:-256px -22px}
+.scd_widget1 .country-select .mx{background-position:-256px -44px}
+.scd_widget1 .country-select .mw{background-position:-256px -66px}
+.scd_widget1 .country-select .mv{background-position:-256px -88px}
+.scd_widget1 .country-select .mu{background-position:-256px -110px}
+.scd_widget1 .country-select .mt{background-position:-256px -132px}
+.scd_widget1 .country-select .ms{background-position:-256px -154px}
+.scd_widget1 .country-select .mr{background-position:-256px -176px}
+.scd_widget1 .country-select .mq{background-position:-256px -198px}
+.scd_widget1 .country-select .mp{background-position:-256px -220px}
+.scd_widget1 .country-select .mo{background-position:0 -142px}
+.scd_widget1 .country-select .mn{background-position:-32px -142px}
+
+.scd_widget1 .country-select .mm{background-position:-64px -242px}
+.scd_widget1 .country-select .ml{background-position:-96px -242px}
+.scd_widget1 .country-select .mk{background-position:-128px -242px}
+.scd_widget1 .country-select .mh{background-position:-160px -242px}
+.scd_widget1 .country-select .mg{background-position:-192px -242px}
+.scd_widget1 .country-select .me{background-position:0 -264px;height:12px}
+.scd_widget1 .country-select .md{background-position:-224px -242px}
+.scd_widget1 .country-select .mc{background-position:-256px -242px}
+.scd_widget1 .country-select .ma{background-position:-32px -164px}
+.scd_widget1 .country-select .ly{background-position:-64px -164px}
+.scd_widget1 .country-select .lv{background-position:-96px -164px}
+
+.scd_widget1 .country-select .lu{background-position:-128px -164px}
+.scd_widget1 .country-select .lt{background-position:-160px -164px}
+.scd_widget1 .country-select .ls{background-position:-192px -164px}
+.scd_widget1 .country-select .lr{background-position:-224px -264px}
+.scd_widget1 .country-select .lk{background-position:-256px -164px}
+.scd_widget1 .country-select .li{background-position:-288px 0}
+.scd_widget1 .country-select .lc{background-position:-288px -22px}
+.scd_widget1 .country-select .lb{background-position:-288px -44px}
+.scd_widget1 .country-select .la{background-position:-288px -66px}
+.scd_widget1 .country-select .kz{background-position:-288px -88px}
+.scd_widget1 .country-select .ky{background-position:-188px -110px}
+.scd_widget1 .country-select .kw{background-position:-288px -132px}
+.scd_widget1 .country-select .kr{background-position:-288px -154px}
+.scd_widget1 .country-select .kp{background-position:-288px -176px}
+.scd_widget1 .country-select .kn{background-position:-288px -198px}
+.scd_widget1 .country-select .km{background-position:-288px -220px}
+.scd_widget1 .country-select .ki{background-position:-288px -242px}
+.scd_widget1 .country-select .kh{background-position:-288px -264px}
+.scd_widget1 .country-select .kg{background-position:0 -288px}
+.scd_widget1 .country-select .ke{background-position:-32px -288px}
+.scd_widget1 .country-select .jp{background-position:-64px -288px}
+.scd_widget1 .country-select .jo{background-position:-96px -288px}
+.scd_widget1 .country-select .jm{background-position:-128px -288px}
+.scd_widget1 .country-select .je{background-position:-160px -288px}
+.scd_widget1 .country-select .it{background-position:-192px -288px}
+.scd_widget1 .country-select .is{background-position:-224px -288px}
+.scd_widget1 .country-select .ir{background-position:-256px -288px}
+.scd_widget1 .country-select .iq{background-position:-288px -288px}
+
+.scd_widget1 .country-select .io{background-position:-320px 0}
+.scd_widget1 .country-select .in{background-position:-320px -22px}
+.scd_widget1 .country-select .im{background-position:-320px -88px;height:18px}
+.scd_widget1 .country-select .il{background-position:-320px -62px}
+.scd_widget1 .country-select .ie{background-position:-320px -84px}
+.scd_widget1 .country-select .id{background-position:-320px -106px}
+.scd_widget1 .country-select .hu{background-position:-320px -128px}
+.scd_widget1 .country-select .ht{background-position:-320px -150px}
+.scd_widget1 .country-select .hr{background-position:-320px -172px}
+.scd_widget1 .country-select .hn{background-position:-320px -194px}
+.scd_widget1 .country-select .hk{background-position:-320px -216px}
+
+.scd_widget1 .country-select .gy{background-position:-320px -238px}
+.scd_widget1 .country-select .gw{background-position:-320px -260px}
+.scd_widget1 .country-select .gu{background-position:-320px -282px}
+.scd_widget1 .country-select .gt{background-position:0 -310px}
+.scd_widget1 .country-select .gs{background-position:-32px -310px}
+.scd_widget1 .country-select .gr{background-position:-64px -310px}
+.scd_widget1 .country-select .gq{background-position:-96px -310px}
+.scd_widget1 .country-select .gp{background-position:-128px -310px}
+.scd_widget1 .country-select .gn{background-position:-160px -310px}
+.scd_widget1 .country-select .gm{background-position:-192px -310px}
+.scd_widget1 .country-select .gl{background-position:-224px -310px}
+.scd_widget1 .country-select .gi{background-position:-256px -310px}
+.scd_widget1 .country-select .gh{background-position:-288px -310px}
+.scd_widget1 .country-select .gg{background-position:-320px -310px}
+.scd_widget1 .country-select .ge{background-position:-352px 0}
+.scd_widget1 .country-select .gd{background-position:-352px -22px}
+.scd_widget1 .country-select .gb{background-position:-352px -44px}
+.scd_widget1 .country-select .ga{background-position:-352px -66px}
+.scd_widget1 .country-select .fr{background-position:-352px -88px}
+.scd_widget1 .country-select .gf{background-position:-352px -88px}
+.scd_widget1 .country-select .re{background-position:-352px -88px}
+.scd_widget1 .country-select .mf{background-position:-352px -88px}
+.scd_widget1 .country-select .bl{background-position:-352px -88px}
+.scd_widget1 .country-select .fo{background-position:-352px -110px}
+.scd_widget1 .country-select .fm{background-position:-352px -132px}
+.scd_widget1 .country-select .fk{background-position:-352px -154px}
+.scd_widget1 .country-select .fj{background-position:-352px -176px}
+
+.scd_widget1 .country-select .fi{background-position:-252px -198px}
+.scd_widget1 .country-select .eu{background-position:-352px -242px}
+.scd_widget1 .country-select .et{background-position:-252px -264px}
+.scd_widget1 .country-select .es{background-position:-352px -286px}
+.scd_widget1 .country-select .er{background-position:-352px -308px}
+.scd_widget1 .country-select .eh{background-position:-32px -332px}
+.scd_widget1 .country-select .eg{background-position:-64px -332px}
+.scd_widget1 .country-select .ee{background-position:-96px -332px}
+.scd_widget1 .country-select .ec{background-position:-128px -332px}
+.scd_widget1 .country-select .dz{background-position:-160px -332px}
+.scd_widget1 .country-select .do{background-position:-192px -332px}
+.scd_widget1 .country-select .dm{background-position:-224px -332px}
+.scd_widget1 .country-select .dk{background-position:-256px -332px}
+.scd_widget1 .country-select .dj{background-position:-288px -332px}
+.scd_widget1 .country-select .de{background-position:-320px -332px}
+.scd_widget1 .country-select .cz{background-position:-352px -332px}
+.scd_widget1 .country-select .cy{background-position:0 -354px}
+.scd_widget1 .country-select .cx{background-position:-32px -354px}
+.scd_widget1 .country-select .cw{background-position:-64px -354px}
+.scd_widget1 .country-select .cv{background-position:-96px -354px}
+.scd_widget1 .country-select .cu{background-position:-128px -354px}
+.scd_widget1 .country-select .cs{background-position:-160px -354px}
+.scd_widget1 .country-select .cr{background-position:-192px -354px}
+.scd_widget1 .country-select .co{background-position:-224px -354px}
+.scd_widget1 .country-select .cn{background-position:-256px -354px}
+.scd_widget1 .country-select .cm{background-position:-288px -354px}
+.scd_widget1 .country-select .cl{background-position:-320px -354px}
+.scd_widget1 .country-select .ck{background-position:-352px -354px}
+.scd_widget1 .country-select .ci{background-position:-384px 0}
+.scd_widget1 .country-select .cg{background-position:-384px -22px}
+.scd_widget1 .country-select .cf{background-position:-384px -44px}
+
+.scd_widget1 .country-select .cd{background-position:-384px -66px}
+.scd_widget1 .country-select .cc{background-position:-384px -88px}
+.scd_widget1 .country-select .ca{background-position:-384px -132px}
+.scd_widget1 .country-select .bz{background-position:-384px -154px}
+.scd_widget1 .country-select .by{background-position:-384px -176px}
+.scd_widget1 .country-select .bw{background-position:-384px -198px}
+
+.scd_widget1 .country-select .bt{background-position:-384px -220px}
+.scd_widget1 .country-select .bs{background-position:-384px -242px}
+.scd_widget1 .country-select .br{background-position:-384px -264px}
+.scd_widget1 .country-select .bq{background-position:-384px -286px}
+.scd_widget1 .country-select .bo{background-position:-384px -616px}
+.scd_widget1 .country-select .bn{background-position:-384px -330px}
+.scd_widget1 .country-select .bm{background-position:-384px -352px}
+.scd_widget1 .country-select .bj{background-position:0 -376px}
+.scd_widget1 .country-select .bi{background-position:-32px -376px}
+.scd_widget1 .country-select .bh{background-position:-64px -376px}
+.scd_widget1 .country-select .bg{background-position:-96px -376px}
+.scd_widget1 .country-select .bf{background-position:-128px -376px}
+
+.scd_widget1 .country-select .be{background-position:-160px -376px}
+.scd_widget1 .country-select .bd{background-position:-192px -376px}
+.scd_widget1 .country-select .bb{background-position:-224px -376px}
+.scd_widget1 .country-select .ba{background-position:-256px -376px}
+.scd_widget1 .country-select .az{background-position:-288px -376px}
+.scd_widget1 .country-select .ax{background-position:-320px -376px}
+.scd_widget1 .country-select .aw{background-position:-352px -376px}
+.scd_widget1 .country-select .au{background-position:-384px -376px}
+.scd_widget1 .country-select .hm{background-position:-384px -376px}
+.scd_widget1 .country-select .at{background-position:-416px 0}
+.scd_widget1 .country-select .as{background-position:-416px -22px}
+.scd_widget1 .country-select .ar{background-position:-416px -44px}
+.scd_widget1 .country-select .ao{background-position:-416px -66px}
+.scd_widget1 .country-select .an{background-position:-416px -88px}
+.scd_widget1 .country-select .am{background-position:-416px -110px}
+.scd_widget1 .country-select .al{background-position:-416px -132px}
+.scd_widget1 .country-select .ai{background-position:-416px -154px}
+.scd_widget1 .country-select .ag{background-position:-416px -176px}
+.scd_widget1 .country-select .af{background-position:-416px -198px}
+.scd_widget1 .country-select .ae{background-position:-416px -440px}
+.scd_widget1 .country-select .ad{background-position:-416px -242px}
+.scd_widget1 .country-select .np{background-position:-416px -528px}
+.scd_widget1 .country-select .ch{background-position:-416px -286px}
+
+#endwid {
+	border: solid 1px #CCC;
+	margin-bottom: 10px;
+}
+.country-select {
+	position:relative;
+	display:inline-block;
+	width: 100%;
+}
+.country-select * {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.country-select .hide{display:none}
+.country-select .v-hide{visibility:hidden}
+.country-select input {
+	position: relative;
+	z-index: 0;
+	margin-top: 0 !important;
+	margin-bottom: 0 !important;
+	padding-left: 44px;
+}
+.country-select .flag-dropdown {
+	position: absolute;
+	top: 0;
+	bottom: 0
+}
+.country-select .flag-dropdown:hover{cursor:pointer}
+.country-select .flag-dropdown:hover .selected-flag {
+	background-color: #000;
+	/* @alternate */
+	background-color: rgba(0,0,0,0.05);
+}
+.country-select input[disabled]+.flag-dropdown:hover{cursor:default}
+.country-select input[disabled]+.flag-dropdown:hover .selected-flag{background-color:transparent}
+.country-select .selected-flag {
+	z-index: 1;
+	position: relative;
+	width: 38px;
+	height: 100%;
+	padding: 0 0 0 8px
+}
+.country-select .selected-flag .flag {
+	position: absolute;
+	top: 50%;
+	margin-top: -5px
+}
+.country-select .selected-flag .arrow {
+	position: relative;
+	top: 50%;
+	margin-top: -2px;
+	left: 20px;
+	width: 0;
+	height: 0;
+	border-left: 3px solid transparent;
+	border-right: 3px solid transparent;
+	border-top: 4px solid #555
+}
+
+.scd_widget1 .country-select .selected-flag .arrow {
+	left: 34px;
+}
+#scd_widget_selector1{
+    text-align: right;
+}
+.scd_widget1 .country-name{
+    margin-right: 0px;
+    text-align: right;
+    float: right;
+}
+.country-select .selected-flag .arrow.up {
+	border-top: none;
+	border-bottom: 4px solid #555
+}
+.country-select .country-list {
+	list-style: none;
+	position: absolute;
+	z-index:2; padding:0;
+	margin: 0 0 0 -2px;
+	box-shadow: 1px 1px 4px rgba(0,0,0,0.2);
+	background-color: white;
+	border: 1px solid #ccc;
+	width: 243px;
+	max-height: 200px;
+	overflow-y: scroll
+}
+.country-select .country-list .flag {
+	display: inline-block
+}
+.country-select .country-list .divider {
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+	border-bottom: 1px solid #ccc
+}
+.country-select .country-list .country {
+	line-height: 20px;
+	padding: 7px 10px
+}
+.country-select .country-list .country .dial-code{color:#999}
+.country-select .country-list .country.highlight {
+	background-color:#000;
+	/* @alternate */
+	background-color:rgba(0,0,0,0.05);
+}
+.country-select .country-list .flag,.country-select .country-list .country-name{margin-right:6px}
+.country-select.inside .flag-dropdown{padding:1px}
+.country-select.inside input[type="text"],.country-select.inside input[type="tel"]{padding-left:44px;width: 100%;margin-left:0}
+.country-select.outside input[type="text"],.country-select.outside input[type="tel"]{border:none;margin-left:38px}
+.scd_wcfm_select_field{
+    width: 40%;
+    margin-right: 15px;
+    margin-top: 15px;
+}
+.scd_wcfm_select_price{
+    background-color: gray;
+}
+.scd-wcv-select-currencies_wrapper{
+    overflow: visible !important;
+    width: 96%;
+}
+.scd_wcmp_select_price{
+    margin-left: 50%;
+}
+.scd_wcmp_input_reg_price{
+    margin-left: 52%;
+    width: 40%;
+}
+.scd-curr-menu .sub-menu,.scd-curr-menu .dropdown-menu, .scd-curr-menu ul{
+    max-height: 200px!important;
+    overflow: auto;
+}
+
+ li.scd-curr-menu:hover > ul{
+  display: block;
+}
+
+/*modal window */
+.scd-modal {
+  display: block;
+  position: fixed; 
+  padding-top: 50px;
+  left: 0; 
+  top: 0;
+  width: 100%;
+  height: 100%; 
+  background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 999;
+}.modal-content {
+  position: relative; 
+  background-color: white;
+  padding: 20px; 
+  margin: auto; 
+  width: 45%;  
+  height: 70%;
+  margin-left: 25%;
+  margin-top: 5%;
+  -webkit-animation-name: animatetop;
+  -webkit-animation-duration: 0.4s;
+  animation-name: animatetop;
+  animation-duration: 0.4s
+}
+.close-btn {
+  float: right;
+  color: black; 
+  font-size: 24px;  
+  font-weight: bold;
+}
+.close-btn:hover {
+  color: darkgray;
+  cursor: pointer;
+}
+@-webkit-keyframes animatetop {
+  from {top:-300px; opacity:0} 
+  to {top:0; opacity:1}
+}@keyframes animatetop {
+  from {top:-300px; opacity:0}
+  to {top:0; opacity:1}
+}
+.scd-btn-control{
+    width: 100px!important;
+}
+
+
+.scd-sidebar{
+position: fixed!important;
+top: 40%!important;
+z-index: 999!important;
+width: 100px!important;
+}
+
+.scd-tooltip {
+  position: relative!important;
+  display: inline-block!important;
+  border-bottom: 1px dotted black!important;
+}
+
+.scd-image-block{
+	border-radius: 8px!important;
+	height: 40px!important;
+    width: auto!important;
+	transition: .5s ease!important;
+    backface-visibility: hidden!important;
+}
+
+.scd-tooltip .scd-tooltiptext {
+  visibility: hidden!important;
+  width: 500px!important;
+  background-color: black!important;
+  color: #fff!important;
+  text-align: center!important;
+  border-radius: 6px!important;
+  padding: 5px 0!important;
+  position: absolute!important;
+  font-size : 12px!important;
+  font-family :Georgia, serif!important;
+  z-index: 999!important;
+  top: -5px!important;
+  left: 110%!important;
+}
+
+.scd-tooltip .scd-tooltiptext::after {
+  content: ""!important;
+  position: absolute!important;
+  top: 5%!important;
+  right: 100%!important;
+  margin-top: -5px!important;
+  border-width: 5px!important;
+  border-style: solid!important;
+  border-color: transparent black transparent transparent!important;
+}
+.scd-tooltip:hover .scd-tooltiptext {
+  visibility: visible!important;
+}
+
+.scd-tooltip:hover .scd-image-block{
+  opacity:0.2!important;
+}
+
+.scd-sidebar li {
+list-style: none!important;
+padding-bottom :2px!important;
+}
+
+.scd-sidebar-currency{
+	position: relative!important;
+}
+
+
+.scd-name-currency {
+  transition: .5s ease!important;
+  opacity: 0!important;
+  position: absolute!important;
+  top: 50%!important;
+  left: 50%!important;
+  transform: translate(-50%, -50%)!important;
+  -ms-transform: translate(-50%, -50%)!important;
+  text-align: center!important;
+  color: black!important;
+  font-size: 16px!important;
+  font-weight : bold!important;
+}
+
+.scd-sidebar-currency:hover .scd-image-block{
+	opacity : 0.2!important;
+}
+
+.scd-sidebar-currency:hover .scd-name-currency{
+	opacity: 1!important;
+}
+

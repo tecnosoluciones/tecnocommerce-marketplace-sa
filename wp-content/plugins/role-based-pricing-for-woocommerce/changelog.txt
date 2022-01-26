@@ -1,0 +1,92 @@
+*** Role Based Pricing for WooCommerce Change log ***
+
+2022-01-10 - version 1.5.8
+* Fixed issue with variation range price.
+
+
+
+2021-12-15 - version 1.5.7
+* Fixed the issue of price display when apply price filter.
+* Fixed the issue of compatibility with display/get price by Ajax.
+* Fixed the issue of price by WooCommerce Default API
+* Fixed the issue of price display in Quick view plugin and Add to cart popup plugin
+* Fixed the issue of compatibility with Request a Quote plugin
+* Added the general function to check whether the product has role based price
+* Added the general function to get role based price 
+* Added the general function to get role based price HTML
+* Added the function to check whether price is hidden for product/user or not
+* Added the function to check whether Add to cart button is hidden for product/user or not
+
+2021-09-29 - version 1.5.6
+* Fixed ['discount_value'] undefined index issue.
+* Fixed layout issue in admin.
+
+2021-09-21 - version 1.5.5
+* Fixed typo errors.
+
+2021-09-20 - version 1.5.4
+* Fixed errors while add/edit rules in admin.
+
+2021-09-15 - version 1.5.3
+* Fixed the undefined index errors.
+* Performance improvements for better website loading speed.
+* Fixed multisite compatibility issue.
+* Added default WooCommerce price suffix compatibility.
+
+2021-03-26 - version 1.5.2
+* Fixed role based pricing issue with guest users.
+
+2020-10-07 - version 1.5.1
+* Fixed add cart button issue on product page when only categories are selected in hide price.
+
+2020-10-07 - version 1.5.0
+* Feature: Checkbox to calculate discount after deducting tax from tax-inclusive product price.
+* Fixed minor bug with hide price feature.
+* Fixed the issue of removing customer-specific rules from variations.
+
+2020-07-21 - version 1.4.4
+* Fixed the issue of price for variable product, display on shop and product pages when prices are set on product level as well as rule level.
+
+2020-07-14 - version 1.4.3
+* Fixed min and max quantity validation in product and rule level.
+
+2020-07-09 - version 1.4.2
+* Added feature to handle multiple user roles.
+
+2020-07-08 - version 1.4.1
+* Removed the limitation where the rule based configuration wasn’t working when the product level role based pricing was configured(Applied on variable products).
+
+2020-07-03 - version 1.4.0
+* Removed the limitation where the rule based configuration wasn’t working when the product level role based pricing was configured.
+
+2020-04-30 - version 1.3.6
+* Issue fixed with the product level range price of variable products.
+* Issue fixed when more than 5 rules are created.
+
+2020-03-06 - version 1.3.5
+* Issue fixed with percentage increase price with guest users.
+
+2020-03-29 - version 1.3.4
+* Fix CSS conflict with drop downs in admin panel.
+
+2020-03-29 - version 1.3.3
+* A minor issue fixed with variable product price in global rules.
+
+2020-03-28 - version 1.3.2
+* Issue fixed range price or variable product in global rules.
+* Add new feature, Option to replace original price.
+
+2020-03-02 - version 1.3.1
+* Issue fixed with variations with global rules.
+
+2020-01-27 - version 1.3.0
+* Enhance page speed.
+
+2019-12-11 - version 1.2.0
+* Add new feature, Hide Price & Add to Cart for guest and registered users.
+
+2019-11-20 - version 1.1.0
+* UX/UI improvements in admin panel and frontend.
+
+2019-10-27 - version 1.0.0
+* Initial release of the plugin.

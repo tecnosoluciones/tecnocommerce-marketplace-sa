@@ -1,0 +1,16 @@
+table.scd_exrates{
+
+	width: 100%;
+	margin-bottom: 10px;
+
+}
+
+table.scd_exrates tr:hover{
+	background: #fff;
+	border-radius: 5px;
+}
+
+table.scd_exrates td{
+	padding: 10px;
+	
+}

@@ -1,0 +1,325 @@
+@charset "utf-8";
+/* CSS Document */
+#wpadminbar * {
+    font: normal 13px/30px sans-serif;
+    color: #fff;
+    
+}
+.login #wpadminbar{
+    position: initial !important;
+}
+#wpadminbar {
+    background: #4979a9;
+    height: 30px;
+    width: 100%;
+    top: 35px;
+    font: normal 13px/30px sans-serif !important;
+    background-image: linear-gradient(top, #65a5e5, #4979a9);
+    background-image: -o-linear-gradient(top, #65a5e5, #4979a9);
+    background-image: -moz-linear-gradient(top, #65a5e5, #4979a9);
+    background-image: -webkit-linear-gradient(top, #65a5e5, #4979a9);
+    background-image: -ms-linear-gradient(top, #65a5e5, #4979a9);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#65a5e5', endColorstr='#4979a9');
+    border-bottom: 1px solid #3d698e;
+}
+
+#wpadminbar .ab-top-secondary {
+    background: #4979a9;
+    background-image: linear-gradient(top, #65a5e5, #4979a9);
+    background-image: -o-linear-gradient(top, #65a5e5, #4979a9);
+    background-image: -moz-linear-gradient(top, #65a5e5, #4979a9);
+    background-image: -webkit-linear-gradient(top, #65a5e5, #4979a9);
+    background-image: -ms-linear-gradient(top, #65a5e5, #4979a9);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#65a5e5', endColorstr='#4979a9');
+
+}
+
+#wpadminbar .shortlink-input {
+    height: 30px;
+
+}
+
+#wpadminbar.ie7 .shortlink-input {
+    top: 30px;
+
+}
+
+#wpadminbar #adminbarsearch {
+    height: 30px;
+
+}
+
+#wpadminbar .quicklinks a, #wpadminbar .quicklinks .ab-empty-item, #wpadminbar .shortlink-input {
+    height: 30px;
+
+}
+
+#wpadminbar .ab-icon {
+    margin-top: 0px;
+
+}
+
+#wp-admin-bar-wp-logo > .ab-item .ab-icon {
+    margin-top: 0px;
+
+}
+
+#wpadminbar .quicklinks > ul > li > a, #wpadminbar .quicklinks > ul > li > .ab-empty-item {
+    border-right: 1px solid #71A7E3;
+
+}
+
+#wpadminbar .quicklinks > ul > li {
+    border-right: 1px solid #356ab2;
+
+}
+
+#wpadminbar .quicklinks .ab-top-secondary > li {
+    border-left: 1px solid #71A7E3;
+
+}
+
+#wpadminbar .quicklinks .ab-top-secondary > li > a, #wpadminbar .quicklinks .ab-top-secondary > li > .ab-empty-item {
+    border-left: 1px solid #356ab2;
+
+}
+
+html.wp-toolbar {
+    padding-top: 69px;
+
+}
+#wpadminbar{
+    position: initial;
+}
+#tb-logo-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+   /* height: 35px;*/
+    background: #FFF;
+    z-index: 99999;
+-webkit-transition: all 0.6s ease-out;
+-moz-transition: all 0.6s ease-out;
+-ms-transition: all 0.6s ease-out;
+-o-transition: all 0.6s ease-out;
+transition: all 0.6s ease-out;
+    padding-top: 5px;
+}
+
+ @import url('https://fonts.googleapis.com/css2?family=Days+One&display=swap');
+ 
+#tb-logo {
+   /*  width: 100%;
+    height: 34px;
+    margin-top: 0;
+   background-image: url(../images/TecnoCMS-Avanzado-con-Asistencia.png);
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    position: relative;
+    margin-top: 0px;
+    margin-left: 6px;*/
+font-family: 'Days One', sans-serif;
+        padding: 5px;
+       min-height: 28px;
+    padding-bottom: 0;
+}
+
+#tb-logo h3{
+    margin: 0;
+    font-size: 28px;
+        color: #172159;
+}
+#tb-logo h3 span{
+    font-size: 22px;
+    color: #000;
+}
+#tb-logo h3 strong{
+    color: #00989d;
+}
+#tb-logo a {
+    text-decoration: none;
+}
+
+#tb-adminbar-border {
+    display: none;
+    height: 3px;
+    width: 100%;
+    position: fixed;
+    top: 66px;
+    left: 0;
+    z-index: 99998;
+    background: #3d698e url(../images/tb-adminbar-border.png?d=20120830);
+
+}
+
+span#wp-version-message {
+    display: none;
+    visibility: hidden;
+    position: absolute;
+    top: 0;
+
+}
+
+#wpadminbar .menupop .menupop > .ab-item, #wpadminbar .ab-top-secondary .menupop .menupop > .ab-item, #wpadminbar #adminbarsearch .adminbar-input, #wp-admin-bar-wp-logo > .ab-item .ab-icon, #wp-admin-bar-updates > .ab-item .ab-icon, #wp-admin-bar-comments > .ab-item .ab-icon, #wpadminbar #wp-admin-bar-new-content > .ab-item .ab-icon {
+    /*background-image: url(../images/admin-bar-sprite.png?d=20120830);*/
+}
+
+#wpadminbar #wp-admin-bar-wpseo-menu-default > li > .ab-item{
+    background-image: none;
+}
+
+#wpadminbar .ab-top-menu > li:hover > .ab-item, #wpadminbar .ab-top-menu > li.hover > .ab-item, #wpadminbar .ab-top-menu > li > .ab-item:focus, #wpadminbar.nojq .quicklinks .ab-top-menu > li > .ab-item:focus {
+    color: #fafafa;
+    background: #4979a9;
+    background-image: linear-gradient(top, #4979a9, #65a5e5);
+    background-image: -o-linear-gradient(top, #4979a9, #65a5e5);
+    background-image: -moz-linear-gradient(top, #4979a9, #65a5e5);
+    background-image: -webkit-linear-gradient(top, #4979a9, #65a5e5);
+    background-image: -ms-linear-gradient(top, #4979a9, #65a5e5);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#4979a9', endColorstr='#65a5e5');
+
+}
+
+.edit-post-header{
+    z-index: 9999;
+}
+
+#wpadminbar .menupop .ab-sub-wrapper, #wpadminbar .shortlink-input{
+    z-index: 99999;
+}
+
+.edit-post-header {
+    z-index: 100;
+}
+
+#sfwd-header {
+    /*background-color: #fff0 !important;*/
+    z-index: 23 !important;
+}
+
+.wcp-content {
+    top: 69px !important;
+}
+
+#adminmenuwrap {
+    z-index: 101 !important;
+}
+
+body.block-editor-page #wpbody-content>div:not(.block-editor):not(#screen-meta), body.block-editor-page #wpfooter{
+    display: block !important;
+}
+
+#screen-meta{
+    z-index: 101 !important;
+    left: 22px !important;
+}
+
+#screen-meta-links {
+    z-index: 101 !important;
+    position: relative;
+}
+
+div#editor {
+    top: 30px;
+}
+
+.global-new-entity-button{
+    top: -57px !important;
+}
+
+@media (min-width: 782px){
+    .ld-header-has-tabs .edit-post-layout .edit-post-header {
+        top: 211px !important;
+    }
+
+    .ld-header-has-tabs .edit-post-layout .edit-post-layout__content {
+        top: 267px !important;
+    }
+
+    .ld-header-has-tabs .edit-post-sidebar {
+        top: 268px !important;
+    }
+}
+
+body.profile-edit .youzer.yz-page.yz-account-page main.yz-page-main-content, #buddypress main.yz-page-main-content {
+    padding-top: 100px;
+}
+
+body.profile-edit header.header, body.members header.header, body.activity header.header, body.groups header.header{
+    background: #292836;
+}
+
+.icl_tm_wrap .overlay{
+    display:none;
+}
+
+body.is-fullscreen-mode .block-editor-editor-skeleton {
+    top: 70px;
+}
+
+body.is-fullscreen-mode .edit-post-layout .editor-post-publish-panel {
+    top: 128px;
+}
+
+.edit-post-header{
+    margin-top: 65px;
+}
+
+.woocommerce-layout__header {
+    margin-top: 32px;
+}
+
+.woocommerce-layout__activity-panel-tabs {
+    margin-top: 64px;
+}
+
+@media screen and (max-width: 480px){
+    #tb-logo h3 {
+    font-size: 22px;
+        text-align: center;
+}
+.quicklinks .ab-empty-item, #wpadminbar .quicklinks>ul>li>a {
+    width: 50px;
+}
+div#login {
+    width: 100% !important;
+}
+#login-left{
+    display: none;
+}
+
+div#login form p, #loginform .captchaSizeDivLarge, #lostpasswordform .captchaSizeDivLarge {
+    padding-left: 0;
+}
+
+#loginform, #lostpasswordform {
+    margin: 5px;
+        margin-top: 55px;
+}
+
+#loginform .user-pass-wrap {
+    width: 100%;
+}
+
+div#login-title{
+    display: none;
+}
+.login form p.forgetmenot {
+    float: none;
+}
+.login p#backtoblog, .login p#nav{
+    padding: 0;
+}
+#tb-logo h3 span{
+    font-size: 16px;
+    color: #000;
+}
+#login-top a{
+         margin-left: 0 !important;
+}
+#loginform, #lostpasswordform {
+    padding-top: 105px;
+}
+
+}

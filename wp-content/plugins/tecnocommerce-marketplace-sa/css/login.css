@@ -1,0 +1,182 @@
+#wpadminbar {
+    position: fixed !important;
+    z-index: 999;
+    left: 0
+}
+
+#login {
+    position: relative;
+    width: 700px !important;
+}
+
+.login form {
+    position: relative !important;
+    border: 2px solid #c0c0ff;
+}
+
+#loginform, #lostpasswordform {
+    padding-top: 145px;
+}
+
+.login form .input, #loginform input[type="text"] {
+    margin: 0;
+}
+
+#login h1 {
+    background: none;
+    visibility: hidden;
+    display: none;
+
+}
+
+.login h1 a {
+    background: none;
+    visibility: hidden;
+    display: none;
+
+}
+
+#login-left {
+    position: absolute;
+    top: 140px;
+    left: 60px;
+    width: 213px;
+    height: 158px;
+    background: url('../images/bullets-cms.gif') no-repeat;
+
+}
+
+#login-title {
+    position: absolute;
+    top: 100px;
+    right: 20px;
+    width: 300px;
+    height: 35px;
+    background: url('../images/ingresar.gif') no-repeat;
+    border-bottom: 2px dotted #c0c0ff;
+    font-size: 14px;
+    line-height: 33px;
+    font-weight: bold;
+    font-style: italic;
+    cursor: default;
+
+}
+
+#login-title span {
+    padding-left: 40px;
+
+}
+
+.login form .input, .login input[type="text"] {
+    color: #555;
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 1;
+    width: 98%;
+    padding: 3px;
+    margin-top: 2px;
+    margin-right: 6px;
+    margin-bottom: 4px;
+    border: 1px solid #e5e5e5;
+    background: #fbfbfb;
+    outline: 0;
+    -webkit-box-shadow: inset 1px 1px 2px rgba(200, 200, 200, 0.2);
+    box-shadow: inset 1px 1px 2px rgba(200, 200, 200, 0.2);
+
+}
+
+#login-top {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: url(../images/bg_login.png) repeat-x;
+    height: 87px;
+    width: 100%
+}
+
+#login-top a {
+    position: relative;
+    display: block;
+   /* background: url('../images/TecnoCMS-Avanzado-con-Asistencia.png') no-repeat;*/
+    background-size: auto;
+    width: 100%px;
+    height: 38px;
+    background-position: center;
+    margin-left: 25px;
+    margin-top: 30px;
+
+}
+
+.wp-core-ui .button-primary, .wp-core-ui .button-primary:hover {
+    margin-top: 8px;
+    background: #fff url(../images/bg_button1.png) repeat-x;
+    min-width: 138px;
+    height: 28px !important;
+    line-height: 28px;
+    color: #000;
+    font-size: 14px;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: none;
+    text-shadow: none;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    border-top-style: double;
+    border: 1px solid #fff;
+    -webkit-box-shadow: 0 0 0 1px #d1d1d1, 0 0 10px 1px #c2c2c2;
+    /* WebKit */
+    -moz-box-shadow: 0 0 0 1px #d1d1d1, 0 0 10px 1px #c2c2c2;
+    /* Firefox */
+    box-shadow: 0 0 0 1px #d1d1d1, 0 0 10px 1px #c2c2c2;
+    /* Standard */
+}
+
+.wp-core-ui .button-primary:hover {
+    -webkit-box-shadow: 0 0 0 1px #d1d1d1, 0 0 6px 1px #fbffcc;
+    /* WebKit */
+    -moz-box-shadow: 0 0 0 1px #d1d1d1, 0 0 6px 1px #fbffcc;
+    /* Firefox */
+    box-shadow: 0 0 0 1px #d1d1d1, 0 0 6px 1px #fbffcc;
+    /* Standard */
+}
+
+#login form p, #loginform .captchaSizeDivLarge, #lostpasswordform .captchaSizeDivLarge {
+    padding-left: 360px;
+}
+
+.login form .forgetmenot {
+    float: none;
+
+}
+
+.captchaSizeDivLarge, .captchaSizeDivSmall {
+    padding-top: 0 !important;
+    padding-left: 420px;
+
+}
+
+#login-links {
+    position: absolute;
+    width: 400px;
+    bottom: 20px;
+
+}
+
+.login #nav, .login #backtoblog {
+    display: none;
+    visibility: hidden;
+
+}
+
+#login-links #nav, #login-links #backtoblog {
+    display: block;
+    visibility: visible;
+
+}
+
+.user-pass-wrap {
+    width: 290px;
+    display: block;
+    margin-left: auto !important;
+}

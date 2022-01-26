@@ -1,0 +1,526 @@
+0000.000 (0) Opened log file at time: Tue, 25 Jan 2022 17:06:20 +0000 on https://intermedio.tecnocommerce.tecnosoluciones.com
+0000.042 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.16.47.25 WP: 5.8.1 PHP: 7.4.27 (fpm-fcgi, Linux server4.1ahost.com 3.10.0-1062.1.2.el7.x86_64 #1 SMP Mon Sep 30 14:19:46 UTC 2019 x86_64) MySQL: 5.7.37-log WPLANG: es_ES Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 1024M (used: 109.7M | 12M) multisite: N openssl: OpenSSL 1.1.1m  14 Dec 2021 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.084 (0) Free space on disk containing Updraft's temporary directory: 1142075.1 MB
+0000.126 (0) Deleting old log file: log.9a2f8b8866a5.txt
+0000.168 (0) Deleting old log file: log.15476abbd4f7.txt
+0000.168 (0) Deleting old log file: log.cb834ea9cd7b.txt
+0000.168 (0) Deleting old log file: log.07ff0edc509f.txt
+0000.168 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.268 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.419 (0) Set semaphore last lock (fd) time to 2022-01-25 17:06:20
+0000.452 (0) Semaphore lock (fd) complete
+0000.552 (0) Backup run: resumption=0, nonce=1ec31d2c8c74, file_nonce=1ec31d2c8c74 begun at=1643130380 (0s ago), job type=backup, label=Copia de seguridad automática antes de 
+0000.619 (0) Scheduling a resumption (1) after 300 seconds (1643130680) in case this run gets aborted
+0000.716 (0) Checking if we have a zip executable available
+0000.778 (0) Creation of backups of directories: beginning
+0000.845 (0) No backup of plugins: excluded by user's options
+0000.880 (0) No backup of themes: excluded by user's options
+0000.929 (0) No backup of uploads: excluded by user's options
+0000.997 (0) Beginning creation of dump of wpcore (split every: 400 MB)
+0003.385 (0) Total entities for the zip file: 218 directories, 2246 files (0 skipped as non-modified), 43.7 MB
+0003.463 (0) Zip: backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-wpcore.zip.tmp: 100 files added (on-disk size: 0 KB)
+0003.505 (0) Zip: backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-wpcore.zip.tmp: 200 files added (on-disk size: 0 KB)
+0003.547 (0) Zip: backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-wpcore.zip.tmp: 300 files added (on-disk size: 0 KB)
+0003.589 (0) Zip: backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-wpcore.zip.tmp: 400 files added (on-disk size: 0 KB)
+0003.631 (0) Zip: backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-wpcore.zip.tmp: 500 files added (on-disk size: 0 KB)
+0003.673 (0) Zip: backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-wpcore.zip.tmp: 600 files added (on-disk size: 0 KB)
+0003.714 (0) Zip: backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-wpcore.zip.tmp: 700 files added (on-disk size: 0 KB)
+0003.752 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (11.9 MB, 701 (701) files added so far); re-opening (prior size: 0 KB)
+0006.235 (0) Zip: backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-wpcore.zip.tmp: 800 files added (on-disk size: 3281.6 KB)
+0006.281 (0) Zip: backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-wpcore.zip.tmp: 900 files added (on-disk size: 3281.6 KB)
+0006.357 (0) Zip: backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-wpcore.zip.tmp: 1000 files added (on-disk size: 3281.6 KB)
+0006.415 (0) Zip: backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-wpcore.zip.tmp: 1100 files added (on-disk size: 3281.6 KB)
+0006.474 (0) Zip: backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-wpcore.zip.tmp: 1200 files added (on-disk size: 3281.6 KB)
+0006.533 (0) Zip: backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-wpcore.zip.tmp: 1300 files added (on-disk size: 3281.6 KB)
+0006.591 (0) Zip: backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-wpcore.zip.tmp: 1400 files added (on-disk size: 3281.6 KB)
+0006.650 (0) Zip: backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-wpcore.zip.tmp: 1500 files added (on-disk size: 3281.6 KB)
+0006.709 (0) Zip: backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-wpcore.zip.tmp: 1600 files added (on-disk size: 3281.6 KB)
+0006.767 (0) Zip: backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-wpcore.zip.tmp: 1700 files added (on-disk size: 3281.6 KB)
+0006.963 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (20.5 MB, 2246 files batched, 1001 (1702) added so far); re-opening (prior size: 3281.6 KB)
+0013.444 (0) Zip: backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-wpcore.zip.tmp: 1800 files added (on-disk size: 8573.1 KB)
+0013.477 (0) Zip: backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-wpcore.zip.tmp: 1900 files added (on-disk size: 8573.1 KB)
+0013.510 (0) Zip: backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-wpcore.zip.tmp: 2000 files added (on-disk size: 8573.1 KB)
+0013.544 (0) Zip: backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-wpcore.zip.tmp: 2100 files added (on-disk size: 8573.1 KB)
+0013.578 (0) Zip: backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-wpcore.zip.tmp: 2200 files added (on-disk size: 8573.1 KB)
+0015.896 (0) Created wpcore zip (0) - 11757.3 KB in 14.9 s (790.9 KB/s) (sha1: 6c3ec955b3129296aefdcf33b6ba4aa0a2333f23, sha256: 19ec376c06ae25d3089ce9372951e7999a5152553275ca2b183bbe59c6caa32c)
+0015.988 (0) No backup of others: excluded by user's options
+0016.021 (0) No backup of more: excluded by user's options
+0016.155 (0) Saving backup status to database (elements: 2)
+0016.222 (0) Beginning creation of database dump (WordPress DB)
+0016.256 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0016.390 (0) Table wptsc_options: Total expected rows (approximate): 602
+0016.544 (0) Table wptsc_options: Rows added in this batch (next record: 20918): 610 (uncompressed bytes in this segment=2586947) in 0.12 seconds
+0016.658 (0) Table wptsc_options: finishing file(s) (2, 288.4 KB)
+0016.742 (0) Table wptsc_users: Total expected rows (approximate): 0
+0016.785 (0) Table wptsc_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1412) in 0.00 seconds
+0016.909 (0) Table wptsc_users: finishing file(s) (2, 0.6 KB)
+0016.993 (0) Table wptsc_usermeta: Total expected rows (approximate): 37
+0017.036 (0) Table wptsc_usermeta: Rows added in this batch (next record: 229): 38 (uncompressed bytes in this segment=24549) in 0.00 seconds
+0017.177 (0) Table wptsc_usermeta: finishing file(s) (2, 4.2 KB)
+0017.295 (0) Table wptsc_actionscheduler_actions: Total expected rows (approximate): 2
+0017.346 (0) Table wptsc_actionscheduler_actions: Rows added in this batch (next record: 49): 2 (uncompressed bytes in this segment=2317) in 0.00 seconds
+0017.454 (0) Table wptsc_actionscheduler_actions: finishing file(s) (2, 0.8 KB)
+0017.522 (0) Table wptsc_actionscheduler_claims: Total expected rows (approximate): 0
+0017.572 (0) Table wptsc_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=653) in 0.00 seconds
+0017.697 (0) Table wptsc_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0017.773 (0) Table wptsc_actionscheduler_groups: Total expected rows (approximate): 3
+0017.807 (0) Table wptsc_actionscheduler_groups: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=765) in 0.00 seconds
+0017.957 (0) Table wptsc_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0018.033 (0) Table wptsc_actionscheduler_logs: Total expected rows (approximate): 4
+0018.075 (0) Table wptsc_actionscheduler_logs: Rows added in this batch (next record: 37): 4 (uncompressed bytes in this segment=1216) in 0.00 seconds
+0018.225 (0) Table wptsc_actionscheduler_logs: finishing file(s) (2, 0.5 KB)
+0018.310 (0) Table wptsc_commentmeta: Total expected rows (approximate): 0
+0018.352 (0) Table wptsc_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=691) in 0.00 seconds
+0018.477 (0) Table wptsc_commentmeta: finishing file(s) (2, 0.4 KB)
+0018.561 (0) Table wptsc_comments: Total expected rows (approximate): 0
+0018.603 (0) Table wptsc_comments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1734) in 0.00 seconds
+0018.728 (0) Table wptsc_comments: finishing file(s) (2, 0.5 KB)
+0018.804 (0) Table wptsc_itsec_bans: Total expected rows (approximate): 0
+0018.838 (0) Table wptsc_itsec_bans: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=894) in 0.00 seconds
+0018.937 (0) Table wptsc_itsec_bans: finishing file(s) (2, 0.4 KB)
+0019.005 (0) Table wptsc_itsec_dashboard_events: Total expected rows (approximate): 0
+0019.039 (0) Table wptsc_itsec_dashboard_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=834) in 0.00 seconds
+0019.181 (0) Table wptsc_itsec_dashboard_events: finishing file(s) (2, 0.4 KB)
+0019.249 (0) Table wptsc_itsec_distributed_storage: Total expected rows (approximate): 0
+0019.282 (0) Table wptsc_itsec_distributed_storage: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=933) in 0.00 seconds
+0019.382 (0) Table wptsc_itsec_distributed_storage: finishing file(s) (2, 0.4 KB)
+0019.450 (0) Table wptsc_itsec_fingerprints: Total expected rows (approximate): 0
+0019.483 (0) Table wptsc_itsec_fingerprints: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1241) in 0.00 seconds
+0019.601 (0) Table wptsc_itsec_fingerprints: finishing file(s) (2, 0.5 KB)
+0019.685 (0) Table wptsc_itsec_geolocation_cache: Total expected rows (approximate): 0
+0019.727 (0) Table wptsc_itsec_geolocation_cache: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=955) in 0.00 seconds
+0019.852 (0) Table wptsc_itsec_geolocation_cache: finishing file(s) (2, 0.4 KB)
+0019.936 (0) Table wptsc_itsec_lockouts: Total expected rows (approximate): 0
+0019.978 (0) Table wptsc_itsec_lockouts: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1227) in 0.00 seconds
+0020.145 (0) Table wptsc_itsec_lockouts: finishing file(s) (2, 0.5 KB)
+0020.230 (0) Table wptsc_itsec_logs: Total expected rows (approximate): 78
+0020.276 (0) Table wptsc_itsec_logs: Rows added in this batch (next record: 78): 78 (uncompressed bytes in this segment=23584) in 0.00 seconds
+0020.371 (0) Table wptsc_itsec_logs: finishing file(s) (2, 3.6 KB)
+0020.473 (0) Table wptsc_itsec_mutexes: Total expected rows (approximate): 0
+0020.540 (0) Table wptsc_itsec_mutexes: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=635) in 0.00 seconds
+0020.640 (0) Table wptsc_itsec_mutexes: finishing file(s) (2, 0.4 KB)
+0020.716 (0) Table wptsc_itsec_opaque_tokens: Total expected rows (approximate): 0
+0020.749 (0) Table wptsc_itsec_opaque_tokens: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=785) in 0.00 seconds
+0020.866 (0) Table wptsc_itsec_opaque_tokens: finishing file(s) (2, 0.4 KB)
+0020.942 (0) Table wptsc_itsec_temp: Total expected rows (approximate): 0
+0020.976 (0) Table wptsc_itsec_temp: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=921) in 0.00 seconds
+0021.101 (0) Table wptsc_itsec_temp: finishing file(s) (2, 0.4 KB)
+0021.185 (0) Table wptsc_itsec_user_groups: Total expected rows (approximate): 5
+0021.228 (0) Table wptsc_itsec_user_groups: Rows added in this batch (next record: 1000): 5 (uncompressed bytes in this segment=1432) in 0.00 seconds
+0021.395 (0) Table wptsc_itsec_user_groups: finishing file(s) (2, 0.6 KB)
+0021.630 (0) Table wptsc_links: Total expected rows (approximate): 0
+0021.664 (0) Table wptsc_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1288) in 0.00 seconds
+0021.864 (0) Table wptsc_links: finishing file(s) (2, 0.5 KB)
+0021.933 (0) Table wptsc_postmeta: Total expected rows (approximate): 42
+0021.975 (0) Table wptsc_postmeta: Rows added in this batch (next record: 129): 46 (uncompressed bytes in this segment=8953) in 0.00 seconds
+0022.108 (0) Table wptsc_postmeta: finishing file(s) (2, 2.2 KB)
+0022.192 (0) Table wptsc_posts: Total expected rows (approximate): 19
+0022.227 (0) Table wptsc_posts: Rows added in this batch (next record: 65): 20 (uncompressed bytes in this segment=15666) in 0.00 seconds
+0022.342 (0) Table wptsc_posts: finishing file(s) (2, 3.9 KB)
+0022.444 (0) Table wptsc_term_relationships: Total expected rows (approximate): 1
+0022.561 (0) Table wptsc_term_relationships: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=661) in 0.06 seconds
+0022.686 (0) Table wptsc_term_relationships: finishing file(s) (2, 0.3 KB)
+0022.771 (0) Table wptsc_term_taxonomy: Total expected rows (approximate): 16
+0022.854 (0) Table wptsc_term_taxonomy: Rows added in this batch (next record: 16): 16 (uncompressed bytes in this segment=1539) in 0.04 seconds
+0023.080 (0) Table wptsc_term_taxonomy: finishing file(s) (2, 0.6 KB)
+0023.147 (0) Table wptsc_termmeta: Total expected rows (approximate): 0
+0023.181 (0) Table wptsc_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=664) in 0.00 seconds
+0023.314 (0) Table wptsc_termmeta: finishing file(s) (2, 0.4 KB)
+0023.399 (0) Table wptsc_terms: Total expected rows (approximate): 16
+0023.458 (0) Table wptsc_terms: Rows added in this batch (next record: 16): 16 (uncompressed bytes in this segment=1298) in 0.00 seconds
+0023.599 (0) Table wptsc_terms: finishing file(s) (2, 0.6 KB)
+0023.667 (0) Table wptsc_wc_category_lookup: Total expected rows (approximate): 1
+0023.722 (0) Table wptsc_wc_category_lookup: Rows added in this batch (next record: 1000): 1 (uncompressed bytes in this segment=610) in 0.02 seconds
+0023.850 (0) Table wptsc_wc_category_lookup: finishing file(s) (2, 0.3 KB)
+0023.926 (0) Table wptsc_wc_product_meta_lookup: Total expected rows (approximate): 0
+0023.969 (0) Table wptsc_wc_product_meta_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1379) in 0.00 seconds
+0024.093 (0) Table wptsc_wc_product_meta_lookup: finishing file(s) (2, 0.5 KB)
+0024.186 (0) Table wptsc_wc_reserved_stock: Total expected rows (approximate): 0
+0024.237 (0) Table wptsc_wc_reserved_stock: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=683) in 0.00 seconds
+0024.379 (0) Table wptsc_wc_reserved_stock: finishing file(s) (2, 0.4 KB)
+0024.463 (0) Table wptsc_wc_tax_rate_classes: Total expected rows (approximate): 2
+0024.519 (0) Table wptsc_wc_tax_rate_classes: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=833) in 0.01 seconds
+0024.639 (0) Table wptsc_wc_tax_rate_classes: finishing file(s) (2, 0.4 KB)
+0024.706 (0) Table wptsc_woocommerce_order_itemmeta: Total expected rows (approximate): 0
+0024.740 (0) Table wptsc_woocommerce_order_itemmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=789) in 0.00 seconds
+0024.840 (0) Table wptsc_woocommerce_order_itemmeta: finishing file(s) (2, 0.4 KB)
+0024.908 (0) Table wptsc_woocommerce_payment_tokenmeta: Total expected rows (approximate): 0
+0024.945 (0) Table wptsc_woocommerce_payment_tokenmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=816) in 0.00 seconds
+0025.076 (0) Table wptsc_woocommerce_payment_tokenmeta: finishing file(s) (2, 0.4 KB)
+0025.143 (0) Table wptsc_berocket_termmeta: Total expected rows (approximate): 0
+0025.177 (0) Table wptsc_berocket_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=665) in 0.00 seconds
+0025.285 (0) Table wptsc_berocket_termmeta: finishing file(s) (2, 0.4 KB)
+0025.370 (0) Table wptsc_cmplz_cookiebanners: Total expected rows (approximate): 1
+0025.431 (0) Table wptsc_cmplz_cookiebanners: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=4305) in 0.01 seconds
+0025.629 (0) Table wptsc_cmplz_cookiebanners: finishing file(s) (2, 0.8 KB)
+0025.714 (0) Table wptsc_cmplz_cookies: Total expected rows (approximate): 26
+0025.757 (0) Table wptsc_cmplz_cookies: Rows added in this batch (next record: 26): 26 (uncompressed bytes in this segment=4482) in 0.00 seconds
+0025.922 (0) Table wptsc_cmplz_cookies: finishing file(s) (2, 0.9 KB)
+0026.049 (0) Table wptsc_cmplz_services: Total expected rows (approximate): 0
+0026.099 (0) Table wptsc_cmplz_services: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1055) in 0.00 seconds
+0026.199 (0) Table wptsc_cmplz_services: finishing file(s) (2, 0.4 KB)
+0026.267 (0) Table wptsc_e_submissions: Total expected rows (approximate): 0
+0026.300 (0) Table wptsc_e_submissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=2300) in 0.00 seconds
+0026.400 (0) Table wptsc_e_submissions: finishing file(s) (2, 0.7 KB)
+0026.476 (0) Table wptsc_e_submissions_actions_log: Total expected rows (approximate): 0
+0026.510 (0) Table wptsc_e_submissions_actions_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1269) in 0.00 seconds
+0026.610 (0) Table wptsc_e_submissions_actions_log: finishing file(s) (2, 0.5 KB)
+0026.678 (0) Table wptsc_e_submissions_values: Total expected rows (approximate): 0
+0026.720 (0) Table wptsc_e_submissions_values: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=742) in 0.00 seconds
+0026.845 (0) Table wptsc_e_submissions_values: finishing file(s) (2, 0.4 KB)
+0026.930 (0) Table wptsc_realmedialibrary: Total expected rows (approximate): 0
+0026.972 (0) Table wptsc_realmedialibrary: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1089) in 0.00 seconds
+0027.097 (0) Table wptsc_realmedialibrary: finishing file(s) (2, 0.5 KB)
+0027.182 (0) Table wptsc_realmedialibrary_meta: Total expected rows (approximate): 0
+0027.215 (0) Table wptsc_realmedialibrary_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=790) in 0.00 seconds
+0027.315 (0) Table wptsc_realmedialibrary_meta: finishing file(s) (2, 0.4 KB)
+0027.383 (0) Table wptsc_realmedialibrary_posts: Total expected rows (approximate): 2
+0027.427 (0) Table wptsc_realmedialibrary_posts: Rows added in this batch (next record: 1000): 2 (uncompressed bytes in this segment=878) in 0.01 seconds
+0027.533 (0) Table wptsc_realmedialibrary_posts: finishing file(s) (2, 0.4 KB)
+0027.601 (0) Table wptsc_realmedialibrary_tmp: Total expected rows (approximate): 0
+0027.660 (0) Table wptsc_realmedialibrary_tmp: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=653) in 0.00 seconds
+0027.826 (0) Table wptsc_realmedialibrary_tmp: finishing file(s) (2, 0.4 KB)
+0027.994 (0) Table wptsc_revslider_css: Total expected rows (approximate): 109
+0028.103 (0) Table wptsc_revslider_css: Rows added in this batch (next record: 109): 109 (uncompressed bytes in this segment=91052) in 0.05 seconds
+0028.412 (0) Table wptsc_revslider_css: finishing file(s) (2, 4.9 KB)
+0028.529 (0) Table wptsc_revslider_css_bkp: Total expected rows (approximate): 47
+0028.612 (0) Table wptsc_revslider_css_bkp: Rows added in this batch (next record: 47): 47 (uncompressed bytes in this segment=15381) in 0.03 seconds
+0028.855 (0) Table wptsc_revslider_css_bkp: finishing file(s) (2, 1.8 KB)
+0029.065 (0) Table wptsc_revslider_layer_animations: Total expected rows (approximate): 0
+0029.124 (0) Table wptsc_revslider_layer_animations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=558) in 0.00 seconds
+0029.257 (0) Table wptsc_revslider_layer_animations: finishing file(s) (2, 0.3 KB)
+0029.349 (0) Table wptsc_revslider_layer_animations_bkp: Total expected rows (approximate): 0
+0029.400 (0) Table wptsc_revslider_layer_animations_bkp: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=582) in 0.00 seconds
+0029.558 (0) Table wptsc_revslider_layer_animations_bkp: finishing file(s) (2, 0.3 KB)
+0029.676 (0) Table wptsc_revslider_navigations: Total expected rows (approximate): 0
+0029.735 (0) Table wptsc_revslider_navigations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=635) in 0.00 seconds
+0029.918 (0) Table wptsc_revslider_navigations: finishing file(s) (2, 0.3 KB)
+0030.036 (0) Table wptsc_revslider_navigations_bkp: Total expected rows (approximate): 0
+0030.086 (0) Table wptsc_revslider_navigations_bkp: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=659) in 0.00 seconds
+0030.269 (0) Table wptsc_revslider_navigations_bkp: finishing file(s) (2, 0.3 KB)
+0030.387 (0) Table wptsc_revslider_sliders: Total expected rows (approximate): 0
+0030.454 (0) Table wptsc_revslider_sliders: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=574) in 0.00 seconds
+0030.854 (0) Table wptsc_revslider_sliders: finishing file(s) (2, 0.3 KB)
+0031.240 (0) Table wptsc_revslider_sliders_bkp: Total expected rows (approximate): 0
+0031.599 (0) Table wptsc_revslider_sliders_bkp: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=598) in 0.00 seconds
+0031.824 (0) Table wptsc_revslider_sliders_bkp: finishing file(s) (2, 0.3 KB)
+0031.933 (0) Table wptsc_revslider_slides: Total expected rows (approximate): 0
+0031.993 (0) Table wptsc_revslider_slides: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=580) in 0.00 seconds
+0032.167 (0) Table wptsc_revslider_slides: finishing file(s) (2, 0.3 KB)
+0032.277 (0) Table wptsc_revslider_slides_bkp: Total expected rows (approximate): 0
+0032.319 (0) Table wptsc_revslider_slides_bkp: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=604) in 0.00 seconds
+0032.486 (0) Table wptsc_revslider_slides_bkp: finishing file(s) (2, 0.3 KB)
+0032.587 (0) Table wptsc_revslider_static_slides: Total expected rows (approximate): 0
+0032.646 (0) Table wptsc_revslider_static_slides: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=588) in 0.00 seconds
+0033.010 (0) Table wptsc_revslider_static_slides: finishing file(s) (2, 0.3 KB)
+0033.898 (0) Table wptsc_revslider_static_slides_bkp: Total expected rows (approximate): 0
+0033.940 (0) Table wptsc_revslider_static_slides_bkp: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=612) in 0.00 seconds
+0034.065 (0) Table wptsc_revslider_static_slides_bkp: finishing file(s) (2, 0.3 KB)
+0034.158 (0) Table wptsc_tinvwl_analytics: Total expected rows (approximate): 0
+0034.191 (0) Table wptsc_tinvwl_analytics: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=960) in 0.00 seconds
+0034.292 (0) Table wptsc_tinvwl_analytics: finishing file(s) (2, 0.4 KB)
+0034.359 (0) Table wptsc_tinvwl_items: Total expected rows (approximate): 0
+0034.393 (0) Table wptsc_tinvwl_items: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=806) in 0.00 seconds
+0034.493 (0) Table wptsc_tinvwl_items: finishing file(s) (2, 0.4 KB)
+0034.560 (0) Table wptsc_tinvwl_lists: Total expected rows (approximate): 0
+0034.594 (0) Table wptsc_tinvwl_lists: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=651) in 0.00 seconds
+0034.694 (0) Table wptsc_tinvwl_lists: finishing file(s) (2, 0.4 KB)
+0034.762 (0) Table wptsc_wc_admin_note_actions: Total expected rows (approximate): 66
+0034.797 (0) Table wptsc_wc_admin_note_actions: Rows added in this batch (next record: 9139): 66 (uncompressed bytes in this segment=11704) in 0.00 seconds
+0034.920 (0) Table wptsc_wc_admin_note_actions: finishing file(s) (2, 2.6 KB)
+0035.005 (0) Table wptsc_wc_admin_notes: Total expected rows (approximate): 61
+0035.057 (0) Table wptsc_wc_admin_notes: Rows added in this batch (next record: 61): 61 (uncompressed bytes in this segment=30822) in 0.00 seconds
+0035.197 (0) Table wptsc_wc_admin_notes: finishing file(s) (2, 8 KB)
+0035.289 (0) Table wptsc_wc_customer_lookup: Total expected rows (approximate): 0
+0035.331 (0) Table wptsc_wc_customer_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1284) in 0.00 seconds
+0035.457 (0) Table wptsc_wc_customer_lookup: finishing file(s) (2, 0.5 KB)
+0035.549 (0) Table wptsc_wc_download_log: Total expected rows (approximate): 0
+0035.600 (0) Table wptsc_wc_download_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=765) in 0.00 seconds
+0035.725 (0) Table wptsc_wc_download_log: finishing file(s) (2, 0.4 KB)
+0035.809 (0) Table wptsc_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0035.843 (0) Table wptsc_wc_order_coupon_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=735) in 0.00 seconds
+0035.976 (0) Table wptsc_wc_order_coupon_lookup: finishing file(s) (2, 0.4 KB)
+0036.060 (0) Table wptsc_wc_order_product_lookup: Total expected rows (approximate): 0
+0036.111 (0) Table wptsc_wc_order_product_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1245) in 0.00 seconds
+0036.211 (0) Table wptsc_wc_order_product_lookup: finishing file(s) (2, 0.5 KB)
+0036.295 (0) Table wptsc_wc_order_stats: Total expected rows (approximate): 0
+0036.337 (0) Table wptsc_wc_order_stats: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1140) in 0.00 seconds
+0036.462 (0) Table wptsc_wc_order_stats: finishing file(s) (2, 0.5 KB)
+0036.530 (0) Table wptsc_wc_order_tax_lookup: Total expected rows (approximate): 0
+0036.571 (0) Table wptsc_wc_order_tax_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=817) in 0.00 seconds
+0036.713 (0) Table wptsc_wc_order_tax_lookup: finishing file(s) (2, 0.4 KB)
+0036.923 (0) Table wptsc_wc_webhooks: Total expected rows (approximate): 0
+0036.990 (0) Table wptsc_wc_webhooks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1248) in 0.00 seconds
+0037.140 (0) Table wptsc_wc_webhooks: finishing file(s) (2, 0.5 KB)
+0037.225 (0) Table wptsc_woocommerce_api_keys: Total expected rows (approximate): 0
+0037.267 (0) Table wptsc_woocommerce_api_keys: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1064) in 0.00 seconds
+0037.367 (0) Table wptsc_woocommerce_api_keys: finishing file(s) (2, 0.5 KB)
+0037.435 (0) Table wptsc_woocommerce_attribute_taxonomies: Total expected rows (approximate): 0
+0037.468 (0) Table wptsc_woocommerce_attribute_taxonomies: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=979) in 0.00 seconds
+0037.568 (0) Table wptsc_woocommerce_attribute_taxonomies: finishing file(s) (2, 0.4 KB)
+0037.636 (0) Table wptsc_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0037.670 (0) Table wptsc_woocommerce_downloadable_product_permissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1556) in 0.00 seconds
+0037.770 (0) Table wptsc_woocommerce_downloadable_product_permissions: finishing file(s) (2, 0.5 KB)
+0037.837 (0) Table wptsc_woocommerce_log: Total expected rows (approximate): 0
+0037.871 (0) Table wptsc_woocommerce_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=740) in 0.00 seconds
+0037.971 (0) Table wptsc_woocommerce_log: finishing file(s) (2, 0.4 KB)
+0038.039 (0) Table wptsc_woocommerce_order_items: Total expected rows (approximate): 0
+0038.097 (0) Table wptsc_woocommerce_order_items: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=757) in 0.00 seconds
+0038.298 (0) Table wptsc_woocommerce_order_items: finishing file(s) (2, 0.4 KB)
+0038.415 (0) Table wptsc_woocommerce_payment_tokens: Total expected rows (approximate): 0
+0038.457 (0) Table wptsc_woocommerce_payment_tokens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=859) in 0.00 seconds
+0038.599 (0) Table wptsc_woocommerce_payment_tokens: finishing file(s) (2, 0.4 KB)
+0038.709 (0) Table wptsc_woocommerce_sessions: Total expected rows (approximate): 1
+0038.759 (0) Table wptsc_woocommerce_sessions: Rows added in this batch (next record: 4): 1 (uncompressed bytes in this segment=2217) in 0.00 seconds
+0038.892 (0) Table wptsc_woocommerce_sessions: finishing file(s) (2, 0.9 KB)
+0038.994 (0) Table wptsc_woocommerce_shipping_zone_locations: Total expected rows (approximate): 0
+0039.027 (0) Table wptsc_woocommerce_shipping_zone_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=892) in 0.00 seconds
+0039.127 (0) Table wptsc_woocommerce_shipping_zone_locations: finishing file(s) (2, 0.4 KB)
+0039.195 (0) Table wptsc_woocommerce_shipping_zone_methods: Total expected rows (approximate): 0
+0039.229 (0) Table wptsc_woocommerce_shipping_zone_methods: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=793) in 0.00 seconds
+0039.329 (0) Table wptsc_woocommerce_shipping_zone_methods: finishing file(s) (2, 0.4 KB)
+0039.397 (0) Table wptsc_woocommerce_shipping_zones: Total expected rows (approximate): 0
+0039.430 (0) Table wptsc_woocommerce_shipping_zones: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=651) in 0.00 seconds
+0039.530 (0) Table wptsc_woocommerce_shipping_zones: finishing file(s) (2, 0.4 KB)
+0039.598 (0) Table wptsc_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0039.632 (0) Table wptsc_woocommerce_tax_rate_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=866) in 0.00 seconds
+0039.756 (0) Table wptsc_woocommerce_tax_rate_locations: finishing file(s) (2, 0.4 KB)
+0039.841 (0) Table wptsc_woocommerce_tax_rates: Total expected rows (approximate): 0
+0039.883 (0) Table wptsc_woocommerce_tax_rates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1319) in 0.00 seconds
+0040.008 (0) Table wptsc_woocommerce_tax_rates: finishing file(s) (2, 0.5 KB)
+0040.092 (0) Table wptsc_yoast_indexable: Total expected rows (approximate): 23
+0040.136 (0) Table wptsc_yoast_indexable: Rows added in this batch (next record: 34): 23 (uncompressed bytes in this segment=13456) in 0.00 seconds
+0040.260 (0) Table wptsc_yoast_indexable: finishing file(s) (2, 2.4 KB)
+0040.335 (0) Table wptsc_yoast_indexable_hierarchy: Total expected rows (approximate): 23
+0040.369 (0) Table wptsc_yoast_indexable_hierarchy: Rows added in this batch (next record: 1000): 23 (uncompressed bytes in this segment=1188) in 0.00 seconds
+0040.469 (0) Table wptsc_yoast_indexable_hierarchy: finishing file(s) (2, 0.5 KB)
+0040.537 (0) Table wptsc_yoast_migrations: Total expected rows (approximate): 22
+0040.660 (0) Table wptsc_yoast_migrations: Rows added in this batch (next record: 22): 22 (uncompressed bytes in this segment=1198) in 0.07 seconds
+0040.829 (0) Table wptsc_yoast_migrations: finishing file(s) (2, 0.6 KB)
+0040.922 (0) Table wptsc_yoast_primary_term: Total expected rows (approximate): 0
+0040.980 (0) Table wptsc_yoast_primary_term: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=876) in 0.00 seconds
+0041.080 (0) Table wptsc_yoast_primary_term: finishing file(s) (2, 0.4 KB)
+0041.148 (0) Table wptsc_yoast_prominent_words: Total expected rows (approximate): 0
+0041.182 (0) Table wptsc_yoast_prominent_words: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=638) in 0.00 seconds
+0041.290 (0) Table wptsc_yoast_prominent_words: finishing file(s) (2, 0.4 KB)
+0041.374 (0) Table wptsc_yoast_seo_links: Total expected rows (approximate): 10
+0041.417 (0) Table wptsc_yoast_seo_links: Rows added in this batch (next record: 11): 10 (uncompressed bytes in this segment=2620) in 0.00 seconds
+0041.541 (0) Table wptsc_yoast_seo_links: finishing file(s) (2, 0.7 KB)
+0041.634 (0) Table wptsc_yoast_seo_meta: Total expected rows (approximate): 29
+0041.768 (0) Table wptsc_yoast_seo_meta: Rows added in this batch (next record: 44): 29 (uncompressed bytes in this segment=991) in 0.08 seconds
+0041.968 (0) Table wptsc_yoast_seo_meta: finishing file(s) (2, 0.4 KB)
+0042.053 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_options.table.tmpr20919.gz (1/87): adding to final database dump
+0042.158 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_options.table.gz (2/87): adding to final database dump
+0042.211 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_users.table.tmpr2.gz (3/87): adding to final database dump
+0042.270 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_users.table.gz (4/87): adding to final database dump
+0042.328 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_usermeta.table.tmpr230.gz (5/87): adding to final database dump
+0042.379 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_usermeta.table.gz (6/87): adding to final database dump
+0042.437 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_actionscheduler_actions.table.tmpr50.gz (7/87): adding to final database dump
+0042.504 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_actionscheduler_actions.table.gz (8/87): adding to final database dump
+0042.562 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_actionscheduler_claims.table.tmpr0.gz (9/87): adding to final database dump
+0042.629 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_actionscheduler_claims.table.gz (10/87): adding to final database dump
+0042.696 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_actionscheduler_groups.table.tmpr4.gz (11/87): adding to final database dump
+0042.755 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_actionscheduler_groups.table.gz (12/87): adding to final database dump
+0042.805 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_actionscheduler_logs.table.tmpr38.gz (13/87): adding to final database dump
+0042.863 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_actionscheduler_logs.table.gz (14/87): adding to final database dump
+0042.922 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_commentmeta.table.tmpr0.gz (15/87): adding to final database dump
+0042.980 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_commentmeta.table.gz (16/87): adding to final database dump
+0043.039 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_comments.table.tmpr0.gz (17/87): adding to final database dump
+0043.190 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_comments.table.gz (18/87): adding to final database dump
+0043.298 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_itsec_bans.table.tmpr0.gz (19/87): adding to final database dump
+0043.365 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_itsec_bans.table.gz (20/87): adding to final database dump
+0043.473 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_itsec_dashboard_events.table.tmpr0.gz (21/87): adding to final database dump
+0043.557 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_itsec_dashboard_events.table.gz (22/87): adding to final database dump
+0043.724 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_itsec_distributed_storage.table.tmpr0.gz (23/87): adding to final database dump
+0043.841 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_itsec_distributed_storage.table.gz (24/87): adding to final database dump
+0043.933 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_itsec_fingerprints.table.tmpr0.gz (25/87): adding to final database dump
+0044.050 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_itsec_fingerprints.table.gz (26/87): adding to final database dump
+0044.158 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_itsec_geolocation_cache.table.tmpr0.gz (27/87): adding to final database dump
+0044.225 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_itsec_geolocation_cache.table.gz (28/87): adding to final database dump
+0044.292 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_itsec_lockouts.table.tmpr0.gz (29/87): adding to final database dump
+0044.350 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_itsec_lockouts.table.gz (30/87): adding to final database dump
+0044.409 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_itsec_logs.table.tmpr79.gz (31/87): adding to final database dump
+0044.468 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_itsec_logs.table.gz (32/87): adding to final database dump
+0044.542 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_itsec_mutexes.table.tmpr0.gz (33/87): adding to final database dump
+0044.601 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_itsec_mutexes.table.gz (34/87): adding to final database dump
+0044.659 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_itsec_opaque_tokens.table.tmpr1.gz (35/87): adding to final database dump
+0044.744 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_itsec_opaque_tokens.table.gz (36/87): adding to final database dump
+0044.794 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_itsec_temp.table.tmpr0.gz (37/87): adding to final database dump
+0044.844 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_itsec_temp.table.gz (38/87): adding to final database dump
+0044.902 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_itsec_user_groups.table.tmpr1001.gz (39/87): adding to final database dump
+0044.961 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_itsec_user_groups.table.gz (40/87): adding to final database dump
+0045.019 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_links.table.tmpr0.gz (41/87): adding to final database dump
+0045.078 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_links.table.gz (42/87): adding to final database dump
+0045.120 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_postmeta.table.tmpr130.gz (43/87): adding to final database dump
+0045.178 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_postmeta.table.gz (44/87): adding to final database dump
+0045.245 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_posts.table.tmpr66.gz (45/87): adding to final database dump
+0045.304 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_posts.table.gz (46/87): adding to final database dump
+0045.437 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_term_relationships.table.tmpr1.gz (47/87): adding to final database dump
+0045.546 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_term_relationships.table.gz (48/87): adding to final database dump
+0045.613 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_term_taxonomy.table.tmpr17.gz (49/87): adding to final database dump
+0045.680 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_term_taxonomy.table.gz (50/87): adding to final database dump
+0045.747 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_termmeta.table.tmpr0.gz (51/87): adding to final database dump
+0045.781 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_termmeta.table.gz (52/87): adding to final database dump
+0045.814 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_terms.table.tmpr17.gz (53/87): adding to final database dump
+0045.848 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_terms.table.gz (54/87): adding to final database dump
+0045.881 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_wc_category_lookup.table.tmpr1001.gz (55/87): adding to final database dump
+0045.940 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_wc_category_lookup.table.gz (56/87): adding to final database dump
+0045.998 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_wc_product_meta_lookup.table.tmpr0.gz (57/87): adding to final database dump
+0046.057 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_wc_product_meta_lookup.table.gz (58/87): adding to final database dump
+0046.115 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_wc_reserved_stock.table.tmpr1.gz (59/87): adding to final database dump
+0046.165 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_wc_reserved_stock.table.gz (60/87): adding to final database dump
+0046.199 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_wc_tax_rate_classes.table.tmpr3.gz (61/87): adding to final database dump
+0046.241 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_wc_tax_rate_classes.table.gz (62/87): adding to final database dump
+0046.282 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_woocommerce_order_itemmeta.table.tmpr0.gz (63/87): adding to final database dump
+0046.332 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_woocommerce_order_itemmeta.table.gz (64/87): adding to final database dump
+0046.383 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_woocommerce_payment_tokenmeta.table.tmpr0.gz (65/87): adding to final database dump
+0046.425 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_woocommerce_payment_tokenmeta.table.gz (66/87): adding to final database dump
+0046.475 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_berocket_termmeta.table.tmpr0.gz (67/87): adding to final database dump
+0046.525 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_berocket_termmeta.table.gz (68/87): adding to final database dump
+0046.567 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_cmplz_cookiebanners.table.tmpr2.gz (69/87): adding to final database dump
+0046.609 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_cmplz_cookiebanners.table.gz (70/87): adding to final database dump
+0046.784 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_cmplz_cookies.table.tmpr27.gz (71/87): adding to final database dump
+0046.843 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_cmplz_cookies.table.gz (72/87): adding to final database dump
+0046.885 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_cmplz_services.table.tmpr0.gz (73/87): adding to final database dump
+0046.926 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_cmplz_services.table.gz (74/87): adding to final database dump
+0046.968 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_e_submissions.table.tmpr0.gz (75/87): adding to final database dump
+0047.011 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_e_submissions.table.gz (76/87): adding to final database dump
+0047.044 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_e_submissions_actions_log.table.tmpr0.gz (77/87): adding to final database dump
+0047.078 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_e_submissions_actions_log.table.gz (78/87): adding to final database dump
+0047.111 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_e_submissions_values.table.tmpr0.gz (79/87): adding to final database dump
+0047.145 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_e_submissions_values.table.gz (80/87): adding to final database dump
+0047.178 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_realmedialibrary.table.tmpr0.gz (81/87): adding to final database dump
+0047.212 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_realmedialibrary.table.gz (82/87): adding to final database dump
+0047.246 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_realmedialibrary_meta.table.tmpr0.gz (83/87): adding to final database dump
+0047.279 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_realmedialibrary_meta.table.gz (84/87): adding to final database dump
+0047.314 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_realmedialibrary_posts.table.tmpr1001.gz (85/87): adding to final database dump
+0047.346 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_realmedialibrary_posts.table.gz (86/87): adding to final database dump
+0047.380 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_realmedialibrary_tmp.table.tmpr0.gz (87/87): adding to final database dump
+0047.413 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_realmedialibrary_tmp.table.gz (88/87): adding to final database dump
+0047.447 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_revslider_css.table.tmpr110.gz (89/87): adding to final database dump
+0047.481 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_revslider_css.table.gz (90/87): adding to final database dump
+0047.514 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_revslider_css_bkp.table.tmpr48.gz (91/87): adding to final database dump
+0047.548 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_revslider_css_bkp.table.gz (92/87): adding to final database dump
+0047.581 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_revslider_layer_animations.table.tmpr0.gz (93/87): adding to final database dump
+0047.614 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_revslider_layer_animations.table.gz (94/87): adding to final database dump
+0047.648 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_revslider_layer_animations_bkp.table.tmpr0.gz (95/87): adding to final database dump
+0047.682 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_revslider_layer_animations_bkp.table.gz (96/87): adding to final database dump
+0047.715 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_revslider_navigations.table.tmpr0.gz (97/87): adding to final database dump
+0047.749 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_revslider_navigations.table.gz (98/87): adding to final database dump
+0047.790 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_revslider_navigations_bkp.table.tmpr0.gz (99/87): adding to final database dump
+0047.899 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_revslider_navigations_bkp.table.gz (100/87): adding to final database dump
+0047.941 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_revslider_sliders.table.tmpr0.gz (101/87): adding to final database dump
+0047.983 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_revslider_sliders.table.gz (102/87): adding to final database dump
+0048.025 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_revslider_sliders_bkp.table.tmpr0.gz (103/87): adding to final database dump
+0048.109 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_revslider_sliders_bkp.table.gz (104/87): adding to final database dump
+0048.260 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_revslider_slides.table.tmpr0.gz (105/87): adding to final database dump
+0048.301 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_revslider_slides.table.gz (106/87): adding to final database dump
+0048.343 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_revslider_slides_bkp.table.tmpr0.gz (107/87): adding to final database dump
+0048.385 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_revslider_slides_bkp.table.gz (108/87): adding to final database dump
+0048.427 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_revslider_static_slides.table.tmpr0.gz (109/87): adding to final database dump
+0048.469 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_revslider_static_slides.table.gz (110/87): adding to final database dump
+0048.510 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_revslider_static_slides_bkp.table.tmpr0.gz (111/87): adding to final database dump
+0048.552 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_revslider_static_slides_bkp.table.gz (112/87): adding to final database dump
+0048.594 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_tinvwl_analytics.table.tmpr1.gz (113/87): adding to final database dump
+0048.628 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_tinvwl_analytics.table.gz (114/87): adding to final database dump
+0048.661 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_tinvwl_items.table.tmpr0.gz (115/87): adding to final database dump
+0048.707 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_tinvwl_items.table.gz (116/87): adding to final database dump
+0048.745 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_tinvwl_lists.table.tmpr0.gz (117/87): adding to final database dump
+0048.796 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_tinvwl_lists.table.gz (118/87): adding to final database dump
+0048.848 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_wc_admin_note_actions.table.tmpr9140.gz (119/87): adding to final database dump
+0048.922 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_wc_admin_note_actions.table.gz (120/87): adding to final database dump
+0048.955 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_wc_admin_notes.table.tmpr62.gz (121/87): adding to final database dump
+0049.023 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_wc_admin_notes.table.gz (122/87): adding to final database dump
+0049.148 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_wc_customer_lookup.table.tmpr0.gz (123/87): adding to final database dump
+0049.265 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_wc_customer_lookup.table.gz (124/87): adding to final database dump
+0049.382 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_wc_download_log.table.tmpr0.gz (125/87): adding to final database dump
+0049.510 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_wc_download_log.table.gz (126/87): adding to final database dump
+0049.665 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_wc_order_coupon_lookup.table.tmpr1.gz (127/87): adding to final database dump
+0049.793 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_wc_order_coupon_lookup.table.gz (128/87): adding to final database dump
+0049.859 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_wc_order_product_lookup.table.tmpr0.gz (129/87): adding to final database dump
+0049.926 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_wc_order_product_lookup.table.gz (130/87): adding to final database dump
+0050.010 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_wc_order_stats.table.tmpr0.gz (131/87): adding to final database dump
+0050.085 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_wc_order_stats.table.gz (132/87): adding to final database dump
+0050.160 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_wc_order_tax_lookup.table.tmpr1.gz (133/87): adding to final database dump
+0050.219 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_wc_order_tax_lookup.table.gz (134/87): adding to final database dump
+0050.285 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_wc_webhooks.table.tmpr0.gz (135/87): adding to final database dump
+0050.352 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_wc_webhooks.table.gz (136/87): adding to final database dump
+0050.428 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_woocommerce_api_keys.table.tmpr0.gz (137/87): adding to final database dump
+0050.494 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_woocommerce_api_keys.table.gz (138/87): adding to final database dump
+0050.545 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_woocommerce_attribute_taxonomies.table.tmpr0.gz (139/87): adding to final database dump
+0050.611 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_woocommerce_attribute_taxonomies.table.gz (140/87): adding to final database dump
+0050.662 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_woocommerce_downloadable_product_permissions.table.tmpr0.gz (141/87): adding to final database dump
+0050.754 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_woocommerce_downloadable_product_permissions.table.gz (142/87): adding to final database dump
+0050.829 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_woocommerce_log.table.tmpr0.gz (143/87): adding to final database dump
+0050.896 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_woocommerce_log.table.gz (144/87): adding to final database dump
+0050.963 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_woocommerce_order_items.table.tmpr0.gz (145/87): adding to final database dump
+0051.005 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_woocommerce_order_items.table.gz (146/87): adding to final database dump
+0051.063 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_woocommerce_payment_tokens.table.tmpr0.gz (147/87): adding to final database dump
+0051.105 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_woocommerce_payment_tokens.table.gz (148/87): adding to final database dump
+0051.147 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_woocommerce_sessions.table.tmpr5.gz (149/87): adding to final database dump
+0051.206 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_woocommerce_sessions.table.gz (150/87): adding to final database dump
+0051.247 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_woocommerce_shipping_zone_locations.table.tmpr0.gz (151/87): adding to final database dump
+0051.298 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_woocommerce_shipping_zone_locations.table.gz (152/87): adding to final database dump
+0051.331 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_woocommerce_shipping_zone_methods.table.tmpr0.gz (153/87): adding to final database dump
+0051.365 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_woocommerce_shipping_zone_methods.table.gz (154/87): adding to final database dump
+0051.398 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_woocommerce_shipping_zones.table.tmpr0.gz (155/87): adding to final database dump
+0051.448 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_woocommerce_shipping_zones.table.gz (156/87): adding to final database dump
+0051.482 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_woocommerce_tax_rate_locations.table.tmpr0.gz (157/87): adding to final database dump
+0051.524 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_woocommerce_tax_rate_locations.table.gz (158/87): adding to final database dump
+0051.583 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_woocommerce_tax_rates.table.tmpr0.gz (159/87): adding to final database dump
+0051.649 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_woocommerce_tax_rates.table.gz (160/87): adding to final database dump
+0051.709 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_yoast_indexable.table.tmpr35.gz (161/87): adding to final database dump
+0051.751 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_yoast_indexable.table.gz (162/87): adding to final database dump
+0051.859 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_yoast_indexable_hierarchy.table.tmpr1001.gz (163/87): adding to final database dump
+0051.977 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_yoast_indexable_hierarchy.table.gz (164/87): adding to final database dump
+0052.102 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_yoast_migrations.table.tmpr23.gz (165/87): adding to final database dump
+0052.169 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_yoast_migrations.table.gz (166/87): adding to final database dump
+0052.236 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_yoast_primary_term.table.tmpr0.gz (167/87): adding to final database dump
+0052.295 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_yoast_primary_term.table.gz (168/87): adding to final database dump
+0052.328 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_yoast_prominent_words.table.tmpr0.gz (169/87): adding to final database dump
+0052.362 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_yoast_prominent_words.table.gz (170/87): adding to final database dump
+0052.395 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_yoast_seo_links.table.tmpr12.gz (171/87): adding to final database dump
+0052.429 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_yoast_seo_links.table.gz (172/87): adding to final database dump
+0052.462 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_yoast_seo_meta.table.tmpr45.gz (173/87): adding to final database dump
+0052.496 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db-table-wptsc_yoast_seo_meta.table.gz (174/87): adding to final database dump
+0052.532 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db.gz: finished writing out complete database file (312 KB)
+0052.664 (0) Total database tables backed up: 87 (backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db.gz, size: 337333, sha1: cc3274fbf8faa1b0a41b1701998877aed4bf4f07, sha256: 7746e2f81e7405f9ab10565c25221cedfb4be49ffa014a3f3be2f030028f1794)
+0052.798 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-wpcore.zip: wpcore: This file has not yet been successfully uploaded: will queue
+0052.831 (0) backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db.gz: db: This file has not yet been successfully uploaded: will queue
+0052.865 (0) Saving backup history. Total backup size: 11.8 MB
+0052.948 (0) Requesting upload of the files that have not yet been successfully uploaded (2)
+0053.074 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0053.107 (0) No remote despatch: user chose no remote backup service
+0053.344 (0) Recording as successfully uploaded: backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-wpcore.zip
+0053.458 (0) Recording as successfully uploaded: backup_2022-01-25-1206_TecnoCommerce_Intermedio_Sin_asi_1ec31d2c8c74-db.gz
+0053.711 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0053.760 (0) Number of backup sets in history: 4; groups (db): 1
+0053.843 (0) Examining (for databases) backup set with group_id=0, nonce=1ec31d2c8c74, datestamp=1643130380 (Jan 25 2022 17:06:20)
+0053.927 (0) This backup set is the backup set just made, so will not be deleted.
+0053.927 (0) Examining (for databases) backup set with group_id=0, nonce=cb834ea9cd7b, datestamp=1632317235 (Sep 22 2021 13:27:15)
+0053.927 (0) This backup set (1632317235) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0053.927 (0) Examining (for databases) backup set with group_id=0, nonce=07ff0edc509f, datestamp=1614979182 (Mar 05 2021 21:19:42)
+0053.927 (0) This backup set (1614979182) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0053.927 (0) Examining (for databases) backup set with group_id=0, nonce=15476abbd4f7, datestamp=1614978102 (Mar 05 2021 21:01:42)
+0053.927 (0) This backup set (1614978102) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0053.927 (0) Number of backup sets in history: 4; groups (files): 1
+0053.969 (0) Examining (for files) backup set with nonce=1ec31d2c8c74, datestamp=1643130380 (Jan 25 2022 17:06:20)
+0053.969 (0) This backup set is the backup set just made, so will not be deleted.
+0054.052 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0054.094 (0) Examining (for files) backup set with nonce=cb834ea9cd7b, datestamp=1632317235 (Sep 22 2021 13:27:15)
+0054.094 (0) This backup set (1632317235) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0054.094 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0054.094 (0) Examining (for files) backup set with nonce=07ff0edc509f, datestamp=1614979182 (Mar 05 2021 21:19:42)
+0054.094 (0) This backup set (1614979182) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0054.094 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0054.094 (0) Examining (for files) backup set with nonce=15476abbd4f7, datestamp=1614978102 (Mar 05 2021 21:01:42)
+0054.094 (0) This backup set (1614978102) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0054.094 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0054.094 (0) Retain: saving new backup history (sets now: 4) and finishing retain operation
+0054.236 (0) Resume backup (1ec31d2c8c74, 0): finish run
+0054.612 (0) Decremented the semaphore (fd) by 1
+0054.779 (0) Semaphore (fd) unlocked
+0054.846 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0054.947 (0) The backup apparently succeeded and is now complete
+0054.980 (0) No email will/can be sent - the user has not configured an email address.
+0055.013 (0) Aparentemente, la copia de seguridad ha sido correcta y ahora está completa

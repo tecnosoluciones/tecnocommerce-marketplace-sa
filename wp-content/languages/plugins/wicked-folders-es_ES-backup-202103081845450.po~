@@ -1,0 +1,692 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wicked Folders\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-08 17:01+0000\n"
+"PO-Revision-Date: 2021-03-08 12:11-0500\n"
+"Last-Translator: \n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Loco-Version: 2.5.1; wp-5.6.2\n"
+"X-Domain: wicked-folders\n"
+
+#: lib/class-wicked-folders-admin.php:451
+#, php-format
+msgid "%1$s Folders"
+msgstr "Carpetas de %1$s"
+
+#: lib/class-wicked-folders-term-folder.php:87
+#, php-format
+msgid "(Copy %1$d)"
+msgstr "(Copiar %1$d)"
+
+#: lib/class-wicked-folders-ajax.php:202 lib/class-wicked-folders-ajax.php:343
+#: lib/class-wicked-folders-admin.php:1174
+msgid ""
+"A folder with that name already exists in the selected parent folder. Please "
+"enter a different name or select a different parent folder."
+msgstr ""
+"Ya existe una carpeta con ese nombre en la carpeta primaria seleccionada. "
+"Introduzca un nombre diferente o seleccione una carpeta principal diferente."
+
+#: admin-templates/settings-page.php:36
+msgid "About Wicked Plugins"
+msgstr "Acerca de Wicked Plugins"
+
+#: admin-templates/settings-page-general.php:227
+msgid "Activate License"
+msgstr "Activar licencia"
+
+#: lib/class-wicked-folders.php:187
+msgid "Add Folder Name"
+msgstr "Añadir nombre de carpeta"
+
+#: lib/class-wicked-folders.php:186 lib/class-wicked-folders-admin.php:169
+msgid "Add New Folder"
+msgstr "Agregar nueva carpeta"
+
+#: lib/class-wicked-folders.php:183
+#, php-format
+msgid "All %1$s Folders"
+msgstr "Todas las %1$s carpetas"
+
+#: lib/class-wicked-folders.php:828
+msgid "All Authors"
+msgstr "Todos los autores"
+
+#: lib/class-wicked-folders.php:749
+msgid "All Dates"
+msgstr "Todas las fechas"
+
+#: lib/class-wicked-folders.php:492
+msgid "All Folders"
+msgstr "Todas las carpetas"
+
+#: lib/class-wicked-folders-admin.php:166
+#: lib/class-wicked-folders-admin.php:1382
+msgid "All folders"
+msgstr "Todas las carpetas"
+
+#: lib/class-wicked-folders-tree-view.php:97
+msgid "All items must be of type Wicked_Folders_Folder."
+msgstr "Todos los elementos deben ser de tipo Wicked_Folders_Folder."
+
+#: lib/class-wicked-folders-admin.php:165
+msgid "All media"
+msgstr "Todos los medios"
+
+#: admin-templates/object-folder-pane.php:115
+msgid "Alphabetical"
+msgstr "Alfabético"
+
+#: admin-templates/object-folder-pane.php:26
+msgid ""
+"An error occurred while attempting to navigate to the folder.  Please "
+"refresh the page."
+msgstr ""
+"Se ha producido un error al intentar navegar a la carpeta.  Actualice la "
+"página."
+
+#: lib/class-wicked-folders-admin.php:192
+msgid ""
+"An error occurred while attempting to navigate to the folder.  Please see "
+"following console messages for more details."
+msgstr ""
+"Se ha producido un error al intentar navegar a la carpeta.  Consulte los "
+"siguientes mensajes de consola para obtener más detalles."
+
+#: lib/class-wicked-folders-admin.php:190
+msgid "An error occurred while fetching the folder's children."
+msgstr "Se ha producido un error al capturar los secundarios de la carpeta."
+
+#: lib/class-wicked-folders-ajax.php:161
+#: lib/class-wicked-folders-admin.php:1133
+#: lib/class-wicked-folders-admin.php:1209
+msgid "An error occurred. Please try again."
+msgstr "Ha ocurrido un error, inténtalo de nuevo."
+
+#: lib/class-wicked-folders-admin.php:177
+msgid ""
+"Are you sure you want to delete the selected folder? Sub folders will be "
+"assigned to the folder's parent. Items in the folder will not be deleted."
+msgstr ""
+"¿Está seguro de que desea eliminar la carpeta seleccionada? Las subcarpetas "
+"se asignarán al elemento primario de la carpeta. Los elementos de la carpeta "
+"no se eliminarán."
+
+#: lib/class-wicked-folders-admin.php:189
+msgid "Assign to folder..."
+msgstr "Asignar a la carpeta..."
+
+#: lib/class-wicked-folders-admin.php:185
+msgid "Attachment Folders"
+msgstr "Carpetas de archivos adjuntos"
+
+#: lib/class-wicked-folders-admin.php:567
+#: lib/class-wicked-folders-admin.php:582
+msgid "Author"
+msgstr "Autor"
+
+#: lib/class-wicked-folders-admin.php:187
+#: admin-templates/object-folder-pane.php:74 admin-templates/folder-page.php:93
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: lib/class-wicked-folders-admin.php:183
+msgid ""
+"Check this box to hide items that have already been assigned to one or more "
+"folders.  This can be useful for determining which items you haven't already "
+"placed in a folder."
+msgstr ""
+"Marque esta casilla para ocultar los elementos que ya se han asignado a una "
+"o varias carpetas.  Esto puede ser útil para determinar qué elementos aún no "
+"ha colocado en una carpeta."
+
+#: lib/class-wicked-folders-admin.php:181
+msgid "Clone child folders also"
+msgstr "Clonar carpetas secundarias también"
+
+#: lib/class-wicked-folders-admin.php:171
+msgid "Clone Folder"
+msgstr "Carpeta clon"
+
+#: admin-templates/object-folder-pane.php:46
+#: admin-templates/object-folder-pane.php:83
+msgid "Close"
+msgstr "Cerrado"
+
+#: lib/class-wicked-folders-admin.php:175
+msgid "Collapse All"
+msgstr "Desplegar todo"
+
+#: admin-templates/object-folder-pane.php:109
+msgid ""
+"Controls how your folders are sorted. Select 'Custom' to display the folders "
+"in the specific order you specify."
+msgstr ""
+"Controla cómo se ordenan las carpetas. Seleccione 'Personalizado' para "
+"mostrar las carpetas en el orden específico que especifique."
+
+#: admin-templates/object-folder-pane.php:89
+msgid ""
+"Controls what happens when you drag and drop folders. Use 'Normal' to "
+"arrange your folder hierarchy by dragging and dropping folders into other "
+"folders. Use 'Sort' to change the order of the folders."
+msgstr ""
+"Controla lo que sucede al arrastrar y soltar carpetas. Utilice 'Normal' para "
+"organizar la jerarquía de carpetas arrastrando y soltando carpetas en otras "
+"carpetas. Utilice 'Ordenar' para cambiar el orden de las carpetas."
+
+#: lib/class-wicked-folders-admin.php:179
+msgid ""
+"Creates a copy of the currently selected folder containing the same items."
+msgstr ""
+"Crea una copia de la carpeta seleccionada actualmente que contiene los "
+"mismos elementos."
+
+#: admin-templates/object-folder-pane.php:121
+msgid "Custom"
+msgstr "Personalizada"
+
+#: lib/class-wicked-folders-admin.php:568
+#: lib/class-wicked-folders-admin.php:583
+msgid "Date"
+msgstr "Fecha"
+
+#: admin-templates/settings-page-general.php:225
+msgid "Deactivate License"
+msgstr "Desactivar licencia"
+
+#: lib/class-wicked-folders-admin.php:167
+msgid "Delete"
+msgstr "Borrar"
+
+#: lib/class-wicked-folders-admin.php:172
+msgid "Delete Folder"
+msgstr "Borrar carpeta"
+
+#: lib/class-wicked-folders-admin.php:82
+msgid "Dismiss"
+msgstr "Despedir"
+
+#: admin-templates/settings-page-general.php:101
+msgid "Displays a breadcrumb trail at the top of post lists."
+msgstr ""
+"Muestra un rastro de ruta de navegación en la parte superior de las listas "
+"de publicación."
+
+#: admin-templates/settings-page-general.php:136
+msgid "Don't reload page when navigating folders"
+msgstr "No vuelva a cargar la página al navegar por carpetas"
+
+#: lib/class-wicked-folders.php:535
+#: admin-templates/settings-page-general.php:142
+msgid "Dynamic Folders"
+msgstr "Carpetas dinámicas"
+
+#: admin-templates/settings-page-general.php:143
+#: admin-templates/folder-page.php:51
+msgid ""
+"Dynamic folders are generated on the fly based on your content.  They are "
+"useful for finding content based on things like date, author, etc."
+msgstr ""
+"Las carpetas dinámicas se generan sobre la marcha en función de su "
+"contenido.  Son útiles para encontrar contenido basado en cosas como la "
+"fecha, el autor, etc."
+
+#: lib/class-wicked-folders.php:184 lib/class-wicked-folders-admin.php:170
+msgid "Edit Folder"
+msgstr "Editar carpeta"
+
+#: lib/class-wicked-folders-admin.php:871
+msgid "Elementor Templates"
+msgstr "Plantillas de Elementor"
+
+#: admin-templates/settings-page-general.php:147
+msgid "Enable dynamic folders for:"
+msgstr "Habilite carpetas dinámicas para:"
+
+#: admin-templates/settings-page-general.php:5
+msgid "Enable folders for:"
+msgstr "Habilite carpetas para:"
+
+#: lib/class-wicked-folders-admin.php:174
+msgid "Expand All"
+msgstr "Expandir todo"
+
+#: lib/class-wicked-folders-admin.php:106
+msgid "five stars"
+msgstr "cinco estrellas"
+
+#: lib/class-wicked-folders-admin.php:168
+msgid "Folder"
+msgstr "Carpeta"
+
+#: lib/class-wicked-folders-admin.php:188
+msgid "Folder Name"
+msgstr "Nombre de la carpeta"
+
+#: admin-templates/object-folder-pane.php:53 admin-templates/folder-page.php:88
+msgid "Folder name"
+msgstr "Nombre de carpeta"
+
+#: lib/class-wicked-folders-folder.php:102
+msgid "Folder requires a post type."
+msgstr "La carpeta requiere un tipo de publicación."
+
+#: admin-templates/object-folder-pane.php:108
+msgid "Folder sort order:"
+msgstr "Orden de clasificación de carpetas:"
+
+#: lib/class-wicked-folders.php:188 lib/class-wicked-folders-admin.php:184
+#: lib/class-wicked-folders-admin.php:453
+#: lib/class-wicked-folders-admin.php:463
+#: lib/class-wicked-folders-admin.php:464
+#: admin-templates/object-folder-pane.php:7 admin-templates/folder-page.php:4
+msgid "Folders"
+msgstr "Carpetas"
+
+#: admin-templates/settings-page-general.php:1
+msgid "General"
+msgstr "General"
+
+#: admin-templates/settings-page-general.php:44
+msgid "Gravity Forms Entries"
+msgstr "Entradas de formularios de gravedad"
+
+#: admin-templates/settings-page-general.php:49
+msgid "Gravity Forms Forms"
+msgstr "Formas de gravedad Formularios"
+
+#: lib/class-wicked-folders-admin.php:178
+msgid "Hide assigned items"
+msgstr "Ocultar los elementos asignados"
+
+#: lib/class-wicked-folders.php:969
+msgid "Hierarchy"
+msgstr "Jerarquía"
+
+#: lib/class-wicked-folders-admin.php:82
+msgid ""
+"Hint: The folders pane can be toggled on or off.  To hide the folder pane, "
+"click the 'Toggle folders' link in the admin menu on the side of the screen."
+msgstr ""
+"Sugerencia: El panel de carpetas se puede activar o desactivar.  Para "
+"ocultar el panel de carpetas, haga clic en el vínculo \"Alternar carpetas\" "
+"en el menú de administración del lado de la pantalla."
+
+#. Author URI of the plugin
+msgid "https://wickedplugins.com/"
+msgstr "https://wickedplugins.com/"
+
+#. URI of the plugin
+msgid "https://wickedplugins.com/wicked-folders/"
+msgstr "https://wickedplugins.com/wicked-folders/"
+
+#: lib/class-wicked-folders-admin.php:182
+msgid ""
+"If checked, descendant folders of the currently selected folder will also be "
+"cloned. Otherwise, only the currently selected folder will be cloned."
+msgstr ""
+"Si está activada, también se clonarán las carpetas descendientes de la "
+"carpeta seleccionada actualmente. De lo contrario, solo se clonará la "
+"carpeta seleccionada actualmente."
+
+#: admin-templates/object-folder-pane.php:30
+#, php-format
+msgid ""
+"If you continue to have trouble, disable the 'Don't reload page when "
+"navigating folders' option on the %s."
+msgstr ""
+"Si continúa teniendo problemas, deshabilite la opción \"No volver a cargar "
+"al navegar por carpetas\" en el %s."
+
+#: admin-templates/settings-page-general.php:124
+msgid "Include items from child folders"
+msgstr "Incluir elementos de carpetas secundarias"
+
+#: admin-templates/settings-page-general.php:199
+msgid "Include media from child folders"
+msgstr "Incluir medios de carpetas secundarias"
+
+#: lib/class-wicked-folders-ajax.php:175
+#: lib/class-wicked-folders-admin.php:1147
+msgid "Invalid name or post type."
+msgstr "Nombre o tipo de publicación no válidos."
+
+#: admin-templates/settings-page-general.php:212
+msgid "License Key"
+msgstr "Por favor, introduzca su clave de licencia"
+
+#: lib/class-wicked-folders-admin.php:477
+#: lib/class-wicked-folders-admin.php:478
+#, php-format
+msgid "Manage %1$s Folders"
+msgstr "Administrar carpetas de %1$s"
+
+#: lib/class-wicked-folders.php:208 lib/class-wicked-folders-admin.php:489
+#: lib/class-wicked-folders-admin.php:490
+msgid "Manage Folders"
+msgstr "Manejar Carpetas"
+
+#: admin-templates/settings-page-general.php:178
+msgid "Media"
+msgstr "Exportar las mejores redes sociales"
+
+#: admin-templates/settings-page.php:31
+msgid "Media Library Folders!"
+msgstr "¡Carpetas de biblioteca multimedia!"
+
+#: lib/class-wicked-folders-admin.php:534
+#: lib/class-wicked-folders-admin.php:543
+#: lib/class-wicked-folders-admin.php:564
+#: lib/class-wicked-folders-admin.php:579
+msgid "Move selected items"
+msgstr "Mover elementos seleccionados"
+
+#: lib/class-wicked-folders-admin.php:543
+msgid "Move to Folder"
+msgstr "Mover a la carpeta"
+
+#: admin-templates/object-folder-pane.php:95
+msgid "Normal"
+msgstr "Normal"
+
+#: admin-templates/object-folder-pane.php:88
+msgid "Organization mode:"
+msgstr "Modo organización:"
+
+#. Description of the plugin
+msgid "Organize your pages into folders."
+msgstr "Organice sus páginas en carpetas."
+
+#: lib/class-wicked-folders.php:190 lib/class-wicked-folders-ajax.php:211
+#: lib/class-wicked-folders-admin.php:173
+#: lib/class-wicked-folders-admin.php:1183
+msgid "Parent Folder"
+msgstr "Carpeta padre"
+
+#: admin-templates/settings-page-general.php:33
+msgid "Plugins"
+msgstr "Complementos"
+
+#: lib/class-wicked-folders-admin.php:106
+msgid "rate Wicked Folders"
+msgstr "calificar carpetas perversas"
+
+#: lib/class-wicked-folders-admin.php:176
+msgid "Save"
+msgstr "Guardar"
+
+#: admin-templates/settings-page.php:32
+msgid "Screenshot of media library using Wicked Folders Pro"
+msgstr ""
+"Captura de pantalla de la biblioteca multimedia usando Wicked Folders Pro"
+
+#: lib/class-wicked-folders.php:189
+msgid "Search Folders"
+msgstr "Buscar carpetas"
+
+#: admin-templates/object-folder-pane.php:15
+msgid "Search folders..."
+msgstr "Buscar carpetas..."
+
+#: lib/class-wicked-folders-admin.php:661
+msgid "Search Media"
+msgstr "Buscar archivos multimedia"
+
+#: lib/class-wicked-folders-admin.php:193
+#: lib/class-wicked-folders-admin.php:790
+#: lib/class-wicked-folders-admin.php:1398
+#: admin-templates/object-folder-pane.php:81
+msgid "Settings"
+msgstr "Ajustes"
+
+#: admin-templates/object-folder-pane.php:31
+msgid "settings page"
+msgstr "página de configuración"
+
+#: admin-templates/settings-page-general.php:100
+msgid "Show folder breadcrumbs"
+msgstr "Mostrar migas de pan de carpeta"
+
+#: admin-templates/settings-page-general.php:112
+msgid "Show folder hierarchy in folder column"
+msgstr "Mostrar jerarquía de carpetas en la columna de carpeta"
+
+#: admin-templates/settings-page-general.php:88
+msgid "Show folder search"
+msgstr "Mostrar búsqueda de carpetas"
+
+#: admin-templates/settings-page-general.php:64
+msgid "Show number of items in each folder"
+msgstr "Mostrar el número de elementos en cada carpeta"
+
+#: admin-templates/settings-page-general.php:76
+msgid "Show unassigned items folder"
+msgstr "Mostrar carpeta de elementos sin asignar"
+
+#: admin-templates/object-folder-pane.php:25
+msgid "Something went wrong"
+msgstr ""
+"%1$s Oops, algo salió mal. %2$s %5$s %2$s %3$s No te preocupes, este mensaje "
+"de error sólo es visible para los administradores. %4$s %2$s"
+
+#: lib/class-wicked-folders-admin.php:569
+#: lib/class-wicked-folders-admin.php:584
+#: admin-templates/object-folder-pane.php:101
+msgid "Sort"
+msgstr "Ordenar"
+
+#: lib/class-wicked-folders-admin.php:180
+msgid "Successfully cloned folder."
+msgstr "Carpeta clonada correctamente."
+
+#: admin-templates/settings-page-general.php:187
+msgid "Sync folder upload dropdown"
+msgstr "Desplegable Sincronizar carga de carpetas"
+
+#: lib/class-wicked-folders.php:181
+#, php-format
+msgctxt "Taxonomy plural name"
+msgid "%1$s Folders"
+msgstr "Carpetas de %1$s"
+
+#: lib/class-wicked-folders.php:194
+msgctxt "Taxonomy plural name"
+msgid "Folders"
+msgstr "Carpetas"
+
+#: lib/class-wicked-folders.php:182
+#, php-format
+msgctxt "Taxonomy singular name"
+msgid "%1$s Folder"
+msgstr "Carpeta de %1$s"
+
+#: admin-templates/settings-page.php:26
+msgid "Thanks for using Wicked Folders!"
+msgstr "¡Gracias por usar Wicked Folders!"
+
+#: lib/class-wicked-folders-admin.php:108
+#, php-format
+msgid "Thanks for using Wicked Folders! Please %1$s to help spread the word!"
+msgstr ""
+"¡Gracias por usar Wicked Folders! Por favor, %1$s para ayudar a difundir la "
+"palabra!"
+
+#: lib/class-wicked-folders-admin.php:191
+msgid ""
+"This will unassign the selected item(s) from all folders.  Are you sure you "
+"want to continue?"
+msgstr ""
+"Esto anulará la asignación de los elementos seleccionados de todas las "
+"carpetas.  ¿Estás seguro de que quieres continuar?"
+
+#: lib/class-wicked-folders-admin.php:566
+#: lib/class-wicked-folders-admin.php:581
+msgid "Title"
+msgstr "Título"
+
+#: lib/class-wicked-folders-admin.php:186
+#: lib/class-wicked-folders-admin.php:514
+#: lib/class-wicked-folders-admin.php:515
+msgid "Toggle folders"
+msgstr "Alternar carpetas"
+
+#: lib/class-wicked-folders.php:478
+msgid "Unassigned Items"
+msgstr "Sin asignar"
+
+#: lib/class-wicked-folders-folder.php:91
+msgid "Untitled folder"
+msgstr "Carpeta sin título"
+
+#: lib/class-wicked-folders.php:185
+msgid "Update Folder"
+msgstr "Actualizar carpeta"
+
+#: admin-templates/settings-page.php:33
+msgid ""
+"Upgrade to <a href=\"https://wickedplugins.com/plugins/wicked-folders/?"
+"utm_source=core_settings&utm_campaign=wicked_folders&utm_content=sidebar_text_link"
+"\" target=\"_blank\">Wicked Folders Pro</a> to organize your media library "
+"using folders!"
+msgstr ""
+"¡Actualiza a <a href=\"https://wickedplugins.com/plugins/wicked-folders/?"
+"utm_source=core_settings&utm_campaign=wicked_folders&utm_content=sidebar_text_link"
+"\" target=\"_blank\">Wicked Folders Pro</a> para organizar tu biblioteca "
+"multimedia usando carpetas!"
+
+#: admin-templates/settings-page-general.php:38
+msgid "Users"
+msgstr "Usuarios"
+
+#: admin-templates/settings-page-general.php:89
+msgid ""
+"When checked (default), a search field is displayed above the folder tree "
+"that allows you to search folders by name."
+msgstr ""
+"Cuando está activado (predeterminado), se muestra un campo de búsqueda "
+"encima del árbol de carpetas que le permite buscar carpetas por nombre."
+
+#: admin-templates/settings-page-general.php:137
+msgid ""
+"When checked (default), navigating between folders will not cause the page "
+"to reload."
+msgstr ""
+"Cuando está marcada (valor predeterminado), navegar entre carpetas no hará "
+"que la página se vuelva a cargar."
+
+#: admin-templates/settings-page-general.php:77
+msgid ""
+"When checked (default), the 'Unassigned Items' folder will always be shown "
+"in the folder pane.  When left unchecked, the 'Unassigned Items' folder will "
+"appear as a child folder within 'Dynamic Folders'."
+msgstr ""
+"Cuando está marcada (valor predeterminado), la carpeta \"Elementos sin "
+"asignar\" siempre se mostrará en el panel de carpetas.  Cuando se deja sin "
+"marcar, la carpeta \"Elementos sin asignar\" aparecerá como una carpeta "
+"secundaria dentro de \"Carpetas dinámicas\"."
+
+#: admin-templates/settings-page-general.php:65
+msgid ""
+"When checked (default), the number of items assigned to each folder is "
+"displayed next to the folder's name."
+msgstr ""
+"Cuando está marcada (valor predeterminado), el número de elementos asignados "
+"a cada carpeta se muestra junto al nombre de la carpeta."
+
+#: admin-templates/settings-page-general.php:188
+msgid ""
+"When checked, the dropdown that lets you to choose which folder to assign "
+"new uploads to will change as you browse folders and default to the "
+"currently selected folder. If left unchecked, the dropdown will default to "
+"no folder selected."
+msgstr ""
+"Cuando está marcada, el menú desplegable que le permite elegir a qué carpeta "
+"asignar nuevas cargas cambiará a medida que examine las carpetas y el valor "
+"predeterminado en la carpeta seleccionada actualmente. Si se deja sin "
+"marcar, el menú desplegable no se realizará de forma predeterminada en "
+"ninguna carpeta seleccionada."
+
+#: admin-templates/settings-page-general.php:125
+msgid ""
+"When unchecked (default) and a folder is selected, only items assigned to "
+"that folder will be displayed.  When checked, items in the selected folder "
+"*and* items in any of the folder's child folders will be displayed.  Please "
+"note: this setting does not apply to media."
+msgstr ""
+"Cuando se desactiva (predeterminado) y se selecciona una carpeta, solo se "
+"mostrarán los elementos asignados a esa carpeta.  Cuando esté marcada, se "
+"mostrarán los elementos de la carpeta seleccionada *y* en cualquiera de las "
+"carpetas secundarias de la carpeta.  Tenga en cuenta: esta configuración no "
+"se aplica a los medios de comunicación."
+
+#: admin-templates/settings-page-general.php:200
+msgid ""
+"When unchecked (default) and a folder is selected, only media assigned to "
+"that folder will be displayed.  When checked, media in the selected folder "
+"*and* media in any of the folder's child folders will be displayed."
+msgstr ""
+"Cuando se desmarca (predeterminado) y se selecciona una carpeta, solo se "
+"mostrarán los medios asignados a esa carpeta.  Cuando esté marcada, se "
+"mostrarán los medios de comunicación de la carpeta seleccionada *y* en "
+"cualquiera de las carpetas secundarias de la carpeta."
+
+#: admin-templates/settings-page-general.php:113
+msgid ""
+"When unchecked (default), folders will be displayed as a comma-separated "
+"list in the folder column that appears in post lists.  When checked, a "
+"breadcrumb path will be displayed showing the hierarchy of each folder the "
+"item is assigned to."
+msgstr ""
+"Cuando se desmarca (predeterminado), las carpetas se mostrarán como una "
+"lista separada por comas en la columna de carpeta que aparece en las listas "
+"de publicación.  Cuando está marcada, se mostrará una ruta de navegación que "
+"muestra la jerarquía de cada carpeta a la que está asignado el elemento."
+
+#. Name of the plugin
+#: lib/class-wicked-folders-admin.php:505
+msgid "Wicked Folders"
+msgstr "Wicked malvadas"
+
+#: admin-templates/settings-page-general.php:208
+msgid "Wicked Folders Pro"
+msgstr "Carpetas Wicked Pro"
+
+#: lib/class-wicked-folders-admin.php:504 admin-templates/settings-page.php:2
+msgid "Wicked Folders Settings"
+msgstr "Configuración de carpetas Wicked"
+
+#. Author of the plugin
+msgid "Wicked Plugins"
+msgstr "Plugins Wicked"
+
+#: admin-templates/settings-page.php:37
+msgid ""
+"Wicked Plugins specializes in crafting high-quality, reliable plugins that "
+"extend WordPress in powerful ways while being simple and intuitive to use.  "
+"We’re full-time developers who know WordPress inside and out and our "
+"customer happiness engineers offer friendly support for all our products.  "
+"<a href=\"https://wickedplugins.com/?"
+"utm_source=core_settings&utm_campaign=wicked_plugins&utm_content=about_link"
+"\" target=\"_blank\">Visit our website</a> to learn more about us."
+msgstr ""
+"Wicked Plugins se especializa en la elaboración de plugins confiables y de "
+"alta calidad que extienden WordPress de maneras poderosas mientras son "
+"simples e intuitivos de usar.  Somos desarrolladores a tiempo completo que "
+"conocen WordPress por dentro y por fuera y nuestros ingenieros de felicidad "
+"del cliente ofrecen un soporte amigable para todos nuestros productos.  <a "
+"href=\"https://wickedplugins.com/?"
+"utm_source=core_settings&utm_campaign=wicked_plugins&utm_content=about_link"
+"\" target=\"_blank\">Visite nuestro sitio web</a> para obtener más "
+"información sobre nosotros."
+
+#: lib/class-wicked-folders-admin.php:1362
+msgid "Your changes have been saved."
+msgstr "Sus cambios han sido guardados."

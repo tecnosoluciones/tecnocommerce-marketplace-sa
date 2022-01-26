@@ -1,0 +1,1654 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Staging Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-09 16:55+0000\n"
+"PO-Revision-Date: 2021-03-09 12:08-0500\n"
+"Last-Translator: \n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Loco-Version: 2.5.1; wp-5.6.2\n"
+"X-Domain: wp-staging\n"
+
+#: Backend/views/welcome/welcome.php:4
+msgid " - Copy Themes & Plugins from Staging to Live Site"
+msgstr ""
+" - Copiar temas &plugins desde la puesta en escena hasta el sitio en vivo"
+
+#: Backend/views/notices/rating.php:3
+msgid ""
+" Awesome, you've been using <strong>WP Staging </strong> for more than 1 "
+"week.\n"
+"        May I ask you to give it a <strong>5-star</strong> rating on "
+"Wordpress?"
+msgstr ""
+" Impresionante, has estado usando <strong>WP Staging </strong> por más de 1 "
+"semana.\n"
+"        ¿Puedo pedirle que le dé una calificación <strong>de 5 estrellas</"
+"strong> en Wordpress?"
+
+#: Backend/Pro/Modules/Jobs/Scan.php:309
+#, php-format
+msgid ""
+" does not exist!  <br><br> Did you move from one server to another recently "
+"or changed the location of your site? <br><br>\n"
+"                ​If you moved your site you will need to reconnect the "
+"staging site to the new location and change the path in WP Staging "
+"settings. \n"
+"                <br><br>​\n"
+"                <a href=\"%s\" target=\"_blank\">Read this how to solve it </"
+"a><br>\n"
+"                <br>\n"
+"                If you still need help with it, <a href=\"%s\" target="
+"\"_blank\">please contact us!</a>\n"
+"                "
+msgstr ""
+" no existe!  <br><br> ¿Pasó de un servidor a otro recientemente o cambió la "
+"ubicación de su sitio? <br><br>Si ha movido el sitio, deberá volver a "
+"conectar el sitio de ensayo a la nueva ubicación y cambiar la ruta en la "
+"configuración de WP Staging.                <br><br>​\n"
+"                <a href=\"%s\" target=\"_blank\">Lea esto cómo resolverlo </"
+"a><br>\n"
+"                <br>Si todavía necesita ayuda con él, <a href=\"%s\" target="
+"\"_blank\">por favor póngase en contacto con nosotros!</a>\n"
+"                "
+
+#: Backend/views/clone/ajax/start.php:47
+msgid "(Login with your admin credentials)"
+msgstr "(Inicie sesión con sus credenciales de administrador)"
+
+#: template/Component/Backend/Snapshot/listing.php:33
+msgid ""
+"- If you run the snapshot function on a multisite network site the snapshot "
+"will contain only the tables belonging to the particular network site. <p></"
+"p>It will not store all database tables of all network sites. So you are "
+"able to restore all network sites independently. <p></p>- If you create a "
+"snapshot on a multisite main site it will create a snapshot of <strong>all "
+"database tables</strong>.</p></p><strong>Take care:</strong> Restoring a "
+"multisite main snapshot will <strong>restore all children sites including "
+"the mainsite.</strong>"
+msgstr ""
+"- Si ejecuta la función de instantánea en un sitio de red multisitio, la "
+"instantánea contendrá solo las tablas que pertenecen al sitio de red en "
+"particular. <p>No almacenará todas las tablas de base de datos de todos los "
+"sitios de red. Así que usted es capaz de restaurar todos los sitios de red "
+"de forma independiente. <p>- Si crea una instantánea en un sitio principal "
+"multisitio, creará una instantánea de todas las tablas de base de "
+"<strong>datos.</strong></p></p><strong>Cuídate:</strong> La restauración de "
+"una instantánea principal multisitio <strong>restaurará todos los sitios "
+"secundarios, incluido el sitio principal.</strong>"
+
+#: template/Component/Backend/Snapshot/confirm-delete.php:21
+msgid ""
+"- wpsa(int)_table_name:  Snapshot tables that have been created "
+"automatically when you pushed a staging site to production. They can be used "
+"to revert a particular push."
+msgstr ""
+"- wpsa(int)_table_name: tablas de instantáneas que se han creado "
+"automáticamente al insertar un sitio de ensayo a producción. Se pueden "
+"utilizar para revertir un empuje en particular."
+
+#: template/Component/Backend/Snapshot/confirm-delete.php:19
+msgid "- wpsm(int)_table_name: Snapshot tables that you've created manually."
+msgstr ""
+"- wpsm(int)_table_name: Tablas de instantáneas que ha creado manualmente."
+
+#: Backend/views/notices/no-license-key.php:4
+#, php-format
+msgid "<br/> <a href=\"%1$s\" target=\"_blank\">%1$s</a>"
+msgstr "<br/><a href=\"%1$s\" target=\"_blank\">%1$s</a>"
+
+#: Backend/views/clone/ajax/scan.php:8
+msgid ""
+"<br> You can continue but its likely that the copying process will fail."
+msgstr ""
+"<br> Puede continuar, pero es probable que se produzca un error en el "
+"proceso de copia."
+
+#: Backend/Pro/views/notices/license-key-invalid.php:4
+#, php-format
+msgid ""
+"<br><br><a href=\"%2$s\" target=\"_self\"><strong>Enter License Key Now</"
+"strong></a>"
+msgstr ""
+"<br><br><a href=\"%2$s\" target=\"_self\"><strong>Ingrese la clave de "
+"licencia ahora</strong></a>"
+
+#: Backend/Pro/views/notices/license-key-expired.php:4
+#, php-format
+msgid ""
+"<br><br><a href=\"%s\" target=\"_blank\"><strong>Renew Your License Key Now</"
+"strong></a>"
+msgstr ""
+"<br><br><a href=\"%s\" target=\"_blank\"><strong>Renueve su clave de "
+"licencia ahora</strong></a>"
+
+#: Backend/views/notices/wp-version-compatible-message.php:4
+#, php-format
+msgid ""
+"<p><a href=\"%1$s\" target=\"_blank\"><strong>Get the latest version Now</"
+"strong></a>."
+msgstr ""
+"<p><a href=\"%1$s\" target=\"_blank\"><strong>Obtener la última versión "
+"Ahora</strong></a>."
+
+#: Backend/Pro/views/scan.php:14
+msgid ""
+"<strong style='color:red;'>Note:</strong> Your database table selection is "
+"stored automatically<br/>and will be used as default selection for the next "
+"push."
+msgstr ""
+"<strong style='color:red;'>Nota:</strong> La selección de la tabla de base "
+"de datos se almacena automáticamente<br/>y se utilizará como selección "
+"predeterminada para la siguiente inserción."
+
+#: Backend/Pro/views/scan.php:80
+msgid ""
+"<strong style='color:red;'>Note:</strong> Your folders selection is stored "
+"automatically<br/>and will be used as default selection for the next push."
+msgstr ""
+"<strong style='color:red;'>Nota:</strong> La selección de carpetas se "
+"almacena automáticamente<br/>y se utilizará como selección predeterminada "
+"para la siguiente inserción."
+
+#: Backend/views/settings/main-settings.php:178
+msgid ""
+"<strong>Important:</strong> If CPU Load Priority is <strong>Low</strong> set "
+"a file copy limit value of 50 or higher! Otherwise file copying process "
+"takes a lot of time."
+msgstr ""
+"<strong>Importante:</strong> Si prioridad de carga de CPU es <strong>bajo</"
+"strong> establecer un valor límite de copia de archivo de 50 o superior! De "
+"lo contrario, el proceso de copia de archivos lleva mucho tiempo."
+
+#: template/Component/Backend/Snapshot/confirm-restore.php:23
+msgid "?"
+msgstr "¿?"
+
+#: Backend/views/notices/beta.php:10
+msgid "A good plugin for an entire WordPress backup is the free one"
+msgstr ""
+"Un buen plugin para toda una copia de seguridad de WordPress es el gratuito"
+
+#: Backend/Modules/Views/Forms/Settings.php:224
+msgid "Access Permissions"
+msgstr "Permisos de acceso"
+
+#: Backend/Pro/views/licensing.php:57
+msgid "Activate License"
+msgstr "Activar licencia"
+
+#: Backend/views/clone/ajax/scan.php:86
+msgid "All files will be copied to: "
+msgstr "Todos los archivos se copiarán en: "
+
+#: Backend/Modules/Views/Forms/Settings.php:245
+msgid "Allow access from all visitors"
+msgstr "Permitir el acceso de todos los visitantes"
+
+#: Backend/Pro/Modules/Jobs/Processing.php:409
+msgid "Automatic Snapshot: "
+msgstr "Instantánea automática: "
+
+#: Backend/views/clone/ajax/start.php:44
+msgid "BACK"
+msgstr "Volver"
+
+#: Backend/Pro/views/scan.php:147 Backend/views/clone/ajax/scan.php:119
+#: Backend/views/clone/ajax/process-lock.php:6
+msgid "Back"
+msgstr "Volver"
+
+#: Backend/views/settings/main-settings.php:223
+msgid ""
+"Buffer size for the file copy process in megabyte.\n"
+"                                               The higher the value the "
+"faster large files are copied.\n"
+"                                                To find out the highest "
+"possible values try a high one and lower it until\n"
+"                                                you get no errors during "
+"file copy process. Usually this value correlates directly\n"
+"                                                with the memory consumption "
+"of php so make sure that\n"
+"                                                it does not exceed any php."
+"ini max_memory limits."
+msgstr ""
+"Tamaño del búfer para el proceso de copia de archivos en megabyte.\n"
+"                                               Cuanto mayor sea el valor, "
+"más rápido se copian los archivos grandes.\n"
+"                                                Para averiguar los valores "
+"más altos posibles pruebe uno alto y bajarlo hasta\n"
+"                                                no se producen errores "
+"durante el proceso de copia de archivos. Por lo general, este valor se "
+"correlaciona directamente\n"
+"                                                con el consumo de memoria de "
+"php así que asegúrese de que\n"
+"                                                no excede los límites .ini "
+"max_memory php."
+
+#: Backend/views/clone/ajax/delete-confirmation.php:28
+msgid "but in case something is going wrong you better verify it."
+msgstr "pero en caso de que algo salga mal será mejor que lo verifiques."
+
+#: Backend/views/tools/tabs/import_export.php:39
+msgid "by exporting the settings on another site using the form above."
+msgstr ""
+"exportando la configuración en otro sitio utilizando el formulario anterior."
+
+#: Backend/views/_main/report-issue.php:23
+msgid ""
+"By submitting, I accept the <a href=\"https://wp-staging.com/privacy-policy/"
+"\" target=\"_blank\">Privacy Policy</a> and consent that my email will be "
+"stored and processed for the purposes of proving support."
+msgstr ""
+"Al enviar, acepto la <a href=\"https://wp-staging.com/privacy-policy/\" "
+"target=\"_blank\">Política de Privacidad</a> y acepto que mi correo "
+"electrónico será almacenado y procesado con el fin de probar el soporte."
+
+#: Backend/views/_main/footer.php:7
+msgid "Can not login to staging site"
+msgstr "No se puede iniciar sesión en el sitio de ensayo"
+
+#: Backend/views/_main/footer.php:12
+msgid "Can not update WP Staging plugin"
+msgstr "No se puede actualizar wp staging plugin"
+
+#: Backend/views/feedback/deactivate-feedback.php:8
+msgid "Can we help? Please describe your problem"
+msgstr "¿Podemos ayudar? Por favor describa su problema"
+
+#: template/Component/Backend/Snapshot/confirm-restore.php:79
+#: template/Component/Backend/Snapshot/confirm-delete.php:34
+#: Backend/views/clone/ajax/start.php:17
+#: Backend/views/clone/ajax/delete-confirmation.php:97
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: Backend/views/clone/ajax/update.php:17
+msgid "Cancel Update"
+msgstr "Cancelar actualización"
+
+#: Backend/Modules/Views/Forms/Settings.php:216
+msgid "Check Directory Size"
+msgstr "Comprobar el tamaño del directorio"
+
+#: Backend/views/clone/ajax/scan.php:115
+msgid "Check required disk space"
+msgstr "Compruebe el espacio necesario en disco"
+
+#: Backend/views/settings/main-settings.php:407
+msgid ""
+"Check this box if you like WP Staging to check sizes of each directory on "
+"scanning process.\n"
+"                                                <br>\n"
+"                                                Warning this may cause "
+"timeout problems in big directory / file structures."
+msgstr ""
+"Marque esta casilla si le gusta WP Staging para comprobar los tamaños de "
+"cada directorio en el proceso de "
+"escaneo.                                                <br>Advertencia de "
+"que esto puede causar problemas de tiempo de espera en grandes estructuras "
+"de directorios / archivos."
+
+#: Backend/views/settings/main-settings.php:386
+msgid ""
+"Check this box if you like WP Staging to completely remove all of its data "
+"when the plugin is deleted.\n"
+"                                                This will not remove staging "
+"sites files or database tables."
+msgstr ""
+"Marque esta casilla si le gusta WP Staging para eliminar por completo todos "
+"sus datos cuando se elimina el plugin.\n"
+"                                                Esto no quitará los archivos "
+"de sitios de ensayo ni las tablas de base de datos."
+
+#: Backend/views/clone/ajax/delete-confirmation.php:9
+msgid "Clone Name:"
+msgstr "Nombre del clon:"
+
+#: Backend/views/clone/single-site/index.php:12
+msgid "Cloning"
+msgstr "Clonación"
+
+#: Backend/views/welcome/welcome.php:9
+msgid "Cloning process is fast and does not slow down website loading"
+msgstr ""
+"El proceso de clonación es rápido y no ralentiza la carga del sitio web"
+
+#: Backend/views/welcome/welcome.php:14
+msgid ""
+"Comes with our 30-day money back guarantee * You need to give us chance to "
+"resolve your issue first."
+msgstr ""
+"Viene con nuestra garantía de devolución de dinero de 30 días * Usted "
+"necesita darnos la oportunidad de resolver su problema primero."
+
+#: Backend/views/welcome/welcome.php:7
+msgid "Copy plugin and theme files from staging to live site"
+msgstr ""
+"Copiar archivos de plugins y temas desde la puesta en escena hasta el sitio "
+"en vivo"
+
+#: Backend/views/clone/ajax/custom-directory.php:5
+#: Backend/Pro/views/clone/ajax/custom-directory.php:6
+msgid "Copy Staging Site to Custom Directory"
+msgstr "Copiar sitio de ensayo en directorio personalizado"
+
+#: Backend/views/clone/ajax/external-database.php:3
+#: Backend/Pro/views/clone/ajax/external-database.php:6
+msgid "Copy Staging Site to Separate Database"
+msgstr "Copiar sitio de ensayo en una base de datos independiente"
+
+#: Backend/Modules/Views/Forms/Settings.php:135
+msgid "CPU Load Priority"
+msgstr "Prioridad de carga de CPU"
+
+#: Backend/views/welcome/welcome.php:6
+msgid "Create a clone of your website with a simple click"
+msgstr "Crea un clon de tu sitio web con un simple clic"
+
+#. Description of the plugin
+msgid "Create a staging clone site for testing & developing"
+msgstr "Crear un sitio de clonación de ensayo para pruebas y desarrollo"
+
+#: Backend/Pro/views/scan.php:117
+msgid "Create database backup (snapshot)"
+msgstr "Crear copia de seguridad de base de datos (instantánea)"
+
+#: Backend/Pro/views/single-overview-pro.php:4
+#: Backend/views/clone/ajax/single-overview.php:3
+msgid "Create new staging site"
+msgstr "Crear un nuevo sitio de ensayo"
+
+#: template/Component/Backend/Snapshot/listing.php:83
+msgid "Created on:"
+msgstr "Creada el:"
+
+#: template/Component/Backend/Snapshot/create-progress.php:5
+msgid "Creating a database snapshot"
+msgstr "Creación de una instantánea de base de datos"
+
+#: Backend/views/_main/footer.php:10
+msgid "CSS & layout broken after push"
+msgstr "CSS & diseño roto después de la inserción"
+
+#: Backend/Pro/views/clone/ajax/external-database.php:21
+msgid "Database"
+msgstr "Base de datos"
+
+#: Backend/views/clone/ajax/external-database.php:4
+msgid "Database must be created manually in advance!"
+msgstr "¡La base de datos debe crearse manualmente con antelación!"
+
+#: Backend/Pro/views/clone/ajax/external-database.php:7
+msgid ""
+"Database must be created manually in advance!<br/><br/><strong>Important:</"
+"strong> If there are already tables with the same database prefix and name "
+"in the database they will be dropped without any further asking!"
+msgstr ""
+"¡La base de datos debe crearse manualmente con antelación!<br/><br/"
+"><strong>Importante:</strong> Si ya hay tablas con el mismo prefijo de base "
+"de datos y nombre en la base de datos, se quitarán sin más preguntas!"
+
+#: Backend/views/clone/ajax/delete-confirmation.php:17
+msgid "Database Name:"
+msgstr "Nombre de la base de datos:"
+
+#: Backend/Pro/views/clone/ajax/external-database.php:24
+msgid "Database Prefix"
+msgstr "Prefijo de la base de datos"
+
+#: Backend/Pro/views/scan.php:4 Backend/views/clone/ajax/scan.php:18
+msgid "Database Tables"
+msgstr "Tablas de la base de datos"
+
+#: Component/Snapshot/AjaxConfirmRestore.php:63
+#, php-format
+msgid "Database tables for snapshot %s not found."
+msgstr "No se han encontrado tablas de base de datos para instantáneas %s."
+
+#: Component/Snapshot/AjaxConfirmDelete.php:50
+#, php-format
+msgid ""
+"Database tables for snapshot %s not found. You can still <a href=\"%%\" id="
+"\"wpstg-snapshot-force-delete\" data-id=\"%s\">delete the listed snapshot "
+"entry</a>."
+msgstr ""
+"No se han encontrado tablas de base de datos para %s la instantánea. Todavía "
+"puede <a href=\"%%\" id=\"wpstg-snapshot-force-delete\" data-id=\"%s"
+"\">eliminar la entrada de instantánea enumerada.</a>."
+
+#: Backend/views/clone/ajax/delete-confirmation.php:41
+msgid "Database tables to remove"
+msgstr "Tablas de bases de datos para eliminar"
+
+#: Backend/Pro/views/scan.php:20
+msgid "Database: "
+msgstr "Base de datos: "
+
+#: Backend/Modules/Views/Forms/Settings.php:61
+msgid "DB Copy Query Limit"
+msgstr "Límite de consulta de copia de base de datos"
+
+#: Backend/Modules/Views/Forms/Settings.php:75
+msgid "DB Search & Replace Limit"
+msgstr "Búsqueda db & Reemplazar límite"
+
+#: Backend/Pro/views/licensing.php:54
+msgid "Deactivate License"
+msgstr "Desactivar licencia"
+
+#: Backend/Modules/Views/Forms/Settings.php:196
+msgid "Debug Mode"
+msgstr "Modo de Depuración"
+
+#: Backend/Modules/Views/Forms/Settings.php:150
+msgid "Delay Between Requests"
+msgstr "Retraso entre solicitudes"
+
+#: Backend/Pro/views/single-overview-pro.php:37
+#: template/Component/Backend/Snapshot/listing.php:64
+#: template/Component/Backend/Snapshot/confirm-delete.php:38
+#: Backend/views/clone/ajax/single-overview.php:34
+msgid "Delete"
+msgstr "Borrar"
+
+#: Backend/views/clone/ajax/single-overview.php:33
+msgid ""
+"Delete the staging site. You can select certain folders and database tables "
+"in the next step."
+msgstr ""
+"Elimine el sitio de ensayo. Puede seleccionar ciertas carpetas y tablas de "
+"base de datos en el paso siguiente."
+
+#: Backend/Pro/views/single-overview-pro.php:36
+msgid ""
+"Delete this clone. Select specific folders and database tables in the next "
+"step."
+msgstr ""
+"Elimine este clon. Seleccione carpetas específicas y tablas de base de datos "
+"en el paso siguiente."
+
+#: template/Component/Backend/Snapshot/listing.php:63
+msgid "Delete this snapshot. This action can not be undone!"
+msgstr "Elimine esta instantánea. ¡Esta acción no se puede deshacer!"
+
+#: Backend/views/_main/footer.php:15
+msgid "Did not find a solution?"
+msgstr "¿No encontraste una solución?"
+
+#: Backend/Modules/Views/Forms/Settings.php:173
+msgid "Disable admin authorization"
+msgstr "Desactivar la autorización de administración"
+
+#: Backend/views/clone/ajax/start.php:25 Backend/views/clone/ajax/update.php:21
+msgid "Display working log"
+msgstr "Mostrar registro de trabajo"
+
+#: template/Component/Backend/Snapshot/confirm-restore.php:29
+msgid "Do not interrupt the process. Restoring can not be undone!"
+msgstr "No interrumpa el proceso. ¡La restauración no se puede deshacer!"
+
+#: Backend/views/feedback/deactivate-feedback.php:34
+msgid "Don't deactivate"
+msgstr "No desactives"
+
+#: template/Component/Backend/Snapshot/listing.php:51
+msgid "Download snapshot as sql file for backup purposes"
+msgstr "Descargar instantánea como archivo sql con fines de copia de seguridad"
+
+#: template/Component/Backend/Snapshot/listing.php:72
+msgid "Edit"
+msgstr "Editar"
+
+#: template/Component/Backend/Snapshot/listing.php:71
+msgid "Edit snapshot name and / or notes"
+msgstr "Editar el nombre de la instantánea y/o las notas"
+
+#: Core/Utils/Report.php:37
+msgid "Email address is not valid."
+msgstr "La dirección de correo electrónico no es válida."
+
+#: Backend/Pro/views/licensing.php:36
+msgid "Enter License Key to activate WP Staging Pro:"
+msgstr "Introduzca la clave de licencia para activar WP Staging Pro:"
+
+#: template/Component/Backend/Snapshot/confirm-delete.php:17
+msgid "Explanation:"
+msgstr "Explicación:"
+
+#: template/Component/Backend/Snapshot/listing.php:52
+#: Backend/views/tools/tabs/import_export.php:22
+msgid "Export"
+msgstr "Exportar"
+
+#: Backend/views/tools/tabs/import_export.php:5
+msgid "Export Settings"
+msgstr "Ajustes de exportación"
+
+#: Backend/Pro/views/scan.php:85
+msgid "Extra Directories to Copy"
+msgstr "Directorios adicionales para copiar"
+
+#: Backend/views/clone/ajax/scan.php:67
+msgid "Extra directories to copy"
+msgstr "Directorios adicionales para copiar"
+
+#: Component/Snapshot/AjaxDelete.php:53 Component/Snapshot/AjaxDelete.php:58
+#: Component/Snapshot/AjaxDelete.php:72
+#, php-format
+msgid "Failed to delete snapshot table(s) for ID: %s"
+msgstr "No se pudo eliminar las tablas de instantáneas para ID: %s"
+
+#: Component/Snapshot/AjaxExport.php:49
+#, php-format
+msgid "Failed to export the snapshot tables %s"
+msgstr "No se pudieron exportar las tablas de instantáneas %s"
+
+#: Component/Snapshot/AjaxEdit.php:66
+#, php-format
+msgid "Failed to update snapshot ID: %s"
+msgstr "Error al actualizar el ID de instantánea: %s"
+
+#: Backend/views/_main/footer.php:6
+msgid "FAQ"
+msgstr "FAQ"
+
+#: Backend/Modules/Views/Forms/Settings.php:121
+msgid "File Copy Batch Size"
+msgstr "Tamaño del lote de copia de archivos"
+
+#: Backend/Modules/Views/Forms/Settings.php:91
+msgid "File Copy Limit"
+msgstr "Límite de copia de archivos"
+
+#: Backend/views/clone/ajax/scan.php:56
+msgid "Files"
+msgstr "Administrar sus archivos de fuente"
+
+#: Backend/views/clone/ajax/delete-confirmation.php:76
+msgid "Files to remove"
+msgstr "Archivos para eliminar"
+
+#: Backend/views/settings/main-settings.php:30
+#: Backend/Pro/views/licensing.php:22
+msgid "Follow @wpstaging"
+msgstr "Seguir @wpstaging"
+
+#: Backend/views/_main/header.php:21
+msgid "Follow @wpstg"
+msgstr "Seguir @wpstg"
+
+#: Backend/Administrator.php:270
+msgid "General"
+msgstr "General"
+
+#: Backend/Administrator.php:251
+#: Backend/views/clone/ajax/custom-directory.php:34
+msgid "Get WP Staging Pro"
+msgstr "Obtener WP Staging Pro"
+
+#: Backend/views/notices/wrong-scheme.php:4
+#, php-format
+msgid ""
+"Go to <a href=\"%s\" target=\"_blank\">Settings > General</a> and make sure "
+"that WordPress Address (URL) and Site Address (URL) do both contain the same "
+"http / https scheme."
+msgstr ""
+"Vaya a <a href=\"%s\" target=\"_blank\">Configuración > General</a> y "
+"asegúrese de que la dirección (URL) de WordPress y la dirección del sitio "
+"(URL) contienen el mismo esquema http / https."
+
+#: Backend/Modules/Views/Forms/Settings.php:128
+msgid "High (fast)"
+msgstr "Alto (rápido)"
+
+#: Backend/Modules/Jobs/ProcessLock.php:25
+msgid "Hold on, another WP Staging process is already running..."
+msgstr "Espera, otro proceso de WP Staging ya se está ejecutando..."
+
+#. Author URI of the plugin
+msgid "https://wordpress.org/plugins/wp-staging"
+msgstr "https://wordpress.org/plugins/wp-staging"
+
+#. URI of the plugin
+msgid "https://wp-staging.com"
+msgstr "https://wp-staging.com"
+
+#: Backend/views/notices/rating.php:27
+msgid "I already did"
+msgstr "Ya lo he hecho"
+
+#: Backend/views/notices/beta.php:16
+msgid "I understand! (Do not show this again)"
+msgstr "¡Entiendo! (No vuelva a mostrar esto)"
+
+#: Backend/views/notices/rating.php:39
+msgid "I want to rate later - Ask me again in a week"
+msgstr "Quiero calificar más tarde - Pregúntame de nuevo en una semana"
+
+#: Backend/views/settings/main-settings.php:274
+msgid ""
+"If your server uses rate limits it blocks requests and WP Staging can be "
+"interrupted. You can resolve that by adding one or more seconds of delay "
+"between the processing requests. "
+msgstr ""
+"Si el servidor utiliza límites de velocidad, bloquea las solicitudes y WP "
+"Staging puede interrumpirse. Puede resolverlo agregando uno o más segundos "
+"de retraso entre las solicitudes de procesamiento. "
+
+#: Backend/views/tools/tabs/import_export.php:52
+msgid "Import"
+msgstr "Importar"
+
+#: Backend/views/tools/tabs/import_export.php:33
+msgid "Import Settings"
+msgstr "Importar ajustes"
+
+#: Backend/Administrator.php:314
+msgid "Import/Export"
+msgstr "Importar/Exportar"
+
+#: Backend/views/_main/header.php:53
+#, php-format
+msgid ""
+"Important: Please update WP Staging Pro before pushing the staging site to "
+"production site. <a href=\"%s\" target=\"_blank\">What's New? "
+msgstr ""
+"Importante: Actualice WP Staging Pro antes de insertar el sitio de ensayo en "
+"el sitio de producción. <a href=\"%s\" target=\"_blank\">¿Qué hay de nuevo? "
+"</a> "
+
+#: Backend/views/notices/low-memory-limit.php:2
+#, php-format
+msgid ""
+"It's recommended to increase the memory limit to 256M or more! If cloning/"
+"pushing <strong>fails</strong> <a href=\"%s\" target=\"_blank\">increase the "
+"memory limit</a>."
+msgstr ""
+"Se recomienda aumentar el límite de memoria a 256M o más! Si <strong>se "
+"produce un error</strong> en la clonación/inserción, aumente el límite de <a "
+"href=\"%s\" target=\"_blank\">memoria.</a>."
+
+#: Backend/Modules/Views/Forms/Settings.php:184
+msgid "Keep Permalinks"
+msgstr "Mantener Permalinks"
+
+#: Backend/views/settings/main-settings.php:321
+#, php-format
+msgid ""
+"Keep permalinks original setting activated and do not disable permalinks on "
+"staging site. <br/>Read more: <a href=\"%1$s\" target=\"_blank\">Permalink "
+"Settings</a> "
+msgstr ""
+"Mantenga activada la configuración original de permalinks y no deshabilite "
+"los permalinks en el sitio de ensayo. <br/>Leer más: <a href=\"%1$s\" target="
+"\"_blank\">Configuración de Permalink</a> "
+
+#: Backend/Administrator.php:258
+msgid "License"
+msgstr "Clave de licencia"
+
+#: Backend/Modules/Views/Forms/Settings.php:130
+msgid "Low (slow)"
+msgstr "Bajo (lento)"
+
+#: Backend/Pro/views/clone/ajax/custom-directory.php:56
+msgid "Make sure the hostname points to the target directory from above."
+msgstr ""
+"Asegúrese de que el nombre de host apunta al directorio de destino desde "
+"arriba."
+
+#: Component/Snapshot/AjaxCreate.php:35
+msgid "Manual Snapshot"
+msgstr "Instantánea manual"
+
+#: Backend/Modules/Views/Forms/Settings.php:106
+msgid "Maximum File Size (MB)"
+msgstr "Tamaño máximo de archivo (MB)"
+
+#: Backend/views/settings/main-settings.php:201
+#, php-format
+msgid ""
+"Maximum size of the files which are allowed to copy. All files larger than "
+"this value will be skipped.                                              \n"
+"                                                Note: Increase this option "
+"only if you have a good reason. Files larger than a few megabytes are in "
+"99% of all cases log and backup files which are not needed on a staging site."
+msgstr ""
+"Tamaño máximo de los archivos que se permiten copiar. Se omitirán todos los "
+"archivos más grandes que este "
+"valor.                                              \n"
+"                                                Nota: Aumente esta opción "
+"solo si tiene una buena razón. Los archivos más grandes que unos pocos "
+"megabytes están en 99% of todos los casos archivos de registro y copia de "
+"seguridad que no son necesarios en un sitio de ensayo."
+
+#: Backend/Pro/views/scan.php:108
+msgid "Media files will be pushed to: "
+msgstr "Los archivos multimedia se insertarán en: "
+
+#: Backend/Modules/Views/Forms/Settings.php:129
+msgid "Medium (average)"
+msgstr "Medio (promedio)"
+
+#: Backend/views/feedback/deactivate-feedback.php:5
+msgid "Miss a feature"
+msgstr "Echa de menos una función"
+
+#: Backend/views/_main/footer.php:14
+msgid "More"
+msgstr "Daha Fazla Ayrıntıyı Görüntüle"
+
+#: template/Component/Backend/Snapshot/listing.php:31
+msgid "Multisite Users Only: "
+msgstr "Solo usuarios multisitio: "
+
+#: Component/Snapshot/AjaxEdit.php:46
+msgid "No snapshots exist in the system"
+msgstr "No existen instantáneas en el sistema"
+
+#: Backend/views/notices/rating.php:33
+msgid "No, not good enough"
+msgstr "No, no lo suficiente"
+
+#: Backend/views/clone/ajax/delete-confirmation.php:4
+msgid ""
+"Note: The selected tables below will be deleted. <br/>Verify that before you "
+"delete them."
+msgstr ""
+"Nota: Se eliminarán las tablas seleccionadas a continuación. <br/>Compruebe "
+"que antes de eliminarlos."
+
+#: template/Component/Backend/Snapshot/listing.php:92
+msgid "Notes:"
+msgstr "Notas:"
+
+#: Backend/views/settings/main-settings.php:118
+msgid ""
+"Number of DB rows, that are copied within one ajax query.\n"
+"                                                The higher the value the "
+"faster the database copy process.\n"
+"                                                To find out the highest "
+"possible values try a high value like 1.000 or more. If you get timeout "
+"issues, lower it\n"
+"                                                until you get no more errors "
+"during copying process."
+msgstr ""
+"Número de filas de base de datos, que se copian dentro de una consulta "
+"ajax.\n"
+"                                                Cuanto mayor sea el valor, "
+"más rápido será el proceso de copia de la base de datos.\n"
+"                                                Para averiguar los valores "
+"más altos posibles, pruebe un valor alto como 1.000 o más. Si tienes "
+"problemas de tiempo de espera, básigalo\n"
+"                                                hasta que no reciba más "
+"errores durante el proceso de copia."
+
+#: Backend/views/settings/main-settings.php:143
+msgid ""
+"Number of DB rows, that are processed within one ajax query.\n"
+"                                                The higher the value the "
+"faster the database search & replace process.\n"
+"                                                This is a high memory "
+"consumptive process. If you get timeouts lower this value!"
+msgstr ""
+"Número de filas de base de datos que se procesan dentro de una consulta "
+"ajax.\n"
+"                                                Cuanto mayor sea el valor, "
+"más rápido será el proceso de búsqueda y sustitución de la base de datos.\n"
+"                                                Este es un proceso "
+"consumtivo de memoria alta. Si obtienes tiempos de espera bajar este valor!"
+
+#: Backend/views/settings/main-settings.php:168
+msgid ""
+"Number of files to copy that will be copied within one ajax request.\n"
+"                                                The higher the value the "
+"faster the file copy process.\n"
+"                                                To find out the highest "
+"possible values try a high value like 500 or more. If you get timeout "
+"issues, lower it\n"
+"                                                until you get no more errors "
+"during copying process."
+msgstr ""
+"Número de archivos para copiar que se copiarán dentro de una solicitud "
+"ajax.\n"
+"                                                Cuanto mayor sea el valor, "
+"más rápido será el proceso de copia de archivos.\n"
+"                                                Para averiguar los valores "
+"más altos posibles pruebe un valor alto como 500 o más. Si tienes problemas "
+"de tiempo de espera, básigalo\n"
+"                                                hasta que no reciba más "
+"errores durante el proceso de copia."
+
+#: Backend/views/notices/rating.php:21
+msgid "Ok, you deserved it"
+msgstr "De acuerdo, te lo merecías"
+
+#: Backend/views/feedback/deactivate-feedback.php:33
+msgid "Only Deactivate"
+msgstr "Sólo desactivar"
+
+#: Backend/views/feedback/deactivate-feedback.php:3
+msgid "Only temporary"
+msgstr "Sólo temporal"
+
+#: Backend/Pro/views/single-overview-pro.php:27
+#: Backend/views/clone/ajax/single-overview.php:26
+msgid "Open"
+msgstr "Abrir en Nueva ventana"
+
+#: Backend/views/_main/footer.php:17
+#, php-format
+msgid ""
+"Open a <a href=\"%s\" target=\"_blank\" rel=\"external nofollow\">support "
+"ticket</a> and we will resolve it quickly."
+msgstr ""
+"Abra un <a href=\"%s\" target=\"_blank\" rel=\"external nofollow\">ticket de "
+"soporte</a> y lo resolveremos rápidamente."
+
+#: Backend/views/clone/ajax/start.php:47
+msgid "Open Staging Site"
+msgstr "Sitio de ensayo abierto"
+
+#: Backend/Pro/views/single-overview-pro.php:26
+#: Backend/views/clone/ajax/single-overview.php:25
+msgid "Open the staging site in a new tab"
+msgstr "Abra el sitio de ensayo en una nueva pestaña"
+
+#: Backend/Modules/Views/Forms/Settings.php:161
+msgid "Optimizer"
+msgstr "Optimizer"
+
+#: Backend/views/_main/report-issue.php:15
+#, php-format
+msgid ""
+"Optional: Submit the <a href=\"%s\" target=\"_blank\">System Log</a> and "
+"your WordPress debug log. This helps us to resolve your technical issues."
+msgstr ""
+"Opcional: Envíe el <a href=\"%s\" target=\"_blank\">registro del sistema</a> "
+"y su registro de depuración de WordPress. Esto nos ayuda a resolver sus "
+"problemas técnicos."
+
+#: Backend/views/feedback/deactivate-feedback.php:11
+msgid "Other reason"
+msgstr "Otra razón"
+
+#: Backend/views/notices/wrong-scheme.php:6
+msgid "Otherwise your staging site will not be reachable after creation."
+msgstr ""
+"De lo contrario, el sitio de ensayo no será accesible después de la creación."
+
+#: Backend/Modules/Jobs/Directories.php:382
+#: Backend/Modules/Jobs/Multisite/Directories.php:493
+#: Backend/Pro/Modules/Jobs/ScanDirectories.php:297
+#: Backend/Pro/Modules/Jobs/Multisite/ScanDirectories.php:395
+msgid "Out of disk space."
+msgstr "Fuera del espacio en disco."
+
+#: Backend/views/clone/single-site/index.php:4
+msgid "Overview"
+msgstr "Resumen"
+
+#: Backend/views/notices/rating.php:7
+#, php-format
+msgid ""
+"P.S. Looking for a way to migrate the staging site database and copy plugins "
+"and theme files from staging to live site?<br/>\n"
+"           Try out <a href=\"%1$s\" target=\"_blank\" style=\"color:white;"
+"font-weight:bold;\">WP Staging Pro</a>\n"
+"                "
+msgstr ""
+"P.S. ¿Busca una manera de migrar la base de datos del sitio de ensayo y "
+"copiar plugins y archivos de temas desde el ensayo hasta el sitio en vivo?"
+"<br/>Prueba <a href=\"%1$s\" target=\"_blank\" style=\"color:white;font-"
+"weight:bold;\">WP Staging Pro</a>\n"
+"                "
+
+#: Backend/views/_main/footer.php:13
+msgid "Page not found – Error 404 after Pushing"
+msgstr "Página no encontrada – Error 404 después de empujar"
+
+#: Backend/Pro/views/clone/ajax/external-database.php:18
+msgid "Password"
+msgstr "Contraseña"
+
+#: Backend/Pro/views/clone/ajax/custom-directory.php:8
+msgid ""
+"Path must be writeable by PHP and an absolute path like <code>/www/"
+"public_html/dev</code>"
+msgstr ""
+"El camino debe ser escrito por PHP y un camino absoluto como <code>/www/"
+"public_html/dev</code>"
+
+#: Backend/views/clone/ajax/custom-directory.php:7
+msgid ""
+"Path must be writeable by PHP and an absolute path like <code>/www/"
+"public_html/dev</code>."
+msgstr ""
+"La ruta de acceso debe ser escribirse por PHP y una ruta absoluta como "
+"<code>/www/public_html/dev</code> ."
+
+#: Component/Snapshot/AjaxExport.php:62
+msgid "PHP PDO extension not found. "
+msgstr "Php PDO extensión no se encuentra. "
+
+#: Core/Utils/Report.php:41
+msgid "Please accept our privacy policy."
+msgstr "Por favor, acepte nuestra política de privacidad."
+
+#: Core/Utils/Report.php:39
+msgid "Please enter your issue."
+msgstr "Por favor, introduzca su problema."
+
+#: Backend/views/feedback/deactivate-feedback.php:21
+msgid "Please let us know why you are deactivating:"
+msgstr ""
+"Si tiene un momento, por favor, háganos saber por qué está desactivando:"
+
+#: Backend/views/clone/ajax/start.php:51
+msgid "Please read this first:"
+msgstr "Por favor, lea esto primero:"
+
+#: Backend/views/feedback/deactivate-feedback.php:12
+msgid "Please specify, if possible"
+msgstr "Por favor, especifique, si es posible"
+
+#: Backend/Administrator.php:367
+msgid "Please upload a file to import"
+msgstr "Por favor sube un archivo para importar"
+
+#: Backend/Pro/views/scan.php:104
+msgid "Plugin files will be pushed to: "
+msgstr "Los archivos del plugin se insertarán en: "
+
+#: Backend/Pro/views/scan.php:123 Backend/views/clone/ajax/start.php:2
+#: Backend/views/clone/ajax/update.php:2
+msgid "Processing, please wait..."
+msgstr "Procesando, espera por favor..."
+
+#: Component/Snapshot/AjaxConfirmRestore.php:55
+msgid "Production (live) database tables not found."
+msgstr "No se han encontrado tablas de base de datos de producción (en vivo)."
+
+#: Backend/Pro/views/single-overview-pro.php:43
+msgid ""
+"Push and overwrite current website with this cloned site. Select specific "
+"folders and database tables in the next step."
+msgstr ""
+"Empuje y sobrescriba el sitio web actual con este sitio clonado. Seleccione "
+"carpetas específicas y tablas de base de datos en el paso siguiente."
+
+#: Backend/Pro/views/single-overview-pro.php:44
+msgid "Push Changes"
+msgstr "Cambios de empuje"
+
+#: Backend/Pro/views/scan.php:153
+msgid "Push Staging Site to Live Site"
+msgstr "Empuje el sitio de ensayo al sitio en vivo"
+
+#: Backend/views/_main/header.php:34
+msgid "Push staging site to production website"
+msgstr "Empuje el sitio de ensayo al sitio web de producción"
+
+#: Backend/views/clone/single-site/index.php:16
+msgid "Pushing"
+msgstr "Empujando"
+
+#: Backend/views/clone/ajax/delete-confirmation.php:101
+msgid "Remove"
+msgstr "Retirar"
+
+#: Backend/Modules/Views/Forms/Settings.php:206
+msgid "Remove Data on Uninstall?"
+msgstr "Eliminar todos los datos al desinstalar?"
+
+#: Backend/views/clone/single-site/index.php:20
+msgid "Report Issue"
+msgstr "Informe de problema"
+
+#: template/Component/Backend/Snapshot/listing.php:58
+msgid "Restore"
+msgstr "Restaurar"
+
+#: template/Component/Backend/Snapshot/confirm-restore.php:84
+msgid "Restore Snapshot"
+msgstr "Restaurar instantánea"
+
+#: template/Component/Backend/Snapshot/listing.php:57
+msgid "Restore this snapshot to your live website!"
+msgstr "¡Restaura esta instantánea en tu sitio web en vivo!"
+
+#: template/Component/Backend/Snapshot/restore-progress.php:5
+msgid "Restoring Snapshot"
+msgstr "Restauración de instantáneas"
+
+#: Backend/views/clone/ajax/start.php:21
+msgid "Resume"
+msgstr "Reanudar"
+
+#: Backend/views/clone/single-site/index.php:8
+msgid "Scanning"
+msgstr "Escaneando"
+
+#: Backend/Pro/views/scan.php:71
+msgid "Select Files"
+msgstr "Seleccionar Archivos"
+
+#: Backend/views/clone/ajax/scan.php:61
+msgid "Select folders to copy. Click on folder name to list subfolders!"
+msgstr ""
+"Seleccione las carpetas que desea copiar. Haga clic en el nombre de la "
+"carpeta para enumerar subcarpetas!"
+
+#: Backend/views/clone/ajax/scan.php:27
+msgid ""
+"Select multiple tables by pressing left mouse button and moving or by "
+"pressing STRG+Left Mouse button. (Mac ⌘+Left Mouse Button)"
+msgstr ""
+"Seleccione varias tablas pulsando el botón izquierdo del ratón y moviéndose "
+"o pulsando el botón STRG+Left Mouse. (Mac 【+Botón izquierdo del ratón)"
+
+#: Backend/Pro/views/scan.php:76
+msgid "Select plugins, themes & uploads folder to push to production website."
+msgstr ""
+"Seleccione plugins, temas y sube carpeta para insertar en el sitio web de "
+"producción."
+
+#: Backend/Pro/views/scan.php:10
+msgid "Select tables to push to production website"
+msgstr "Seleccione tablas para insertar en el sitio web de producción"
+
+#: Backend/views/clone/ajax/scan.php:24
+#, php-format
+msgid ""
+"Select the tables to copy. Tables beginning with the prefix '%s' have "
+"already been selected."
+msgstr ""
+"Seleccione las tablas que desea copiar. Ya se han seleccionado tablas que "
+"comienzan con el prefijo '%s'."
+
+#: Backend/views/settings/main-settings.php:431
+msgid ""
+"Select the user role you want to give access to the staging site. You can "
+"select multiple roles by holding CTRL or ⌘ Cmd key while clicking. "
+"<strong>Change this option on the staging site if you want to change the "
+"authentication behavior there.</strong>"
+msgstr ""
+"Seleccione el rol de usuario que desea dar acceso al sitio de ensayo. Puede "
+"seleccionar varios roles manteniendo presionada la tecla CTRL o ‣ Cmd "
+"mientras hace clic. <strong>Cambie esta opción en el sitio de ensayo si "
+"desea cambiar el comportamiento de autenticación allí.</strong>"
+
+#: Backend/views/clone/ajax/delete-confirmation.php:82
+msgid ""
+"Selected folder and all of its subfolders and files will be deleted. <br/"
+">Unselect it if you want to keep the staging site file data."
+msgstr ""
+"Se eliminarán la carpeta seleccionada y todas sus subcarpetas y archivos. "
+"<br/>Anule la selección si desea conservar los datos del archivo de sitio de "
+"ensayo."
+
+#: Backend/Pro/views/clone/ajax/custom-directory.php:54
+msgid ""
+"Set the hostname of the target site, for instance https://example.com or "
+"https://example.com/staging"
+msgstr ""
+"Establezca el nombre de host del sitio de destino, por ejemplo, https://"
+"example.com o https://example.com/staging"
+
+#: Backend/Administrator.php:240 Backend/Pluginmeta/Pluginmeta.php:42
+msgid "Settings"
+msgstr "Ajustes"
+
+#: Backend/Administrator.php:187
+msgid "Settings updated."
+msgstr "Ajustes actualizados."
+
+#: Backend/views/settings/main-settings.php:40
+#: Backend/views/_main/header.php:28 Backend/Pro/views/licensing.php:29
+msgid "Share on Facebook"
+msgstr "Compartir en Facebook"
+
+#: Backend/Administrator.php:235
+msgid "Sites / Start"
+msgstr "Sitios / Inicio"
+
+#: Backend/views/_main/footer.php:11
+msgid "Skip WooCommerce Orders and Products"
+msgstr "Omitir pedidos y productos de WooCommerce"
+
+#: Component/Snapshot/AjaxConfirmDelete.php:42
+#: Component/Snapshot/AjaxConfirmRestore.php:45
+#, php-format
+msgid "Snapshot %s not found."
+msgstr "No se han encontrado %s de instantáneas."
+
+#: Backend/Pro/Modules/Jobs/Processing.php:412
+#, php-format
+msgid ""
+"Snapshot automatically created before pushing staging site: %s. You can use "
+"this snapshot to revert last push action."
+msgstr ""
+"Instantánea creada automáticamente antes de insertar el sitio de ensayo: %s. "
+"Puede usar esta instantánea para revertir la última acción de inserción."
+
+#: Component/Snapshot/AjaxEdit.php:55
+#, php-format
+msgid "Snapshot ID: %s not found"
+msgstr "ID de instantánea: no se ha encontrado %s"
+
+#: Component/Snapshot/AjaxCreate.php:36
+msgid "Snapshot manually created by user action."
+msgstr "Instantánea creada manualmente por la acción del usuario."
+
+#: Backend/views/clone/index.php:17
+msgid "Snapshots"
+msgstr "Instantáneas"
+
+#: template/Component/Backend/Snapshot/listing.php:21
+msgid ""
+"Snapshots are copies of the WordPress database tables at a particular point "
+"in time. \n"
+"    They can restore WordPress and roll back the database to another state."
+"<br><br>\n"
+"    This is useful if you need to reset WordPress to the state before you've "
+"pushed a staging site to live or if you want to revert other database "
+"changes \n"
+"    like activating a new theme or updating its settings.<br><br>\n"
+"    WP Staging Snapshots include all WordPress core tables and custom ones "
+"created by other plugins.\n"
+"    Restoring a snapshot will not affect other staging sites or snapshots. "
+"<br><br>\n"
+"    No files are included in snapshots! WP Staging snapshots are a quick way "
+"to roll back your site in time but for a full site backup it is recommended "
+"to use a dedicated backup plugin!\n"
+msgstr ""
+"Las instantáneas son copias de las tablas de base de datos de WordPress en "
+"un momento determinado. \n"
+"    Pueden restaurar WordPress y revertir la base de datos a otro estado."
+"<br><br>Esto es útil si necesita restablecer WordPress al estado antes de "
+"haber empujado un sitio de ensayo a vivir o si desea revertir otros cambios "
+"en la base de datos \n"
+"    como activar un nuevo tema o actualizar su configuración.<br><br>Las "
+"instantáneas de almacenamiento en escena de WP incluyen todas las tablas "
+"principales de WordPress y las personalizadas creadas por otros plugins.\n"
+"    La restauración de una instantánea no afectará a otros sitios de ensayo "
+"o instantáneas. <br><br>¡No se incluyen archivos en las instantáneas! Las "
+"instantáneas de WP Staging son una forma rápida de revertir su sitio a "
+"tiempo, pero para una copia de seguridad completa del sitio se recomienda "
+"utilizar un plugin de copia de seguridad dedicado!\n"
+
+#: Backend/Pro/views/clone/ajax/custom-directory.php:52
+msgid "Specify Target Hostname"
+msgstr "Especificar nombre de host de destino"
+
+#: Backend/views/settings/main-settings.php:450
+msgid ""
+"Specify users who will have access to the staging site regardless of their "
+"role. You can enter multiple user names separated by a comma. <strong>Change "
+"this option on the staging site if you want to change the authentication "
+"behavior there.</strong>"
+msgstr ""
+"Especifique los usuarios que tendrán acceso al sitio de ensayo "
+"independientemente de su rol. Puede introducir varios nombres de usuario "
+"separados por una coma. <strong>Cambie esta opción en el sitio de ensayo si "
+"desea cambiar el comportamiento de autenticación allí.</strong>"
+
+#: Backend/views/welcome/welcome.php:8
+msgid "Staging Site is available to authenticated users only"
+msgstr "Staging Site solo está disponible para usuarios autenticados"
+
+#: Backend/views/clone/ajax/scan.php:2
+msgid "Staging Site Name:"
+msgstr "Nombre del sitio de ensayo:"
+
+#: Backend/views/_main/footer.php:8
+msgid "Staging site redirects to production site"
+msgstr "Sitio de ensayo redirige al sitio de producción"
+
+#: Backend/views/_main/footer.php:9
+msgid "Staging site returns blank white page"
+msgstr "Sitio de ensayo devuelve página blanca en blanco"
+
+#: Backend/views/clone/index.php:12
+msgid "Staging Sites"
+msgstr "Sitios de ensayo"
+
+#: Backend/views/clone/ajax/scan.php:129
+msgid "Start Cloning"
+msgstr "Empezar a clonar"
+
+#: Backend/Pluginmeta/Pluginmeta.php:63
+msgid "Start Now"
+msgstr "Empezar ahora"
+
+#: Backend/views/clone/ajax/process-lock.php:10
+msgid "Stop other process"
+msgstr "Detener otro proceso"
+
+#: Backend/views/_main/report-issue.php:29
+msgid "Submit"
+msgstr "Enviar"
+
+#: Backend/views/feedback/deactivate-feedback.php:32
+msgid "Submit & Deactivate"
+msgstr "Enviar y desactivar"
+
+#: Backend/views/feedback/deactivate-feedback.php:9
+msgid "Switched to another plugin/staging solution"
+msgstr "Cambiado a otra solución de plugin/ensayo"
+
+#: Backend/Administrator.php:315
+msgid "System Info"
+msgstr "Información del sistema"
+
+#: template/Component/Backend/Snapshot/listing.php:79
+msgid "Table Prefix:"
+msgstr "Prefijo de la tabla:"
+
+#: Backend/Pro/views/scan.php:22
+msgid "Table Prefix: "
+msgstr "Prefijo de tabla: "
+
+#: template/Component/Backend/Snapshot/confirm-restore.php:19
+msgid "Take care: This will overwrite your database!"
+msgstr "Cuídate: ¡Esto sobrescribirá tu base de datos!"
+
+#: template/Component/Backend/Snapshot/listing.php:16
+msgid "Take New Snapshot"
+msgstr "Tome una nueva instantánea"
+
+#: Backend/Pro/views/clone/ajax/custom-directory.php:30
+msgid "Target Directory:"
+msgstr "Directorio de destino:"
+
+#: Backend/views/feedback/deactivate-feedback.php:7
+msgid "Technical Issue"
+msgstr "Tema técnico"
+
+#: Backend/views/clone/ajax/external-database.php:18
+#: Backend/Pro/views/clone/ajax/external-database.php:28
+msgid "Test Database Connection"
+msgstr "Conexión de base de datos de prueba"
+
+#: Backend/views/clone/ajax/custom-directory.php:32
+msgid "That's a Pro Feature"
+msgstr "Esa es una característica profesional"
+
+#: template/Component/Backend/Snapshot/confirm-delete.php:15
+msgid ""
+"The database tables below contain the snapshot data. Are you sure that you "
+"want to delete all these tables? This action can not be undone!"
+msgstr ""
+"Las tablas de base de datos siguientes contienen los datos de instantáneas. "
+"¿Está seguro de que desea eliminar todas estas tablas? ¡Esta acción no se "
+"puede deshacer!"
+
+#: Backend/views/settings/main-settings.php:366
+msgid ""
+"The Optimizer is a mu plugin which disables all other plugins during WP "
+"Staging processing. Usually this makes the cloning process more reliable. If "
+"you experience issues, disable the Optimizer."
+msgstr ""
+"El Optimizador es un plugin mu que desactiva todos los demás plugins durante "
+"el procesamiento de WP Staging. Por lo general, esto hace que el proceso de "
+"clonación sea más confiable. Si experimenta problemas, deshabilite el "
+"Optimizador."
+
+#: template/Component/Backend/Snapshot/confirm-restore.php:25
+msgid ""
+"The production tables will be overwritten with the snapshot ones and the "
+"WordPress database will be restored to another point in time."
+msgstr ""
+"Las tablas de producción se sobrescribirán con las instantáneas y la base de "
+"datos de WordPress se restaurará a otro punto en el tiempo."
+
+#: Backend/Pro/views/scan.php:106
+msgid "Theme files will be pushed to: "
+msgstr "Los archivos de tema se insertarán en: "
+
+#: template/Component/Backend/Snapshot/confirm-restore.php:35
+msgid "These production tables will be overwritten:"
+msgstr "Estas tablas de producción se sobrescribirán:"
+
+#: template/Component/Backend/Snapshot/confirm-restore.php:56
+msgid "These snapshot tables will be restored:"
+msgstr "Estas tablas de instantáneas se restaurarán:"
+
+#: Backend/views/tools/tabs/import_export.php:11
+msgid "This allows you to easily import the configuration into another site."
+msgstr "Esto le permite importar fácilmente la configuración a otro sitio."
+
+#: template/Component/Backend/Snapshot/confirm-delete.php:13
+msgid "This snapshot will be deleted."
+msgstr "Esta instantánea se eliminará."
+
+#: Backend/views/clone/staging-site/index.php:2
+msgid ""
+"This staging site can be pushed and modified with WP Staging Pro plugin "
+"installed on your production site! Open WP Staging Pro on your production "
+"site and start the pushing process from there!"
+msgstr ""
+"¡Este sitio de ensayo se puede empujar y modificar con el plugin WP Staging "
+"Pro instalado en su sitio de producción! ¡Abra WP Staging Pro en su sitio de "
+"producción e inicie el proceso de empuje desde allí!"
+
+#: Backend/Modules/Jobs/Database.php:152
+msgid ""
+"This staging site is located in another database and needs to be edited with "
+"<a href='https://wp-staging.com' target='_blank'>WP Staging Pro</a>"
+msgstr ""
+"Este sitio de ensayo se encuentra en otra base de datos y necesita ser "
+"editado con <a href='https://wp-staging.com' target='_blank'>WP Staging Pro</"
+"a>"
+
+#: template/Component/Backend/Snapshot/confirm-restore.php:63
+msgid "This table is different compared to its production equivalent."
+msgstr ""
+"Esta tabla es diferente en comparación con su equivalente de producción."
+
+#: template/Component/Backend/Snapshot/confirm-restore.php:42
+msgid "This table is different compared to its snapshot equivalent."
+msgstr ""
+"Esta tabla es diferente en comparación con su equivalente de instantánea."
+
+#: Backend/views/settings/main-settings.php:345
+msgid ""
+"This will enable an extended debug mode which creates additional entries\n"
+"                                                in <strong>wp-content/"
+"uploads/wp-staging/logs/logfile.log</strong>.\n"
+"                                                <strong>Do NOT activate this "
+"until we ask you to do so!</strong>"
+msgstr ""
+"Esto habilitará un modo de depuración extendido que crea entradas "
+"adicionales\n"
+"                                                en <strong>wp-content/"
+"uploads/wp-staging/logs/logfile.log</strong>.\n"
+"                                                <strong>¡NO actives esto "
+"hasta que te pidamos que lo hagas!</strong>"
+
+#: template/Component/Backend/Snapshot/confirm-restore.php:27
+msgid ""
+"This will not delete any tables that are existing on the production site but "
+"not in the snapshot. If you want to remove them you will need to delete them "
+"manually."
+msgstr ""
+"Esto no eliminará ninguna tabla que exista en el sitio de producción, pero "
+"no en la instantánea. Si desea eliminarlos tendrá que eliminarlos "
+"manualmente."
+
+#: Backend/Administrator.php:245
+msgid "Tools"
+msgstr "Herramientas"
+
+#: Backend/views/_main/header.php:34
+msgid "Tutorial:"
+msgstr "Videotutorial:"
+
+#: Backend/views/settings/main-settings.php:21
+#: Backend/views/_main/header.php:14 Backend/Pro/views/licensing.php:15
+msgid "Tweet #wpstaging"
+msgstr "Tweet #wpstaging"
+
+#: Backend/Modules/Jobs/Directories.php:357
+#: Backend/Modules/Jobs/Multisite/Directories.php:470
+#: Backend/Pro/Modules/Jobs/ScanDirectories.php:273
+#: Backend/Pro/Modules/Jobs/Multisite/ScanDirectories.php:371
+#, php-format
+msgid "Unable to open %s with mode %s"
+msgstr "No se puede abrir %s con el modo %s"
+
+#: Backend/Modules/Jobs/Directories.php:378
+#: Backend/Modules/Jobs/Multisite/Directories.php:490
+#: Backend/Pro/Modules/Jobs/ScanDirectories.php:293
+#: Backend/Pro/Modules/Jobs/Multisite/ScanDirectories.php:391
+#, php-format
+msgid "Unable to write to: %s"
+msgstr "No se puede escribir en: %s"
+
+#: Backend/Pro/views/scan.php:27 Backend/Pro/views/scan.php:65
+#: Backend/views/clone/ajax/scan.php:33 Backend/views/clone/ajax/scan.php:49
+msgid "Unselect All"
+msgstr "Deseleccionar todo"
+
+#: Backend/views/clone/ajax/delete-confirmation.php:47
+msgid "Unselect all database tables you do not want to delete:"
+msgstr ""
+"Anule la selección de todas las tablas de base de datos que no desea "
+"eliminar:"
+
+#: Backend/Pro/views/single-overview-pro.php:32
+#: Backend/views/clone/ajax/single-overview.php:30
+msgid "Update"
+msgstr "Admin - Afiliado actualizar perfil"
+
+#: Backend/views/clone/ajax/single-overview.php:29
+msgid ""
+"Update and overwrite the staging site. You can select certain folders and "
+"database tables in the next step."
+msgstr ""
+"Actualice y sobrescriba el sitio de ensayo. Puede seleccionar ciertas "
+"carpetas y tablas de base de datos en el paso siguiente."
+
+#: Backend/Pro/views/single-overview-pro.php:31
+msgid ""
+"Update and overwrite this clone. Select folders and database tables in the "
+"next step."
+msgstr ""
+"Actualice y sobrescriba este clon. Seleccione carpetas y tablas de base de "
+"datos en el paso siguiente."
+
+#: Backend/views/clone/ajax/scan.php:124
+msgid "Update Clone"
+msgstr "Actualizar clon"
+
+#: template/Component/Backend/Snapshot/listing.php:86
+msgid "Updated on:"
+msgstr "Actualizado en:"
+
+#: Backend/Pro/views/clone/ajax/external-database.php:15
+msgid "User"
+msgstr "Usuario"
+
+#: Backend/Modules/Views/Forms/Settings.php:230
+msgid "Users With Staging Access"
+msgstr "Usuarios con acceso provisional"
+
+#: Backend/views/settings/main-settings.php:250
+msgid ""
+"Using high will result in fast as possible processing but the cpu load\n"
+"                                                increases and it's also "
+"possible that staging process gets interrupted because of too many ajax "
+"requests\n"
+"                                                (e.g. <strong>authorization "
+"error</strong>).\n"
+"                                                Using a lower value results "
+"in lower cpu load on your server but also slower staging site creation."
+msgstr ""
+"El uso alto dará lugar a un procesamiento lo más rápido posible, pero la "
+"carga de la cpu\n"
+"                                                aumenta y también es posible "
+"que el proceso de ensayo se interrumpa debido a demasiadas solicitudes ajax\n"
+"                                                (por ejemplo, <strong>error "
+"de autorización).</strong>\n"
+"                                                El uso de un valor inferior "
+"da como resultado una menor carga de cpu en el servidor, pero también una "
+"creación de sitios de ensayo más lenta."
+
+#: template/Component/Backend/Snapshot/listing.php:18
+msgid "What is this?"
+msgstr "Qué es esto?"
+
+#: Backend/views/clone/multi-site/index.php:2
+#, php-format
+msgid ""
+"WordPress Multisite is not supported! Upgrade to <a href=\"%s\" target="
+"\"_blank\">WP Staging Pro</a>"
+msgstr ""
+"¡WordPress Multisite no es compatible! Actualización a <a href=\"%s\" target="
+"\"_blank\">WP Staging Pro</a>"
+
+#: Backend/Pro/Licensing/Licensing.php:279
+msgid "WP Staging - Can not activate license key! "
+msgstr "WP Staging - ¡No se puede activar la clave de licencia! "
+
+#: Backend/Notices/Notices.php:196 Backend/views/notices/transient.php:7
+msgid ""
+"WP Staging and WP Staging Pro cannot both be active. We've automatically "
+"deactivated WP Staging Pro."
+msgstr ""
+"WP Staging y WP Staging Pro no pueden estar activos. Hemos desactivado "
+"automáticamente WP Staging Pro."
+
+#: Backend/Notices/Notices.php:194 Backend/views/notices/transient.php:6
+msgid ""
+"WP Staging and WP Staging Pro cannot both be active. We've automatically "
+"deactivated WP Staging."
+msgstr ""
+"WP Staging y WP Staging Pro no pueden estar activos. Hemos desactivado "
+"automáticamente WP Staging."
+
+#: Backend/views/notices/staging-directory-permission-problem.php:4
+#, php-format
+msgid ""
+"WP Staging Folder Permission error:</strong>\n"
+"        %1$s is not write and/or readable.\n"
+"        <br>\n"
+"        Check if the folder <strong>%1$s</strong> is writeable by php user "
+"%2$s or www-data .\n"
+"        File permissions should be chmod 755 or 777."
+msgstr ""
+"Error de permiso de carpeta de almacenamiento provisional de WP: \n"
+"        %1$s no es escribir ni legible.        <br>Compruebe si la carpeta "
+"<strong>%1$s</strong> es escriturable por el usuario php %2$s o www-data .\n"
+"        Los permisos de archivo deben ser chmod 755 o 777."
+
+#: Backend/views/notices/wrong-scheme.php:3
+msgid "WP Staging HTTP/HTTPS Scheme Error:"
+msgstr "Error de esquema HTTP/HTTPS de WP Staging:"
+
+#: Backend/views/welcome/welcome.php:10
+msgid "WP Staging is coded well for protection of your data"
+msgstr "WP Staging está bien codificado para la protección de sus datos"
+
+#: Backend/views/notices/beta.php:4
+msgid ""
+"WP Staging is well tested and we did a lot to catch every possible error "
+"but\n"
+"        we can not handle all possible combinations of server, plugins and "
+"themes. <br>\n"
+"        <strong>BEFORE</strong> you create your first staging site it´s "
+"highly recommended\n"
+"        <strong>to make a full backup of your website</strong> first!"
+msgstr ""
+"WP Staging está bien probado e hicimos mucho para detectar todos los errores "
+"posibles, pero\n"
+"        no podemos manejar todas las combinaciones posibles de servidor, "
+"plugins y temas. <br>\n"
+"        <strong>ANTES de</strong> crear el primer sitio de ensayo, es muy "
+"recomendable\n"
+"        <strong>para hacer una copia de seguridad completa de su sitio web</"
+"strong> primero!"
+
+#: Backend/Administrator.php:235
+msgid "WP Staging Jobs"
+msgstr "Trabajos de puesta en escena de WP"
+
+#: Backend/Administrator.php:258
+msgid "WP Staging License"
+msgstr "Licencia de puesta en escena de WP"
+
+#. Name of the plugin
+#: Backend/views/welcome/welcome.php:4
+msgid "WP Staging Pro"
+msgstr "WP Staging Pro"
+
+#: Backend/views/_main/header.php:52
+#, php-format
+msgid "WP Staging Pro %s is available!"
+msgstr "¡WP Staging Pro %s está disponible!"
+
+#: Backend/views/welcome/welcome.php:11
+msgid ""
+"WP Staging Pro allows to clone and push Multisites, (main site & sub sites)"
+msgstr ""
+"WP Staging Pro permite clonar y empujar multisitios (sitio principal y "
+"subsitios)"
+
+#: Backend/Administrator.php:240
+msgid "WP Staging Settings"
+msgstr "Configuración de wp staging"
+
+#: template/Component/Backend/Snapshot/confirm-restore.php:15
+msgid ""
+"WP Staging snapshot restoring works well but is a new feature in beta "
+"status. Please use it on your own risk and have a backup of your site before "
+"using it. <br>If you experience an issue or you have a feature request <a "
+"href=\"#\" id=\"wpstg-snapshots-report-issue-button\">please give us some "
+"feedback.</a>"
+msgstr ""
+"La restauración de instantáneas de WP Staging funciona bien, pero es una "
+"nueva característica en el estado beta. Por favor, úsalo bajo su propio "
+"riesgo y haz una copia de seguridad de tu sitio antes de usarlo. <br>Si "
+"experimenta un problema o tiene una solicitud de <a href=\"#\" id=\"wpstg-"
+"snapshots-report-issue-button\">función, por favor, dénos algunos "
+"comentarios.</a>"
+
+#: template/Component/Backend/Snapshot/listing.php:11
+msgid ""
+"WP Staging snapshots work well but is a new feature in beta status. Please "
+"use it on your own risk and have a backup of your site before using it. "
+"<br>If you experience an issue or you have a feature request <a href=\"#\" "
+"id=\"wpstg-snapshots-report-issue-button\">please give us some feedback.</a>"
+msgstr ""
+"Las instantáneas de WP Staging funcionan bien, pero es una nueva "
+"característica en el estado beta. Por favor, úsalo bajo su propio riesgo y "
+"haz una copia de seguridad de tu sitio antes de usarlo. <br>Si experimenta "
+"un problema o tiene una solicitud de <a href=\"#\" id=\"wpstg-snapshots-"
+"report-issue-button\">función, por favor, dénos algunos comentarios.</a>"
+
+#: Backend/views/clone/ajax/start.php:39
+#, php-format
+msgid ""
+"WP Staging successfully created a staging site in a sub-directory of your "
+"main site accessable from:<br><strong><a href=\"%1$s\" target=\"_blank\" id="
+"\"wpstg-clone-url-1\">%1$s</a></strong>"
+msgstr ""
+"WP Staging creó correctamente un sitio de ensayo en un sub-directorio de su "
+"sitio principal accesible desde:<br><strong><a href=\"%1$s\" target=\"_blank"
+"\" id=\"wpstg-clone-url-1\">%1$s</a></strong>"
+
+#: Backend/Administrator.php:245
+msgid "WP Staging Tools"
+msgstr "Herramientas de puesta en escena de WP"
+
+#: Backend/Administrator.php:251
+msgid "WP Staging Welcome"
+msgstr "Bienvenida a WP Staging"
+
+#. Author of the plugin
+msgid "WP-Staging"
+msgstr "Wp-Staging"
+
+#: Backend/Pro/views/licensing.php:45
+msgid "You'll get updates and support until "
+msgstr "Recibirás actualizaciones y soporte hasta "
+
+#: Backend/Pro/views/licensing.php:43
+msgid "Your license expired on "
+msgstr "Tu licencia ha caducado "
+
+#: template/Component/Backend/Snapshot/listing.php:41
+msgid "Your Snapshots:"
+msgstr "Sus instantáneas:"
+
+#: Backend/Pro/views/single-overview-pro.php:12
+#: Backend/views/clone/ajax/single-overview.php:11
+msgid "Your Staging Sites:"
+msgstr "Sus sitios de ensayo:"
